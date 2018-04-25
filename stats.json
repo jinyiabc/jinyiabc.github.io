@@ -25,12 +25,12 @@
       "component---src-layouts-index-js-4b484c617fa44a377570.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-648192e2ae0aaed10ea8.js",
-      "path---hi-folks-648192e2ae0aaed10ea8.js.map"
+      "path---hi-folks-99047d7fedf6ba7e4b3c.js",
+      "path---hi-folks-99047d7fedf6ba7e4b3c.js.map"
     ],
     "path---index": [
-      "path---index-fb7920b02446c87b3d44.js",
-      "path---index-fb7920b02446c87b3d44.js.map"
+      "path---index-c320581a98d90c831838.js",
+      "path---index-c320581a98d90c831838.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-f8879a00191a7d2f0ce0.js",
@@ -55,10 +55,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-93b9942621f1d1505bca.js",
+      "app-271f6799d27f0f91fcfb.js",
       "build-js-styles.css",
-      "app-93b9942621f1d1505bca.js.map",
+      "app-271f6799d27f0f91fcfb.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---new-blog": [
+      "path---new-blog-2b7fc64acd677c9555b9.js",
+      "path---new-blog-2b7fc64acd677c9555b9.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
