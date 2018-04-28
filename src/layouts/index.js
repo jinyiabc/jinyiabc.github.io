@@ -43,7 +43,7 @@ class Template extends React.Component {
             marginBottom: rhythm(-1),
           }}
         >
-          <Link
+          {/* <Link
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
@@ -52,7 +52,7 @@ class Template extends React.Component {
             to={'/'}
           >
             Gatsby Starter Blog
-          </Link>
+          </Link> */}
         </h3>
       )
     }
