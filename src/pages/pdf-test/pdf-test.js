@@ -1,5 +1,6 @@
 import React from 'react';
 import PDF from 'react-pdf-js';
+import kjhVita from './kjh-vita.pdf';
 
 class MyPdfViewer extends React.Component {
   state = {};
@@ -47,7 +48,7 @@ class MyPdfViewer extends React.Component {
     return (
       <div>
         <PDF
-          file="kjh-vita.pdf"
+          file={kjhVita}
           onDocumentComplete={this.onDocumentComplete}
           onPageComplete={this.onPageComplete}
           page={this.state.page}
