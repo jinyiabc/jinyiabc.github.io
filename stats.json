@@ -4,6 +4,10 @@
       "component---src-pages-index-js-5896dd0dcedc627d3205.js",
       "component---src-pages-index-js-5896dd0dcedc627d3205.js.map"
     ],
+    "component---src-pages-pdf-embed-js": [
+      "component---src-pages-pdf-embed-js-e881ad23c19f84d2d2a3.js",
+      "component---src-pages-pdf-embed-js-e881ad23c19f84d2d2a3.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -46,14 +50,18 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---pdf-embed": [
+      "path---pdf-embed-a0e39f21c11f6a62c5ab.js",
+      "path---pdf-embed-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---pdf-test-pdf-test": [
       "path---pdf-test-pdf-test-a0e39f21c11f6a62c5ab.js",
       "path---pdf-test-pdf-test-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-ad7e3443ee92422a8b56.js",
+      "app-1e49e9a8f6293b2a2df8.js",
       "build-js-styles.css",
-      "app-ad7e3443ee92422a8b56.js.map",
+      "app-1e49e9a8f6293b2a2df8.js.map",
       "build-js-styles.css.map"
     ],
     "path---new-blog": [
@@ -61,8 +69,8 @@
       "path---new-blog-d869aae8b9e586c52ae0.js.map"
     ],
     "component---src-pages-pdf-test-pdf-test-js": [
-      "component---src-pages-pdf-test-pdf-test-js-f2080715c4e8e8391870.js",
-      "component---src-pages-pdf-test-pdf-test-js-f2080715c4e8e8391870.js.map"
+      "component---src-pages-pdf-test-pdf-test-js-7b8d6de56d7cb866c583.js",
+      "component---src-pages-pdf-test-pdf-test-js-7b8d6de56d7cb866c583.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",

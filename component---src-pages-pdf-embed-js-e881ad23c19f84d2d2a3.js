@@ -1,0 +1,2 @@
+webpackJsonp([55416655418352],{425:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(3),f=n(a),d=u(295),i=n(d),p=function(){return f.default.createElement("embed",{src:i.default,width:"100%",height:"500px",type:"application/pdf"})};t.default=p,e.exports=t.default},295:function(e,t,u){e.exports=u.p+"static/kjh-vita.7e43887f.pdf"}});
+//# sourceMappingURL=component---src-pages-pdf-embed-js-e881ad23c19f84d2d2a3.js.map
