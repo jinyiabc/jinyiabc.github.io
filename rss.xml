@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 28 Apr 2018 07:18:08 GMT</lastBuildDate><item><title><![CDATA[Hello New Blog]]></title><description><![CDATA[Hello World]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//new-blog/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//new-blog/</guid><pubDate>Wed, 25 Apr 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hello World&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//hello-world/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 28 Apr 2018 16:53:12 GMT</lastBuildDate><item><title><![CDATA[Antihumanism]]></title><description><![CDATA[In social theory and philosophy,  antihumanism  (or anti-humanism) is a theory that is critical of traditional humanism and traditional…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//antihumanism/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//antihumanism/</guid><pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In social theory and philosophy, &lt;a href=&quot;https://en.wikipedia.org/wiki/Antihumanism&quot;&gt;antihumanism&lt;/a&gt; (or anti-humanism) is a theory that is critical of traditional humanism and traditional ideas about humanity and the human condition. Central to antihumanism is the view that concepts of “human nature”, “man”, or “humanity” should be rejected as historically relative or metaphysical.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Human_nature&quot;&gt;Human nature&lt;/a&gt; refers to the distinguishing characteristics—including ways of thinking, feeling, and acting—which humans tend to have naturally.&lt;/p&gt;
+&lt;p&gt;The questions of whether there truly are fixed characteristics, what these natural characteristics are, and what causes them are among the oldest and most important questions in philosophy and science. The concept of human nature is traditionally contrasted not only with unusual human characteristics, but also with characteristics which are derived from specific cultures, and upbringings. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Nature_versus_nurture&quot;&gt;nature versus nurture&lt;/a&gt; debate is a well-known modern discussion about human nature in the natural science.&lt;/p&gt;
+&lt;p&gt;These questions have particularly important implications in economy, ethics, politics, and theology. &lt;strong&gt;This is partly because human nature can be regarded as both a source of norms of conduct or ways of life, as well as presenting obstacles or constraints on living a good life.&lt;/strong&gt; The complex implications of such questions are also dealt with in art and literature, the question of what it is to be human.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/money-116e975540c5b6ea7f45ae88ee11403c-6164c.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 525px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAErpistXT9H/8QAGhABAAIDAQAAAAAAAAAAAAAAAgESAAMRE//aAAgBAQABBQIwLe1SE0IjqjTfI21z/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgIBBQAAAAAAAAAAAAAAAAEREiECMTJh0f/aAAgBAQAGPwJys9kafBN1Jk5NFa7YP//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExcUH/2gAIAQEAAT8hHUZbymgt9whhtT2K92WA6eCaQdmf/9oADAMBAAIAAwAAABCj/wD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EDUuX//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Qcpp//8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBgVFhkaH/2gAIAQEAAT8Qw0l8g7IG9QYcC4ObOpbphvf4Rw3Ih4L17lnEl3p87iFZKh3UGdz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;money&quot;
+        title=&quot;&quot;
+        src=&quot;/static/money-116e975540c5b6ea7f45ae88ee11403c-6164c.jpeg&quot;
+        srcset=&quot;/static/money-116e975540c5b6ea7f45ae88ee11403c-020a3.jpeg 148w,
+/static/money-116e975540c5b6ea7f45ae88ee11403c-85e76.jpeg 295w,
+/static/money-116e975540c5b6ea7f45ae88ee11403c-6164c.jpeg 525w&quot;
+        sizes=&quot;(max-width: 525px) 100vw, 525px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello New Blog]]></title><description><![CDATA[Hello World]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//new-blog/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//new-blog/</guid><pubDate>Wed, 25 Apr 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hello World&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//hello-world/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
