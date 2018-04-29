@@ -1,0 +1,2 @@
+webpackJsonp([0xd447daf153d9],{567:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Alex's Blog",author:"Alex J.Y."}},markdownRemark:{id:"/home/travis/build/jinyiabc/jinyiabc.github.io/src/pages/new-blog/index.md absPath of file >>> MarkdownRemark",html:"<p>Hello World</p>",frontmatter:{title:"Hello New Blog",date:"April 25, 2018"}}},pathContext:{slug:"/new-blog/",previous:null,next:{fields:{slug:"/antihumanism/"},frontmatter:{title:"Antihumanism"}}}}}});
+//# sourceMappingURL=path---new-blog-d7de1fe939f22f81933f.js.map

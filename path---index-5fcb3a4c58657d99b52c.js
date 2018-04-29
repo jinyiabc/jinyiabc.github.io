@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{566:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Alex's Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"In social theory and philosophy,  antihumanism  (or anti-humanism) is a theory that is critical of traditional humanism and traditional…",fields:{slug:"/antihumanism/"},frontmatter:{date:"29 April, 2018",title:"Antihumanism"}}},{node:{excerpt:"Hello World",fields:{slug:"/new-blog/"},frontmatter:{date:"25 April, 2018",title:"Hello New Blog"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-5fcb3a4c58657d99b52c.js.map
