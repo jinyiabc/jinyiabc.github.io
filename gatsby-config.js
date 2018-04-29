@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Alex''s Blog',
+    title: 'Alex/'s Blog',
     author: 'Alex J.Y.',
     description: 'A starter blog demonstrating what Gatsby can do.',
     siteUrl: 'https://jinyiabc.github.io/',
