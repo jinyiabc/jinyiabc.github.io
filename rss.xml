@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 29 Apr 2018 05:23:51 GMT</lastBuildDate><item><title><![CDATA[Antihumanism]]></title><description><![CDATA[In social theory and philosophy,  antihumanism  (or anti-humanism) is a theory that is critical of traditional humanism and traditional…]]></description><link>https://jinyiabc.github.io//antihumanism/</link><guid isPermaLink="false">https://jinyiabc.github.io//antihumanism/</guid><pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 01 May 2018 16:23:17 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
+purpose of forecasting future price trends.&lt;/p&gt;
+&lt;h3&gt;PHILOSOPHY OR RATIONALE&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Market action discounts everything.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The technician believes that anything can possibly affect the price- fundamentally, politically,
+psychologically, or otherwise—is actually reflected in the price of that market.
+All of the technical tools discussed later on are simply techniques users to aid the chartist
+knows there are reasons why markets go up or down. He or she just doesn’t believe that knowing what those reasons are is necessary in the forecasting process.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Prices move in trends.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Example of an uptrend. Technical analysis is based on the premise that markets trend and that those trends tend to persist.
+corollary: &lt;strong&gt;A trend in motion is more likely to continue than to reverse.&lt;/strong&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/images-1bbb3f233e3b01eb50c0fdcc8882df43-2f6b9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 268px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 70.1492537313433%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAAsSAAALEgHS3X78AAABVklEQVQoz41Sa2+CMBTl//8TMrN91hg/zURNIDO4GXlVoFSgikQKRV7uSjOXmfk4H5rbm3N6T06vhBCK45hSun0a6w6qqkq73e50OrVte3oOZVli7KuqommaBC9Bq2ma9hGAA8wwjBaLD845Y+zB5EtfvA6F45iDAZLlrCzzp2yDEE7GEoToaBSsVryqWs5viMUVjGGMRcfzSK+nvLxorktFJ8//E4u6rmvbRpZlQun7XJY/Pa9gLC7Lo+DeE+/3e0IcQmKY9vo2Z6zooq4uhD9iAajTlFmW7jjIdevpNIU92G43Hed8XGZci6EghJjml+vG/b5nGLyu2x8714n8iquqwphEkW/b9mxGFSXN86bL+eb/ncVJkoBP09TDECuKM5mkPj4Kxq3FEduSZZmk6zql0eFQzOfFcnmED7wyeW/yePxuGOvh0NP1TZZBxhBP/BDAC4LgG/nEH0ueexoZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Example of an uptrend. Technical analysis is based on the premise that markets trend and that those trends tend to persist.&quot;
+        title=&quot;&quot;
+        src=&quot;/static/images-1bbb3f233e3b01eb50c0fdcc8882df43-2f6b9.png&quot;
+        srcset=&quot;/static/images-1bbb3f233e3b01eb50c0fdcc8882df43-f18b7.png 148w,
+/static/images-1bbb3f233e3b01eb50c0fdcc8882df43-2f6b9.png 268w&quot;
+        sizes=&quot;(max-width: 268px) 100vw, 268px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;History repeats itself.
+The key to understanding the future lies in a study of the past, or that the future is just a repetition of the past.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;TECHNICAL VERSUS FUNDAMENTAL FORECASTING&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;The fundamentalist studies the cause of market movement, while the technician studies
+the effect.&lt;/em&gt; The technician , of course, believe that the effect is all that he or she wants
+or needs to know and that the reasons, or the causes, are unnecessary. The fundamentalist always
+has to know why.
+Market price acts as a leading indicator of the fundamentals.&lt;/p&gt;
+&lt;h3&gt;ANALYSIS VERSUS TIMING&lt;/h3&gt;
+&lt;h3&gt;FLEXIBILITY AND ADAPTABILITY OF TECHNICAL ANALYSIS&lt;/h3&gt;
+&lt;h3&gt;TECHNICAL ANALYSIS APPLIED TO DIFFERENT TRADING MEDIUMS&lt;/h3&gt;
+&lt;h3&gt;TECHNICAL ANALYSIS APPLIED TO DIFFERENT TIME DIMENSIONS&lt;/h3&gt;
+&lt;p&gt;It has been suggested by some that fundamental analysis should be used for long term forecasting with technical factors limited to short term timing. The fact is that longer range
+forecasting, using weekly and monthly charts going back several years, has proven to be
+an extremely useful application on these techniques.&lt;/p&gt;
+&lt;h3&gt;LESS RELIANCE ON MARKET AVERAGES AND INDICATORS&lt;/h3&gt;
+&lt;p&gt;Stock market analysis is based heavily on the movement of broad market averages—
+such as the Dow Jones Industrial Average or the S&amp;#x26;P 500. In addition, technical indicators that measure the strength or weakness of the broader market— like the NYSE advance-decline line or the new highs-new lows list—are heavily employed. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
+ Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基础均线&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;背离：&lt;/p&gt;
+&lt;p&gt;排列：&lt;/p&gt;
+&lt;p&gt;开口：
+&lt;a href=&quot;http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:bollinger_band_width&quot;&gt;Bollinger BandWidth&lt;/a&gt; is an indicator derived from Bollinger Bands. In his book, Bollinger on Bollinger Bands, John Bollinger refers to Bollinger BandWidth as one of two indicators that can be derived from Bollinger Bands. The other indicator is %B.&lt;/p&gt;
+&lt;p&gt;交叉：&lt;/p&gt;
+&lt;p&gt;黄金交叉：&lt;/p&gt;
+&lt;p&gt;死亡交叉：&lt;/p&gt;
+&lt;p&gt;扣抵：&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;基础循环&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;随机指标 KD (Stochastic Line):
+随机指标的理论综合了动量观念、强弱指针与移动平均线的优点。&lt;/p&gt;
+&lt;!-- What is the &apos;[Stochastic Oscillator](https://www.investopedia.com/terms/s/stochasticoscillator.asp)&apos;
+The stochastic oscillator is a momentum indicator comparing the closing price of a security to the range of its prices over a certain period of time. The sensitivity of the oscillator to market movements is reducible by adjusting that time period or by taking a moving average of the result. --&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;基础量潮&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Self-fulfilling_prophecy&quot;&gt;self-fulfilling prophecy&lt;/a&gt; is, in the beginning, a false definition of the situation evoking a new behavior which makes the original false conception come true. This specious validity of the self-fulfilling prophecy perpetuates a reign of error. For the prophet will cite the actual course of events as proof that he was right from the very beginning.[1]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Antihumanism]]></title><description><![CDATA[In social theory and philosophy,  antihumanism  (or anti-humanism) is a theory that is critical of traditional humanism and traditional…]]></description><link>https://jinyiabc.github.io//antihumanism/</link><guid isPermaLink="false">https://jinyiabc.github.io//antihumanism/</guid><pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/money-116e975540c5b6ea7f45ae88ee11403c-6164c.jpeg&quot;

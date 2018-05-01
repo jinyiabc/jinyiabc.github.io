@@ -12,6 +12,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---tech-analysis": [
+      "path---tech-analysis-c7829eab0d91ab5000a3.js",
+      "path---tech-analysis-c7829eab0d91ab5000a3.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -25,8 +29,8 @@
       "component---src-layouts-index-js-9a27956de95e82d1ae0b.js.map"
     ],
     "path---index": [
-      "path---index-5fcb3a4c58657d99b52c.js",
-      "path---index-5fcb3a4c58657d99b52c.js.map"
+      "path---index-78f34d532aabb96e2938.js",
+      "path---index-78f34d532aabb96e2938.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -47,8 +51,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---antihumanism": [
-      "path---antihumanism-07861426ce9cf0cb0df7.js",
-      "path---antihumanism-07861426ce9cf0cb0df7.js.map"
+      "path---antihumanism-c1a2c4b1d7de13fa373e.js",
+      "path---antihumanism-c1a2c4b1d7de13fa373e.js.map"
     ],
     "path---pdf-embed": [
       "path---pdf-embed-a0e39f21c11f6a62c5ab.js",
@@ -59,9 +63,9 @@
       "path---pdf-test-pdf-test-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-6872e07ec210bb7e1d05.js",
+      "app-2603b60ba683836931ea.js",
       "build-js-styles.css",
-      "app-6872e07ec210bb7e1d05.js.map",
+      "app-2603b60ba683836931ea.js.map",
       "build-js-styles.css.map"
     ],
     "path---new-blog": [
@@ -75,6 +79,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tech-analysis-john-murphy": [
+      "path---tech-analysis-john-murphy-27031a820c5042f0ada9.js",
+      "path---tech-analysis-john-murphy-27031a820c5042f0ada9.js.map"
     ]
   }
 }
