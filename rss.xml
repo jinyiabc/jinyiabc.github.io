@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 01 May 2018 16:23:17 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 May 2018 06:37:19 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
+&lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
 &lt;h3&gt;PHILOSOPHY OR RATIONALE&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Market action discounts everything.&lt;/li&gt;
@@ -65,7 +66,32 @@ forecasting, using weekly and monthly charts going back several years, has prove
 an extremely useful application on these techniques.&lt;/p&gt;
 &lt;h3&gt;LESS RELIANCE ON MARKET AVERAGES AND INDICATORS&lt;/h3&gt;
 &lt;p&gt;Stock market analysis is based heavily on the movement of broad market averages—
-such as the Dow Jones Industrial Average or the S&amp;#x26;P 500. In addition, technical indicators that measure the strength or weakness of the broader market— like the NYSE advance-decline line or the new highs-new lows list—are heavily employed. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+such as the Dow Jones Industrial Average or the S&amp;#x26;P 500. In addition, technical indicators that measure the strength or weakness of the broader market— like the NYSE advance-decline line or the new highs-new lows list—are heavily employed.&lt;/p&gt;
+&lt;h2&gt;Chapter 2. Dow Theory&lt;/h2&gt;
+&lt;h3&gt;BASIC TENETS&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;The Averages Discount Everything.&lt;/li&gt;
+&lt;li&gt;The Market Has Three Trends.
+Dow believes that the law of action and reaction apply to the markets just as they do to the physical universe. He wrote, “Records of trading show that in many cases when a stock reaches top it will have a moderate decline and then go back again to near the highest figures. If after such a move, the price again recedes, it is liable to decline some distance”. Dow considered a trend to have three parts, &lt;em&gt;primary&lt;/em&gt;, &lt;em&gt;secondary&lt;/em&gt;, and &lt;em&gt;minor&lt;/em&gt;, which he compared to the tide, waves. and ripples of the sea.&lt;/li&gt;
+&lt;li&gt;Major Trends Have Three Phases.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Accumulation phase:&lt;/p&gt;
+&lt;p&gt;Participation phase:&lt;/p&gt;
+&lt;p&gt;Distribution phase:&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;The Averages Must Confirm Each Other.
+Dow meant that no important bull or bear market signal could take place unless both averages gave the same signal, thus confirming each other.&lt;/li&gt;
+&lt;li&gt;Volume Must Confirm the Trend.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dow recognized volume as a secondary but important factor in confirming price signals. Simply stated, &lt;em&gt;volume should expand or increase in the direction of the major trend&lt;/em&gt;.&lt;/p&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;A Trend Is Assumed to Be in Effect Until It Gives Definite Signals That It Has Reversed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It relates a physical law to market movement, which states that an object in motion (in this case a trend) tends to continue in
+motion until some external force causes it to change direction.&lt;/p&gt;
+&lt;p&gt;The most difficult task for a Dow theorist, or any trend-follower for that matter, it being able to distinguish between a normal
+secondary correction in an existing trend and the first leg of a new trend in the opposite direction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
