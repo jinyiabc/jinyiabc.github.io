@@ -5,7 +5,7 @@ date: "2018-05-01T13:00:00.284Z"
 
 Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.
-
+##Chapter 1. Philosophy of Technical Analysis
 ###PHILOSOPHY OR RATIONALE
 1. Market action discounts everything.
 
@@ -38,4 +38,32 @@ forecasting, using weekly and monthly charts going back several years, has prove
 an extremely useful application on these techniques.
 ###LESS RELIANCE ON MARKET AVERAGES AND INDICATORS
 Stock market analysis is based heavily on the movement of broad market averages--
-such as the Dow Jones Industrial Average or the S&P 500. In addition, technical indicators that measure the strength or weakness of the broader market-- like the NYSE advance-decline line or the new highs-new lows list--are heavily employed. 
+such as the Dow Jones Industrial Average or the S&P 500. In addition, technical indicators that measure the strength or weakness of the broader market-- like the NYSE advance-decline line or the new highs-new lows list--are heavily employed.
+
+##Chapter 2. Dow Theory
+###BASIC TENETS
+1. The Averages Discount Everything.
+2. The Market Has Three Trends.
+Dow believes that the law of action and reaction apply to the markets just as they do to the physical universe. He wrote, "Records of trading show that in many cases when a stock reaches top it will have a moderate decline and then go back again to near the highest figures. If after such a move, the price again recedes, it is liable to decline some distance". Dow considered a trend to have three parts, *primary*, *secondary*, and *minor*, which he compared to the tide, waves. and ripples of the sea.
+3. Major Trends Have Three Phases.
+
+Accumulation phase:
+
+Participation phase:
+
+Distribution phase:
+4. The Averages Must Confirm Each Other.
+Dow meant that no important bull or bear market signal could take place unless both averages gave the same signal, thus confirming each other.
+5. Volume Must Confirm the Trend.
+
+Dow recognized volume as a secondary but important factor in confirming price signals. Simply stated, *volume should expand or increase in the direction of the major trend*.
+
+6. A Trend Is Assumed to Be in Effect Until It Gives Definite Signals That It Has Reversed.
+
+It relates a physical law to market movement, which states that an object in motion (in this case a trend) tends to continue in
+motion until some external force causes it to change direction.
+
+The most difficult task for a Dow theorist, or any trend-follower for that matter, it being able to distinguish between a normal
+secondary correction in an existing trend and the first leg of a new trend in the opposite direction.
+
+***THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES**
