@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 May 2018 06:37:19 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 May 2018 17:18:40 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -91,7 +91,68 @@ Dow meant that no important bull or bear market signal could take place unless b
 motion until some external force causes it to change direction.&lt;/p&gt;
 &lt;p&gt;The most difficult task for a Dow theorist, or any trend-follower for that matter, it being able to distinguish between a normal
 secondary correction in an existing trend and the first leg of a new trend in the opposite direction.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;*THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;&lt;strong&gt;THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Chapter 4. Basic Concepts of Trend&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;DEFINITION OF TREND&lt;/strong&gt;
+In a general sense, the trend is simply the direction of the market, which way it’s moving. Market moves are characterized by a series of &lt;em&gt;zigzags&lt;/em&gt;.
+These zigzags resemble a series of successive waves with fairly obvious
+peaks and troughs. &lt;em&gt;It is the direction of those peaks and troughs that constitutes market trend&lt;/em&gt;.
+&lt;img src=&quot;/trend-f1fd388e9541a3962789e862e835ae0b.gif&quot; alt=&quot;trend&quot;&gt;
+&lt;strong&gt;TREND HAS THREE DIRECTIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’ve mentioned an uptrend, downtrend, and sideways trend for a very good reason. Most technical tools and systems are trend-following in nature, which means that they are primarily designed for markets that are moving up or down, They usually work very poorly, or not at all, when markets enter these lateral or “trendless” phases.&lt;/p&gt;
+&lt;p&gt;There are three decisions confronting the trader— whether to buy a market, sell a market, or do nothing. When a market is rising, the buying strategy is preferable. When it is falling, the second approach would be correct. However, when the market is moving sideways, the third choice— to stay out of the market— is usually the wisest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TREND HAS THREE CLASSIFICATION&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Major,&lt;/li&gt;
+&lt;li&gt;Intermediate, and&lt;/li&gt;
+&lt;li&gt;Near term trends.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each trend becomes a portion of its next larger trend.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-6c011.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.86585365853659%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsSAAALEgHS3X78AAABtklEQVQoz11Sa2+bMBTl//+VfdiHKF21tlGzoiUZJRCeDg/bmIdNkqaEJIUC0XYBadImXVnHls895z4kxxaWxS0rsyEc4Th5j20RBO9RdKH0QknJoqu2xrbNPe/NcQRCe0LOjH1IIu+4aIVoueg4byHyvMvzmxBdGldZ9sl5I/Lb3fRRWTrKEllGjEmh63Q6laU0/UyS+m/AlZDS997iuDZ0spI1kTXaBlt2ov00v36ZPN49TycP+obNZur/5LhXa3QN309my1dn/l2ef3tRFHd/+E1RpiveaoU8bw+eCS4l+Ar8fyKpXMSfHl4MkwGH0TJmH2FYeP4xYleoTogbpWdoCpBBuUpTkK1AOeOtvNo83T/zvvKOsWuIT9AnjE+QF5TG0mh0CfyjJHjfKiBDqyBlSN5BNiInxi5+cPS8w0CrR41RBjAMAjJKy4W5VrZJWvsop7gwzCjEBcYl0GCK2+0Bfo++hrMerkAebMdpZamB/ENVfjmL+etiYYLPiJ6HsTWDTgMBeAQDbkG5J7vuDuytVewHxVollpmBH3h03RyhHSjDzgA2jHiL9rBFyN3BexieYH/+ALwZEGBCflRKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trend-classification&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-fb8a0.png&quot;
+        srcset=&quot;/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-1a291.png 148w,
+/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-2bc4a.png 295w,
+/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-fb8a0.png 590w,
+/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-526de.png 885w,
+/static/trend-classification-8024cd63a04b82b2df10a11f0b6a5dac-6c011.png 984w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+As a general statement, most trend-following approaches focus on the intermediate trend, which may last for several months. The near term trend is used primarily for timing purposes.
+In an intermediate uptrend, short term setbacks would be used to initiate long positions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SUPPORT AND RESISTANCE&lt;/strong&gt;
+The troughs, or reaction lows, are called &lt;em&gt;support&lt;/em&gt;. The term is self-explanatory and
+indicates that support is a level or area on the chart under the market where buying interest
+is sufficiently strong to overcome selling pressure. As a result, a decline is halted and
+prices turn back up again. Usually a support level is identified beforehand by a previous reaction low.&lt;/p&gt;
+&lt;p&gt;Resistance is the opposite of support and represents a price level or area over the market where
+selling pressure overcomes buying pressure and a price advance is turned back. Usually a resistance
+level is identified by previous peak.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
