@@ -66,4 +66,38 @@ motion until some external force causes it to change direction.
 The most difficult task for a Dow theorist, or any trend-follower for that matter, it being able to distinguish between a normal
 secondary correction in an existing trend and the first leg of a new trend in the opposite direction.
 
-***THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES**
+**THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES**
+
+##Chapter 4. Basic Concepts of Trend
+
+**DEFINITION OF TREND**
+In a general sense, the trend is simply the direction of the market, which way it's moving. Market moves are characterized by a series of *zigzags*.
+These zigzags resemble a series of successive waves with fairly obvious
+peaks and troughs. *It is the direction of those peaks and troughs that constitutes market trend*.
+![trend](./trend.gif)
+**TREND HAS THREE DIRECTIONS**
+
+We've mentioned an uptrend, downtrend, and sideways trend for a very good reason. Most technical tools and systems are trend-following in nature, which means that they are primarily designed for markets that are moving up or down, They usually work very poorly, or not at all, when markets enter these lateral or "trendless" phases.
+
+There are three decisions confronting the trader-- whether to buy a market, sell a market, or do nothing. When a market is rising, the buying strategy is preferable. When it is falling, the second approach would be correct. However, when the market is moving sideways, the third choice-- to stay out of the market-- is usually the wisest.
+
+**TREND HAS THREE CLASSIFICATION**
+
+1. Major,
+2. Intermediate, and
+3. Near term trends.
+
+Each trend becomes a portion of its next larger trend.
+![trend-classification](./trend-classification.png)
+As a general statement, most trend-following approaches focus on the intermediate trend, which may last for several months. The near term trend is used primarily for timing purposes.
+In an intermediate uptrend, short term setbacks would be used to initiate long positions.
+
+**SUPPORT AND RESISTANCE**
+The troughs, or reaction lows, are called *support*. The term is self-explanatory and
+indicates that support is a level or area on the chart under the market where buying interest
+is sufficiently strong to overcome selling pressure. As a result, a decline is halted and
+prices turn back up again. Usually a support level is identified beforehand by a previous reaction low.
+
+Resistance is the opposite of support and represents a price level or area over the market where
+selling pressure overcomes buying pressure and a price advance is turned back. Usually a resistance
+level is identified by previous peak.
