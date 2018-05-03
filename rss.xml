@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 May 2018 17:18:40 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 03 May 2018 03:09:17 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -91,7 +91,8 @@ Dow meant that no important bull or bear market signal could take place unless b
 motion until some external force causes it to change direction.&lt;/p&gt;
 &lt;p&gt;The most difficult task for a Dow theorist, or any trend-follower for that matter, it being able to distinguish between a normal
 secondary correction in an existing trend and the first leg of a new trend in the opposite direction.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES&lt;/strong&gt;
+Dow relied exclusively on &lt;em&gt;closing prices&lt;/em&gt;. He believed that averages had to close higher than a previous peak or lower than a previous trough to have significance.&lt;/p&gt;
 &lt;h2&gt;Chapter 4. Basic Concepts of Trend&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DEFINITION OF TREND&lt;/strong&gt;
 In a general sense, the trend is simply the direction of the market, which way it’s moving. Market moves are characterized by a series of &lt;em&gt;zigzags&lt;/em&gt;.
@@ -152,7 +153,53 @@ is sufficiently strong to overcome selling pressure. As a result, a decline is h
 prices turn back up again. Usually a support level is identified beforehand by a previous reaction low.&lt;/p&gt;
 &lt;p&gt;Resistance is the opposite of support and represents a price level or area over the market where
 selling pressure overcomes buying pressure and a price advance is turned back. Usually a resistance
-level is identified by previous peak.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+level is identified by previous peak.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How Support and Resistance Levels Reverse Their Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/double-b47ada46ff8be05a8e239d190c29526f-58b4b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.95902688860436%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAAsSAAALEgHS3X78AAAByElEQVQoz5VSa2/aMBTN//8r06ZqG1qralJVJNIxoAzIm1cgCeRBguM87MSx5zyadVP3oeeDfWyfc319rwXGGCEkbpCmKYSQkyRJ2CtUjCV5DgDIEUqyDGHc7gvsLZSkGk7tOOlERQzw9VoTGEPP62UCpbTi4BOt1+2Yo3KycvnYioKZ5N0MavIsuZ++vDIfjyzPG1tVliWPw7kfIfeS1Qk3wdY2vEwWfLU9peFkyQrUmX1ZsecLJwhH4tNwJI7Ese8H4nQbRrBVYFzqTsrMfWrahofoflfaTpukYFmOfPd9tzMX6m744fZomvPV+kGUeXlas+MlXsSvItZw5sOKoayQ5M5c52YYLEutiABly6LgdC1D0CXmB8Hnu6fJ8+rHeDr4OHh4FGeS8uvm61pSmjdzcxgWmm64qLiElarqx5i/vS0ggMjYh5yYh4Ox2Ri6nvHCnM94velbRaX7n7Je90C6H69Ut0mKNmUnCJN/GkkxLlStM3PVdGlZbsz5UjsZh7DvWR+FvqA9yL7d4vm8+yS4wLxVnCCUYYz+XNLH+BvkfK4AEF5ErFNR9h/9GxDYe4Aq5kRQVVVFlnVNe5+5IBVIMv4Foga/AY+aHxzR0LKqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;double&quot;
+        title=&quot;&quot;
+        src=&quot;/static/double-b47ada46ff8be05a8e239d190c29526f-fb8a0.png&quot;
+        srcset=&quot;/static/double-b47ada46ff8be05a8e239d190c29526f-1a291.png 148w,
+/static/double-b47ada46ff8be05a8e239d190c29526f-2bc4a.png 295w,
+/static/double-b47ada46ff8be05a8e239d190c29526f-fb8a0.png 590w,
+/static/double-b47ada46ff8be05a8e239d190c29526f-58b4b.png 781w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Psychology of Support and Resistance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In a financial market, there are three types of participants, at any given price level:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Traders who are long and waiting for price to rise&lt;/li&gt;
+&lt;li&gt;Traders who are short and hoping that price will fall&lt;/li&gt;
+&lt;li&gt;Traders who have not decided which way to trade&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As price rises from a support level, the traders who are long are happy and may consider adding to their positions if price drops back down to the same support level. The traders who are short in this situation are beginning to question their positions, and may buy to cover (exit the position) to get out at, or near, breakeven, if price reaches the support level again. The traders who did not enter the market previously at this price level, may be ready to pounce and go long, if price comes back down to the support level. In essence, a large number of traders may be eagerly waiting to buy at this level, adding to its strength as an area of support. If all these participants do buy at this level, price will likely rebound from the support once again.&lt;/p&gt;
+&lt;p&gt;Price can, however, fall right through the support level. As price continues to drop, traders will quickly realize that the support level is not holding. The long traders may wait for price to climb back up to the previous support level, which will now act as resistance, to exit their trades in the hopes of limiting their losses. The short traders are now happy and may consider adding to their positions, if price revisits the price level. Lastly, the traders who did not enter the market yet may go short, if price comes back to the previous support level, in anticipation of price dropping further. Again, a large number of traders may be ready to make a move at this level, but now instead of buying, they will be selling. This same behavior can be witnessed in reverse with traders’ reactions to resistance levels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The longer the period of time that prices trade in a support or resistance area, the more significant that area becomes.&lt;/strong&gt; For example, if prices trade sideways for three weeks in a congestion area before moving higher, that support are would be more import than if only three days of trading had occurred.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volume is another way to measure the significance of support and resistance.&lt;/strong&gt; If a support level is formed on heavy volume, this would indicate that a large number of units changed hands, and would mark that support level as more important than if very little trading had taken place. Point and figure charts that measure intraday trading activity are especially useful in identifying these price levels where most of the trading took place and, consequently, where support and resistance will be most likely to function.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
