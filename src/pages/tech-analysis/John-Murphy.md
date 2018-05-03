@@ -122,3 +122,16 @@ Price can, however, fall right through the support level. As price continues to 
 **The longer the period of time that prices trade in a support or resistance area, the more significant that area becomes.** For example, if prices trade sideways for three weeks in a congestion area before moving higher, that support are would be more import than if only three days of trading had occurred.
 
 **Volume is another way to measure the significance of support and resistance.** If a support level is formed on heavy volume, this would indicate that a large number of units changed hands, and would mark that support level as more important than if very little trading had taken place. Point and figure charts that measure intraday trading activity are especially useful in identifying these price levels where most of the trading took place and, consequently, where support and resistance will be most likely to function.
+
+**A third way to determine the significance of a support or resistance area is how recently the trading took place.**
+Because  we are dealing with the reaction of traders to market movement and to positions that they have already taken or failed to take, it stands to reason that the more recent the activity, the more potent it becomes.
+
+**Support Becoming Resistance and Vice Versa: Degree of Penetration.**
+It was mentioned earlier that the distance prices traveled away from support or resistance increased the significance of that support or resistance. There is quite a bit of subjectivity involved here in determining whether a penetration is significant or not. As a benchmark, some chartists use a 3% penetration as a criteria, particularly for major support and resistance levels. Shorter term support and resistance areas would probably require a much smaller number, like 1%.
+
+**The Importance of Round Numbers as Support and Resistance**
+
+There  is a tendency for round numbers to stop advances or declines. Traders tend to think in terms of important round numbers, such as 10, 20, 25, 50, 75, 100 (and multiples of 1000), as price objectives and act accordingly. These round numbers, therefore, will often act as "Pyschological" support or resistance levels. A trader can use this information to begin taking profits as an important round number is approached.
+One trading application of this principle is to **avoid placing trading orders right at these obvious round numbers**.
+As a general rule, **avoid placing protective stops at obvious round numbers**.
+In other words, protective stops on long positions should be placed below round numbers and on short positions, above such numbers.
