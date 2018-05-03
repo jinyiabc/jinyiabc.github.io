@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 03 May 2018 09:48:58 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 03 May 2018 18:05:13 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -208,7 +208,312 @@ It was mentioned earlier that the distance prices traveled away from support or 
 &lt;p&gt;There  is a tendency for round numbers to stop advances or declines. Traders tend to think in terms of important round numbers, such as 10, 20, 25, 50, 75, 100 (and multiples of 1000), as price objectives and act accordingly. These round numbers, therefore, will often act as “Pyschological” support or resistance levels. A trader can use this information to begin taking profits as an important round number is approached.
 One trading application of this principle is to &lt;strong&gt;avoid placing trading orders right at these obvious round numbers&lt;/strong&gt;.
 As a general rule, &lt;strong&gt;avoid placing protective stops at obvious round numbers&lt;/strong&gt;.
-In other words, protective stops on long positions should be placed below round numbers and on short positions, above such numbers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+In other words, protective stops on long positions should be placed below round numbers and on short positions, above such numbers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TRENDINESS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An &lt;strong&gt;up trendline&lt;/strong&gt; is a straight line drawn upward to the right along successive reaction lows. A &lt;strong&gt;down trendline&lt;/strong&gt; is drawn downward to the right along successive rally peaks.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trendline-73b2a6f942a9fdd01c929a1ec9ce1500-93f4e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 267px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 70.78651685393258%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAAsSAAALEgHS3X78AAABg0lEQVQoz4VS207DMAzt//8Z0gRDGggxpq5kW9vc71nSS/DWMaZBhR8cW87xsY9c5BkjhJflrtoe6rqFNMYYQvDeK6WMcxAMw1Dkf2wEg8cYwxjTWjPGpdJCiJRSMYM4eR9i/bjK3s01ngOf0ISqHTr0ZZmNhdS5oLWFqb0Ps2BjfNOwYRiVkmjvq8+Ud9UgpI8Jt4wQASvfg8fxsh6UMZZK6aqy63WQ0mIimsVzVhCGy0p/MgOeUgliLBY1QkPX9Qi1SjmhbNpWmbEfSSbwRKi141zHmICTkFzXw/TD+yN4zhXo1zyt0v5wxRdXQkIkcAohX18tIeN3z8sDfesDpVybjzJjPJ4LRUo9yAjyUCpi7B8eCOejc/ZO+RCitcEab9yxb1v7vjkxMyYRwtY6KR1C2drc9wljbowdb7SZDFpwKqly9cv7cVsVMCr822yat7d4PG0H+AC3CYPcgacU9INJU+rIdl9obQCzXOqUboX852LBw7EU56PPXffroGfa3Fa+ADABLQWNIrnPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trendline&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trendline-73b2a6f942a9fdd01c929a1ec9ce1500-93f4e.png&quot;
+        srcset=&quot;/static/trendline-73b2a6f942a9fdd01c929a1ec9ce1500-14000.png 148w,
+/static/trendline-73b2a6f942a9fdd01c929a1ec9ce1500-93f4e.png 267w&quot;
+        sizes=&quot;(max-width: 267px) 100vw, 267px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tentative Versus the valid Trendline&lt;/em&gt;&lt;/strong&gt;
+In order to confirm the validity of a trendline, however, that line should be touched a third time with prices bouncing off of it.
+To summarize, two points are needed to draw the trendline, and a third point to make it a valid trendline.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to Use the Trendline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One f the basic concepts of trend is that a trend in motion will tend to remain in motion, As a corollary to that, once a trend assumeds a certain slope or rate of speed, as identified by the trendline, it will usually maintain the same slope. The trendline then helps not only to determine the extremities of the corrective phase, but maybe even more importantly, tells us when that trend is changing.&lt;/p&gt;
+&lt;p&gt;Very often, &lt;strong&gt;&lt;em&gt;the breaking of the trendline is one of the best early warning of a change in trend&lt;/em&gt;&lt;/strong&gt;.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/break-trendline-f4e0c26023409323462635b9c3dcd8d6-692b5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 323px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 48.29721362229102%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsSAAALEgHS3X78AAABqklEQVQoz2WQ2XLkIAxF/f8fN0klU6mkO+2GNuAFg9l38NCZmqfRg1TocoS4Q9vWSve8LGnGJcVSayn5PJvnji2S7v78P9ozkTcytJxbLmctD3CB8D6vJOYsTXPMHRvnh5XyLLn221XrKkRVqhnTj/gND71IpbwPG6cjGCFAGOuVsigCW1iIbprmeXa1v+ZM4tzsixNMrBj9gk+YMbYs68rJiDCEDDzAvm+aGq88JkSIwxiLkAqhxRq5Ex3ZFoJepyGEIKUUgn9eHsGfPpmUk9SKEx5NDDHknBnbMcYIC2Or9l3Uxtv59zxQSjln/S+MhT5y0VuoxVo9fYzJdefODkMIjTY3cv26IgAohMD+hbW2399bCD821pZEd5kGOtMvEG3qvVL6LBtjuncQjPN8EKxzLeSdDPzItf7zv7WmVVPqdNasMpj4Izzl6O0ELsu+Gqd8aqmc5B0PweTsUw2lxVx8TrGmvnc5BZH2sEl7d58cQP4OPcbBBausVSaFiF7QIJFUWN5e6fWF7nehkJSTkI/eVNEEvRt7eM3c+CkeNyFX7Zi1uzW7ccL9AYV2NZiOorCTAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;break-trendline&quot;
+        title=&quot;&quot;
+        src=&quot;/static/break-trendline-f4e0c26023409323462635b9c3dcd8d6-692b5.png&quot;
+        srcset=&quot;/static/break-trendline-f4e0c26023409323462635b9c3dcd8d6-a9774.png 148w,
+/static/break-trendline-f4e0c26023409323462635b9c3dcd8d6-35e87.png 295w,
+/static/break-trendline-f4e0c26023409323462635b9c3dcd8d6-692b5.png 323w&quot;
+        sizes=&quot;(max-width: 323px) 100vw, 323px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to Determine the Significance of a Trendline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;What determines the significance of a trendline? The answer to that question is twofold—&lt;em&gt;the longer it has been intact and the number of times it has been tested&lt;/em&gt;.
+The more significant the trendline, the more confidence it inspires and the more important is its penetration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trendlines Should Include All Price Action&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trendlines on bar charts should be drawn over or under the entire day’s price range.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-all-price-b8c3bc9a12042a7a03886c925206dbcf-fb8e0.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 579px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 53.1951640759931%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABTklEQVQoz3WTDwuCMBDF/f4fK8KSAgmiJMS0oqKSCrO0fxe/gxtD6OCx7dzevXubweVykS6u16vCz53PZ3k8HkJ8Ph+H7/er4+v1UgRN08jz+ZS2bd3IBwjqutYcYE7OCCEyMpuDgMMEC4LDq9VKjsejzi3Yh9J/Cg1K6FdCYZIkst/vdU7cbje53+9qQ1dhFwEqfEIKTCYT2Ww2ehji3W6n5D7hPziFBCpms5mcTieZTqey3W6lLEtnhd+yr8pfq0ISBErG47Gqom3z0KzgUkzJ+/12RL5qdyk8iX6/L3EcK6GFFYMctWEYalE6oYPFYiFZlqkYJaRNAs+iKJKqqhyBgY1GOBgMpNfraWG8psBwOHTnAtiLopA0TXVcr9eyXC4VfAN5nisOh4PM53NVNxqNlBCv8dwefYAX5gcjFljOQM4ePD8CoDNIrEOz5wdCbk10Zvpw+AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trend all prices&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-all-price-b8c3bc9a12042a7a03886c925206dbcf-fb8e0.png&quot;
+        srcset=&quot;/static/trend-all-price-b8c3bc9a12042a7a03886c925206dbcf-43ab1.png 148w,
+/static/trend-all-price-b8c3bc9a12042a7a03886c925206dbcf-74712.png 295w,
+/static/trend-all-price-b8c3bc9a12042a7a03886c925206dbcf-fb8e0.png 579w&quot;
+        sizes=&quot;(max-width: 579px) 100vw, 579px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to Handle Small Trendline Penetrations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-c17b0.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.11842105263158%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAABl0lEQVQ4y32S54pCQQyF7/u/jO/gD0HFXhCxYO+91yzfgQx3V9xAmEwmOUlOJjqdTrbdbm2/30t3u90vO674iEXjPo+9XC4W8Yhxv9/t+XzadDq18/lsj8dDPvR2u+lO7PV6DX5X3vDzHoGMw2W9Xof7+/0O/tfrZfP5PNwpHo8hh04FSBV/ANDvKJWPx6OCl8ulgIbDobrmnUKIx0UEfgNECCoWi9btdm2xWNh4PBZF3rUDQhP7+ACkC+7I4XDQvdVqWTqdFr9MRDfeXRwQ/QBcrVYaB+n1elYoFKzZbErpgO4c6F9AFzaFAFoqlaT4PPGveCMUCoAkQzabmkwm2uZoNLJcLiebruEPmxOeN5tN+F7kUlRLwYAjyPaEfr9vs9lM/LFRigwGAxXBhop2u60ceCWPIjQWAZBIJCyVSokvNsqJ5vN5K5fLYXR8jUZDG6/VamrE+WVSJKL1Tqdj9XpdSdVqNQQ6YKVSsUwmo01ns1kVp3AymdQJNWDAZ8QXYDTa9jEZy3nDZizGZXxsTuKI592Xhv4AcgXZS5//9XIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trend-penetration&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-fb8a0.png&quot;
+        srcset=&quot;/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-1a291.png 148w,
+/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-2bc4a.png 295w,
+/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-fb8a0.png 590w,
+/static/trend-penetration-9fc6ea40a851489c2fb9cc6f862fc7ff-c17b0.png 608w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Unfortunately, there’s no hard and fast rule to follow in such a situation. Sometimes it is best to ignore the minor breach, especially if subsequent market action proves that the original line is still valid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Constitutes a Valid Breaking of a Trendline?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a general rule, &lt;strong&gt;a close beyond the trendline is more significant than
+just an intraday penetration&lt;/strong&gt;.
+There is tradeoff involved in the use of any type of filter. If the filter is too small, it won’t be very useful in reducing the impact of whipsaws. If it’s too big, then much of the initial move will be missed before a valid signal is given. Here again, the trader must determine what type of
+filter is best suited to the degree of trend being followed, always making allowances for the differences in the individuals markets.&lt;/p&gt;
+&lt;p&gt;An alternative to a price filter is time filter. A common time filter is the &lt;strong&gt;two day rule&lt;/strong&gt;. In other words, to have a valid breaking of a trendline, prices must close beyond trendline for two successive days. To break an up trendline, therefore, prices must close under the trendline two days in a row. A one day violation would not count. The 1-3% rule and the two day rule are also applied to breaking of important support and resistance levels, not just to major trendlines. Another filter would require a Friday close beyond a major breakout point to ensure a weekly signal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How Trendlines Reverse Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s surprising how often old trendlines act as support and resistance lines again in the future, but in the opposite role.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measuring Implications of Trendlines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Price Objectives:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE FAN PRINCIPLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-384f5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 58.9018302828619%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABmElEQVQoz22TB44DQQgE9/+/8R9sOcvZlnPOOWdzqpY47QUkBDvDNNCwweVysd1uZ8fj0fb7vezhcPi25/P5+3u9XiuWOFfu3N9utxbgAPp6vWy5XNr9frfn82mPx0N2sVjY7XazdrstQOR6vUo9DuU99wEZuEA4eL/f9vl89E1QuVy2RqNh8XhcZ51Ox1qtlnziXBGKU4VkQFarlUAApXyqq1arlsvlrF6vW6/Xs3Q6LVCEuLAVIBU6IC0jtAhQIpEQaCqVEthgMLDT6WSz2UzUkJzWvUL4/VMhPpa2+v2+fB7zKJPJ2Hg8tm63q4TT6VRD+bdlDslQKpUsEolYs9lUJZvNRqA8plWo4Axg5/FHy2FAfNqLxWJ6RHuoDy0srJHLj5bDHFIRPLJ7v/eQYJREvrdYKg5TFhAQjUY1SSZYq9W0Kslk0orFojSfz0v9jFgGhi0UClI4J3FAFgCz2awU4iGcIIBRHgJYqVS04PDLbpKcWFbKVylgRZz8+Xxuw+FQhKOcM+nJZGKj0Uh/FHyxLj4M31u3XzUphtdim1++AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;fan&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-fb8a0.png&quot;
+        srcset=&quot;/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-1a291.png 148w,
+/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-2bc4a.png 295w,
+/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-fb8a0.png 590w,
+/static/trend-fan-6955e6efb0bb8d5c50387f2d0bdc76e7-384f5.png 601w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;strong&gt;The breaking of that third trendline is usually an indication that prices are headed lower.&lt;/strong&gt;
+The term “fan principle” derives from the appearance of the lines that gradually flatten out, resembling a fan. &lt;strong&gt;&lt;em&gt;The important point to remember here is that the breaking of the third line is the valid trend reversal signal.&lt;/em&gt;&lt;/strong&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-669ef.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.76038338658148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQ4y22UiYoCQQxE5/+/SkRBBcVzFPG+He/7tnZfILMK29B0TzqprlTSEzyfTw2HQ/V6PS0WC83nc5vL5VLj8VilUkmFQkGZTEbpdFr1et38drudDoeDrbVaTdlsVqfTSYF+R7VaVSKRUBiGmkwmiqJIrVZLl8tFq9XKwNfrte0Jut/vul6vdv56vTSbzdTpdHQ8HhU8Hg9zxOF8Put2u2k6ndqto9FIZPDfeL/f8RwMBgYK44DbAPQBIDZkAJD0NpuNMSGYIL65iG98AMRvv99/A8ISdgSTOqn6+efefUgZCcgMhlz0BYjA6MDAvt1ujQEDZ5iQgcsAW4CJ+QL0FGDBwIlBtfv9vq2kxDnMKRjaA8iAIYWkcDEg9LkJXRwQMByLxaK63a4FwhpQ2HIOEWK5NAbEidtcaAdFCuwueLvdtgvwbzQatieeM3Q1QKg7uqfrEzDXzNuJtMkEEM4pJDNmSCAvAqP3l6+k8mmjooAD6P7e4IBZUTCSGkacYYwTqThDbOgHK9IlmBUAbHSHFy7wdkEPHLwFsHERDc7qrwE/9KtUKsrn88rlciqXyzY5N0CCksmk/QQ4oHoE8COgELzxZrNpb54nycpPA2A6gH0qlfpLGaFxBAgAWoQ9D5497PyJoTdtQ8pkga5khSRI9gOi828zH5swtwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;fan&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-fb8a0.png&quot;
+        srcset=&quot;/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-1a291.png 148w,
+/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-2bc4a.png 295w,
+/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-fb8a0.png 590w,
+/static/trend-real-fan-f2920b09daa8be918b35f49bffcc2e44-669ef.png 626w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE IMPORTANCE OF THE NUMBER THREE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For whatever the reason, the number three plays a very prominent role throughout the entire field of technical analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE RELATIVE STEEPNESS OF THE TRENDLINE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 45 degree line was one of the techniques favored by W.D.Gann. Such a
+line reflects a situation where prices are advancing or declining at such a rate that price and time are in perfect balance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to Adjust Trendlines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes trendlines have to be adjusted to fit a slowing or an accelerating trend.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-adjust-594a97a2872fd721ad6fffe45ee51a2b-cc794.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 587px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 45.82623509369676%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABUElEQVQoz3WSCY+CUAyE+f//i2hEDhVRoySKBx6goBhvuvm68cXdzTZpeEc7nZmHlee5lGUpRVHI4XCQ0+lk9sfj0SRn1D6fT3m9Xibruv6xtuI4ltvtJo/HQzNNU5lOpwpCAWebzUbu97sC0vhfKOBsNjPoRLvdFtd1dX29Xg0gNbBfrVbieZ6Mx2MZDoey3+9lMpnIYrH4BkySRGUQFDQaDfF9X7IsU6ZBEMhoNNJ9VVWyXq/N0DAMtYfvYDDQocoQZGQ3m02VRURRJJ1ORxnhJwHD7XarDFutlrKkjqEMh5h6SFDU6/VU5nw+V0YM+fQHQBg6jqMgbzWw7Xa7Kt8CGZ+4RD6v+fbzd5zPZ/UTyQACglRYsoa9BW2QkQYDfOKFkfmZ1Ox2O5Vm27YSABh/8bHf72u/xUR+FdABJZH1Tu74LpdLM5Ra+i6Xyx8VX3AfoKlopvGIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;adjust&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-adjust-594a97a2872fd721ad6fffe45ee51a2b-cc794.png&quot;
+        srcset=&quot;/static/trend-adjust-594a97a2872fd721ad6fffe45ee51a2b-fcd59.png 148w,
+/static/trend-adjust-594a97a2872fd721ad6fffe45ee51a2b-0963e.png 295w,
+/static/trend-adjust-594a97a2872fd721ad6fffe45ee51a2b-cc794.png 587w&quot;
+        sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-7f31f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 59.09090909090909%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABiklEQVQoz42TRW5DQRBE//1vZC+8NTPKJDMzydzRq6iTH3mTlkozPVBTDRMcDgfbbDa23++F3W4nuO9Yr9da5yx4vV4feL/fFszncwM49/v9A7fbTQTdbleEz+fTlsulCMLGfdYCNiHE/BUHRgT5fN7i8bhdr1etQcz6+Xy2y+Vix+Px584HoQMlp9PJttutlctlkWBOksvlLBqNWqVSsVQqZavVSvsiXCwWfwjdIEokEton9H6/L2UQ1ut1i0Qils1mLZ1OW6lUkoCAw7PZTASowthA9WQyEeloNLLxePyzT4jNZlOpYGw0GtbpdOzxePwN2S/gZzIZi8VimvNAOPH4rVZLZwqFgghRTNgiZAI7h1DDa8PhUNV0C7cGCtvttnIHKahWq78K6TFCJ0fJZFK+G6rDhWKEkDbibK1Ws2KxaL1e77so9NhgMJBsEv4fo9IQ0UqEjFJIEaWiINdDpEDT6VQjYJ88us+cCFBEwagua/7bAtrBv5d/K4fnNwwuEzK/iOLQQuFW+wK034l3wdL+bgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;adjust&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-fb8a0.png&quot;
+        srcset=&quot;/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-1a291.png 148w,
+/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-2bc4a.png 295w,
+/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-fb8a0.png 590w,
+/static/trend-accelarate-22a551cf2f40d365089b64991240cf92-7f31f.png 594w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+All of the techniques covered in this book work well in certain situations, but not so well in others. By having an arsenal of tools to fall back on, the technician can quickly switch from one tool to another that might work better in a given situation.
+An accelerated trend is one of those cases where a moving average would be more useful than a series of steeper and steeper trendlines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE CHANNEL LINE&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
