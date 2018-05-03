@@ -67,6 +67,7 @@ The most difficult task for a Dow theorist, or any trend-follower for that matte
 secondary correction in an existing trend and the first leg of a new trend in the opposite direction.
 
 **THE USE OF CLOSING PRICES AND THE PRESENCE OF LINES**
+Dow relied exclusively on *closing prices*. He believed that averages had to close higher than a previous peak or lower than a previous trough to have significance.
 
 ##Chapter 4. Basic Concepts of Trend
 
@@ -101,3 +102,23 @@ prices turn back up again. Usually a support level is identified beforehand by a
 Resistance is the opposite of support and represents a price level or area over the market where
 selling pressure overcomes buying pressure and a price advance is turned back. Usually a resistance
 level is identified by previous peak.
+
+**How Support and Resistance Levels Reverse Their Roles**
+
+![double](./double.png)
+
+**The Psychology of Support and Resistance**
+
+In a financial market, there are three types of participants, at any given price level:
+
+- Traders who are long and waiting for price to rise
+- Traders who are short and hoping that price will fall
+- Traders who have not decided which way to trade
+
+As price rises from a support level, the traders who are long are happy and may consider adding to their positions if price drops back down to the same support level. The traders who are short in this situation are beginning to question their positions, and may buy to cover (exit the position) to get out at, or near, breakeven, if price reaches the support level again. The traders who did not enter the market previously at this price level, may be ready to pounce and go long, if price comes back down to the support level. In essence, a large number of traders may be eagerly waiting to buy at this level, adding to its strength as an area of support. If all these participants do buy at this level, price will likely rebound from the support once again.
+
+Price can, however, fall right through the support level. As price continues to drop, traders will quickly realize that the support level is not holding. The long traders may wait for price to climb back up to the previous support level, which will now act as resistance, to exit their trades in the hopes of limiting their losses. The short traders are now happy and may consider adding to their positions, if price revisits the price level. Lastly, the traders who did not enter the market yet may go short, if price comes back to the previous support level, in anticipation of price dropping further. Again, a large number of traders may be ready to make a move at this level, but now instead of buying, they will be selling. This same behavior can be witnessed in reverse with traders' reactions to resistance levels.
+
+**The longer the period of time that prices trade in a support or resistance area, the more significant that area becomes.** For example, if prices trade sideways for three weeks in a congestion area before moving higher, that support are would be more import than if only three days of trading had occurred.
+
+**Volume is another way to measure the significance of support and resistance.** If a support level is formed on heavy volume, this would indicate that a large number of units changed hands, and would mark that support level as more important than if very little trading had taken place. Point and figure charts that measure intraday trading activity are especially useful in identifying these price levels where most of the trading took place and, consequently, where support and resistance will be most likely to function.
