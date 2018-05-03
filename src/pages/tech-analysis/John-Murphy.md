@@ -135,3 +135,78 @@ There  is a tendency for round numbers to stop advances or declines. Traders ten
 One trading application of this principle is to **avoid placing trading orders right at these obvious round numbers**.
 As a general rule, **avoid placing protective stops at obvious round numbers**.
 In other words, protective stops on long positions should be placed below round numbers and on short positions, above such numbers.
+
+**TRENDINESS**
+
+An **up trendline** is a straight line drawn upward to the right along successive reaction lows. A **down trendline** is drawn downward to the right along successive rally peaks.
+![trendline](./trendline.png)
+
+***Tentative Versus the valid Trendline***
+In order to confirm the validity of a trendline, however, that line should be touched a third time with prices bouncing off of it.
+To summarize, two points are needed to draw the trendline, and a third point to make it a valid trendline.
+
+**How to Use the Trendline**
+
+One f the basic concepts of trend is that a trend in motion will tend to remain in motion, As a corollary to that, once a trend assumeds a certain slope or rate of speed, as identified by the trendline, it will usually maintain the same slope. The trendline then helps not only to determine the extremities of the corrective phase, but maybe even more importantly, tells us when that trend is changing.
+
+Very often, ***the breaking of the trendline is one of the best early warning of a change in trend***.
+![break-trendline](./break-trendline.png)
+
+**How to Determine the Significance of a Trendline**
+
+What determines the significance of a trendline? The answer to that question is twofold--*the longer it has been intact and the number of times it has been tested*.
+The more significant the trendline, the more confidence it inspires and the more important is its penetration.
+
+**Trendlines Should Include All Price Action**
+
+Trendlines on bar charts should be drawn over or under the entire day's price range.
+![trend all prices](trend-all-price.png)
+
+**How to Handle Small Trendline Penetrations**
+
+![trend-penetration](./trend-penetration.png)
+Unfortunately, there's no hard and fast rule to follow in such a situation. Sometimes it is best to ignore the minor breach, especially if subsequent market action proves that the original line is still valid.
+
+**What Constitutes a Valid Breaking of a Trendline?**
+
+As a general rule, **a close beyond the trendline is more significant than
+just an intraday penetration**.
+There is tradeoff involved in the use of any type of filter. If the filter is too small, it won't be very useful in reducing the impact of whipsaws. If it's too big, then much of the initial move will be missed before a valid signal is given. Here again, the trader must determine what type of
+filter is best suited to the degree of trend being followed, always making allowances for the differences in the individuals markets.
+
+An alternative to a price filter is time filter. A common time filter is the **two day rule**. In other words, to have a valid breaking of a trendline, prices must close beyond trendline for two successive days. To break an up trendline, therefore, prices must close under the trendline two days in a row. A one day violation would not count. The 1-3% rule and the two day rule are also applied to breaking of important support and resistance levels, not just to major trendlines. Another filter would require a Friday close beyond a major breakout point to ensure a weekly signal.
+
+
+**How Trendlines Reverse Roles**
+
+It's surprising how often old trendlines act as support and resistance lines again in the future, but in the opposite role.
+
+**Measuring Implications of Trendlines**
+
+Price Objectives:
+
+**THE FAN PRINCIPLE**
+
+![fan](./trend-fan.png)
+**The breaking of that third trendline is usually an indication that prices are headed lower.**
+The term "fan principle" derives from the appearance of the lines that gradually flatten out, resembling a fan. ***The important point to remember here is that the breaking of the third line is the valid trend reversal signal.***
+![fan](./trend-real-fan.png)
+
+**THE IMPORTANCE OF THE NUMBER THREE**
+
+For whatever the reason, the number three plays a very prominent role throughout the entire field of technical analysis.
+
+**THE RELATIVE STEEPNESS OF THE TRENDLINE**
+
+The 45 degree line was one of the techniques favored by W.D.Gann. Such a
+line reflects a situation where prices are advancing or declining at such a rate that price and time are in perfect balance.
+
+**How to Adjust Trendlines**
+
+Sometimes trendlines have to be adjusted to fit a slowing or an accelerating trend.
+![adjust](./trend-adjust.png)
+![adjust](./trend-accelarate.png)
+All of the techniques covered in this book work well in certain situations, but not so well in others. By having an arsenal of tools to fall back on, the technician can quickly switch from one tool to another that might work better in a given situation.
+An accelerated trend is one of those cases where a moving average would be more useful than a series of steeper and steeper trendlines.
+
+**THE CHANNEL LINE**
