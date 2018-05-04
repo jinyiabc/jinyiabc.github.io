@@ -210,3 +210,44 @@ All of the techniques covered in this book work well in certain situations, but 
 An accelerated trend is one of those cases where a moving average would be more useful than a series of steeper and steeper trendlines.
 
 **THE CHANNEL LINE**
+
+**REVERSAL DAYS**
+
+A reversal day takes place either at a top or a bottom. The generally accepted definition of a ***top reversal day*** is the setting of a new high in an uptrend, followed b a lower close on the same day.
+A ***bottom reversal day*** would be a new low during the day followed by a higher close.
+The wider the range for the day and the heavier the volume, the more significant is the signal for a possible near term trend reversal.
+![reversal day](reversal-day.png)
+
+**Weekly and Monthly Reversals**
+
+On a weekly chart, each bar represents the entire week's range with the close registered on Friday.
+An upside weekly reversal, therefore, would occur when the market trades lower during the week, makes a new low for the move, but on Friday closes above the previous Friday's close.
+
+**PRICE GAPS**
+
+Price gaps are simply areas on the bar chart where no trading has taken place. In an uptrend, for example, prices open above the highest price of the previous day, leaving a gap or open space on the chart that is not filled during the day. In a downtrend, the day's highest price is below the previous day's low. Upside gaps are signs of market strength, while downside gaps are usually signs of weakness.
+
+**Three Types of Gaps**
+
+![gaps](gaps.png)
+
+**The Island Reversal**
+
+The exhaustion gap to the upside followed by a breakaway gap to the downside completes the island reversal pattern and usually indicates a trend reversal of some magnitude.
+
+**CONCLUSION**
+
+Armed with a better understanding of these concepts, we're now ready to begin a study of price patterns.
+
+##Chapter 5. Major Reversal Patterns
+
+**PRICE PATTERNS**
+
+Price patterns are pictures or formations, which appear on price charts of stocks or commodities, that can be
+classified into different categories, and that have predictive value.
+
+**TWO TYPES OF PATTERNS: REVERSAL AND CONTINUATION**
+
+Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.
+
+***Volume*** plays an important confirming role in all of these price patterns. In times of doubt, a study of the volume pattern accompanying the price data can be the deciding factor as to whether or not the pattern can be trusted.
