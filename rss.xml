@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 03 May 2018 18:05:13 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 May 2018 09:06:55 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -513,7 +513,96 @@ line reflects a situation where prices are advancing or declining at such a rate
     
 All of the techniques covered in this book work well in certain situations, but not so well in others. By having an arsenal of tools to fall back on, the technician can quickly switch from one tool to another that might work better in a given situation.
 An accelerated trend is one of those cases where a moving average would be more useful than a series of steeper and steeper trendlines.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;THE CHANNEL LINE&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;&lt;strong&gt;THE CHANNEL LINE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;REVERSAL DAYS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A reversal day takes place either at a top or a bottom. The generally accepted definition of a &lt;strong&gt;&lt;em&gt;top reversal day&lt;/em&gt;&lt;/strong&gt; is the setting of a new high in an uptrend, followed b a lower close on the same day.
+A &lt;strong&gt;&lt;em&gt;bottom reversal day&lt;/em&gt;&lt;/strong&gt; would be a new low during the day followed by a higher close.
+The wider the range for the day and the heavier the volume, the more significant is the signal for a possible near term trend reversal.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-fd026.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.56962025316454%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVQ4y42Uh4oCQQxA/f+PEsSCgr1hF3Wt2HvP8SIJeId4gejuJPNSJrOh5/Mp6Df5jw8S4ud2u8lyuZT9fi/b7VZ2u53rZrOR8/mswPV6rWv4oNhMsV0ulxeQh36/L4/Hw6EA7ve7nE4nfw+CwOEkMJlM3I99h8PhBbxerzIcDjXl+Xwu5XLZS8CGI8EAzmYzXQdIZiYEPh6Pf4FkCpCsEDICSBaj0UjG47FCCUyrrLfA3oA449Dr9TSyBTCgZQg4nU5Lt9tVO+sG9JLpIf1ggVKQ6XSqZRDEgIPBQG0EXSwWb8C3kg1IGZyinTzr6G8gWZt8BNIbTgqojZDZrIc2CQSnRUA+HgoOOEajUYnFYlIoFLSXq9VKHQ3YbDYlkUhIOBzWd+udqQOTyaRrtVqVSqUipVJJGo2GZ5LNZiWVSkkmk1Fbu93WwLVaTU8ejt8UHIrFoho7nY465/N5nzskl8spAN96vS6tVkufCc4h+tWDTHRKjcfjmgVlUb6ND70DGIlEvBLeAbKPJBRoV4cZoydkxjNzxj8g+4DQZ+wMPUlQGXvtOqKhb18bs3/ysXXz+QEgH3anLOsEYwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;reversal day&quot;
+        title=&quot;&quot;
+        src=&quot;/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-fb8a0.png&quot;
+        srcset=&quot;/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-1a291.png 148w,
+/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-2bc4a.png 295w,
+/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-fb8a0.png 590w,
+/static/reversal-day-af9372a10b95cdf9658385a45e73d90f-fd026.png 790w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly and Monthly Reversals&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On a weekly chart, each bar represents the entire week’s range with the close registered on Friday.
+An upside weekly reversal, therefore, would occur when the market trades lower during the week, makes a new low for the move, but on Friday closes above the previous Friday’s close.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PRICE GAPS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Price gaps are simply areas on the bar chart where no trading has taken place. In an uptrend, for example, prices open above the highest price of the previous day, leaving a gap or open space on the chart that is not filled during the day. In a downtrend, the day’s highest price is below the previous day’s low. Upside gaps are signs of market strength, while downside gaps are usually signs of weakness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Three Types of Gaps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/gaps-2a845216848e44686281c100dda7fa32-8f1dc.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 104.52127659574468%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACPUlEQVQ4y42U5YpDQQyF7/s/UX+Vlip1o+7u7pblC+RSumW7gTCWOTmRGWez2Uin05FWqyXtdlvn4/FYHo+H3G43V6/Xq6uXy0WOx6Psdjs5nU7S7/clEokI4nAwGo1kOByqTiYT1eVyKYvFwh3X67WsVitdQ2K/36va/uFwUBKOHQBsyiF7jCh7zWZTarWaRsIcEpzBkAhwwtrZbrdyv9/lXZ7Pp3rkjHmlUlHms9lMdTqdKlsAEZxCQgHJiwGgCIbFYlFKpZJUq1XNG+zK5bLLttvtasg4tcgcEgtlY4UiGGFwPp+VDQ7m87nr0MTWLiAM3wFfgRGKAiC2hGVAr3aW7z8BUZiSu0/yDujm8C9AhP4kb4yNRkPq9bqm4TXkfzNEafbBYKCtQhPTr1TY7vwbEKFo5PBbyF+LYqHwCgC18EzfHX/NIUKYFOQd4FMkbsig0rSAUlFTmj2dTks0GtXmph8/peVXUTAkfkIj6XQ+Cecl8D5xRg++hmuMXwUbcByYMEGoHgXgRZCKb0IkRIYDiJBrBaS/yFWv19O2IHfWHszZZ2RNC6Fmx3tmzX3AHajHYjEJBoOSyWSkUCjoZ5BKpVSz2aybSz7RQCAgoVBI/H6/rr1er/h8Pv2U9YOFLhcBTCQSepEL8XhcR36cZDKpoDjGNpfLqS3O+H3Yg6kCwpCnxCHVBIDLAHIRMIDYw2k4HFaWHo9HmXHOHWs9bRvAoG/eWQOIYT6fV0d8sLAh36SEkf+RYlBUioj+AN/fOhK/qwc/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;gaps&quot;
+        title=&quot;&quot;
+        src=&quot;/static/gaps-2a845216848e44686281c100dda7fa32-fb8a0.png&quot;
+        srcset=&quot;/static/gaps-2a845216848e44686281c100dda7fa32-1a291.png 148w,
+/static/gaps-2a845216848e44686281c100dda7fa32-2bc4a.png 295w,
+/static/gaps-2a845216848e44686281c100dda7fa32-fb8a0.png 590w,
+/static/gaps-2a845216848e44686281c100dda7fa32-8f1dc.png 752w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Island Reversal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The exhaustion gap to the upside followed by a breakaway gap to the downside completes the island reversal pattern and usually indicates a trend reversal of some magnitude.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Armed with a better understanding of these concepts, we’re now ready to begin a study of price patterns.&lt;/p&gt;
+&lt;h2&gt;Chapter 5. Major Reversal Patterns&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PRICE PATTERNS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Price patterns are pictures or formations, which appear on price charts of stocks or commodities, that can be
+classified into different categories, and that have predictive value.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TWO TYPES OF PATTERNS: REVERSAL AND CONTINUATION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Volume&lt;/em&gt;&lt;/strong&gt; plays an important confirming role in all of these price patterns. In times of doubt, a study of the volume pattern accompanying the price data can be the deciding factor as to whether or not the pattern can be trusted.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
