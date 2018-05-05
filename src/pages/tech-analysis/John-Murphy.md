@@ -241,6 +241,10 @@ Armed with a better understanding of these concepts, we're now ready to begin a 
 
 ##Chapter 5. Major Reversal Patterns
 
+**INTRODUCTION**
+
+It would be a mistake to assume that most changes in trend are very abrupt affairs. The fact is that important changes in trend usually require a period of transition. The problem is that these periods of transition do not always signal a trend reversal. Sometimes these sideways periods just indicate a pause or consolidation in the existing trend after which the original trend is resumed.
+
 **PRICE PATTERNS**
 
 Price patterns are pictures or formations, which appear on price charts of stocks or commodities, that can be
@@ -248,6 +252,26 @@ classified into different categories, and that have predictive value.
 
 **TWO TYPES OF PATTERNS: REVERSAL AND CONTINUATION**
 
-Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.
+Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. ***The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.***
 
 ***Volume*** plays an important confirming role in all of these price patterns. In times of doubt, a study of the volume pattern accompanying the price data can be the deciding factor as to whether or not the pattern can be trusted.
+
+**Preliminary Points Common to All Reversal Patterns**
+
+1. The ***Need for a Prior Trend***
+2. The Breaking of Important Trendlines
+3. The Larger the Pattern, the Greater the Potential
+
+When we use the term "larger," we are referring to the height and the width of the price pattern. The height measures the volatility of the pattern. The width is the amount of time required to build and complete the pattern.
+
+4. Differences Between Tops and Bottoms.
+
+Topping patterns are usually shorter in duration and are more volatile than bottoms. Price swings within the tops are wider and more violent.
+For this reason it is usually easier and less costly to identify and trade bottoms than to catch market tops. One consoling factor, which makes the more treacherous topping patterns worthwhile, is that ***prices trend to decline faster than they go up***. Therefore, the trader can usually make more money a lot faster by catching the short side of a bear market than by trading the long side of a bull market.
+
+5. Volume is More Important on the Upside.
+In the early stages of a trend reversal, ***volume*** is not as important as market tops.
+
+**THE HEAD AND SHOULDERS REVERSAL PATTERN**
+
+![head shoulder](head-shoulder.png)
