@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 May 2018 05:17:42 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 May 2018 16:49:07 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -654,7 +654,218 @@ In the early stages of a trend reversal, &lt;strong&gt;&lt;em&gt;volume&lt;/em&g
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+    
+By this time, the major up trendline has already been broken, usually at point D, constituting another danger signal. But, despite all of these warnings, all that we know at this point is that the trend has shifted from up to sideways. This might be sufficient cause to liquidate long positions, but not necessarily enough to justify new short sales.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Breaking of the Neckline Completes the Pattern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Return Move&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Usually a &lt;strong&gt;&lt;em&gt;return remove&lt;/em&gt;&lt;/strong&gt; develops which is a bounce back to the bottom of the neckline or the the previous reaction low a point D (see point G), both of which have now becomes overhead resistance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let’s review the basic ingredients for a head and shoulders top.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A prior uptrend.&lt;/li&gt;
+&lt;li&gt;A left shoulder on heavier volume(point A) followed by a corrective dip to point B.&lt;/li&gt;
+&lt;li&gt;A rally into new highs but on lighter volume(point C).&lt;/li&gt;
+&lt;li&gt;A decline that moves below he previous peak(at A) and approaches the previous reaction low(point D).&lt;/li&gt;
+&lt;li&gt;A third rally(point E) on noticeably light volume that fails to reach the top of the head(at point C).&lt;/li&gt;
+&lt;li&gt;A close below the neckline.&lt;/li&gt;
+&lt;li&gt;A return move back to the neckline(point G) followed by new lows.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;THE IMPORTANCE OF VOLUME&lt;/strong&gt;
+As a general rule, the second peak(the head) should take place in lighter volume that the left shoulder. This is not a requirement, but a strong tendency and an early warning of diminishing buying pressure. The most important volume signal takes place during the third peak(the right shoulder). Volume should be noticeably lighter than on the previous two peaks. Volume should then expand on the breaking of the neckline, decline during the return move, and then expand again once the return move is over.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FINDING A PRICE OBJECTIVE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The method of arriving at a price objective is based on the &lt;strong&gt;&lt;em&gt;height&lt;/em&gt;&lt;/strong&gt; of the pattern.
+You’ll see throughout our entire study of price patterns that &lt;strong&gt;&lt;em&gt;most price targets on bar charts are based on the height or volatility of the various patterns&lt;/em&gt;&lt;/strong&gt;.
+&lt;strong&gt;It’s important to remember that the objective arrived at is only a minimum target&lt;/strong&gt;, Prices will often move well beyond the objective.
+Having a minimum target to work with, however, is very helpful in determining beforehand whether here is enough potential in a market move to warrant taking a position. The &lt;strong&gt;&lt;em&gt;maximum&lt;/em&gt;&lt;/strong&gt; objective is the size of the prior move. Reversal patterns can only be expected to reverse or retrace what has goin before them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adjusting Price Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE INVERSE HEAD AND SHOULDERS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/inverse-head-shoulder-b34d3f823f8c062e19a39bdb04393876-26951.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.53571428571429%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAB6klEQVQ4y32U54oDMQyE8/4PlL8hvfdeSe89IT3R8Qm0t4G9Mwhbsjwajb3re7/fcjqd5Hg8OobvNmL7/V7N9g+Hg/q2xsDyPZ9Pde73u84M1sTd9ng8HOPgfD6X8/ksr9dLbbfb6Z4CsvH5fDSJigz8/wa5t9vN8Tn3BUjV9XotkUhExuOxJlGZOOA2k08HABLDGEjxBchMleFwKMViUbbbrScz9nu9niPPnwyZ0YGx2WykXq9LMBiUyWQihUJBKpWKLJdL9cvlstRqNVmtVprrCUh7xooZJhxsNBrKptVqSTablWq1qmtY2kX82TIHL5eLjEYjBWM9m82UIexgRQH0I98tiycg74rB5bAmlsvllG06nVbQwWCgBQGjZU8NcUxDEq0l2kskEtJutzWGjqYf+xT2BLxerxoEkPYymYx0Oh2d8/m8XhAGaKlUkmQyqXnT6dR5Us7D5jK4Oeh3u121ZrOpZszcRhymts+bpSvYguWDWSwWE7/fL+FwWFnBIB6PO+tQKKQ+xk1Ho1HVlj0+hEAg4Dw5BURoqqMZB9CJVvFTqZT6zABQBGBatxigvAYFRIN+v68VOchtYghPEZ4Ja2sR7YgjDfnE2FssFr8MeVckUIVkGPO9IjK68BPAt5j772N/I/vWfwAnsarubR9mygAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;inverse head shoulder&quot;
+        title=&quot;&quot;
+        src=&quot;/static/inverse-head-shoulder-b34d3f823f8c062e19a39bdb04393876-26951.png&quot;
+        srcset=&quot;/static/inverse-head-shoulder-b34d3f823f8c062e19a39bdb04393876-b2ad5.png 148w,
+/static/inverse-head-shoulder-b34d3f823f8c062e19a39bdb04393876-2283b.png 295w,
+/static/inverse-head-shoulder-b34d3f823f8c062e19a39bdb04393876-26951.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;One slight difference at the bottom is the greater tendency for the return move back to the neckline to occur after the bullish breakout.
+The most important difference between the top and bottom patterns is the volume sequence. Volume plays a much more critical role in the identification and completion of a head and shoulders bottom. At bottoms, however, markets require a significant increase in buying pressure, reflected in greater volume, to launch a new bull market.&lt;/p&gt;
+&lt;p&gt;A more technical way of looking at this difference is that a market can fall just from inertial. Lack of demand or buying interest on the part of traders is often enough to push a market lower; but a market does not go up on inertia. Prices only rise when demand exceeds supply and buyers are more aggressive than sellers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Slope of the Neckline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;COMPLEX HEAD AND SHOULDERS PATTERNS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A variation of the head and shoulders pattern sometimes occurs which is called the &lt;strong&gt;&lt;em&gt;complex head and shoulders pattern&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tactics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Failed Head And Shoulders Pattern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This type of pattern starts out looking like a classic head and shoulders reversal, but at some point in its development , prices resume their original trend.
+There are two important lessons here. The first is that none of these chart patterns are infallible. They work most of the time, but not always. The second lesson is that technical traders must always be on the alert for chart signs that their analysis is incorrect. One of the keys to survival in the financial markets is to keep trading losses small and to exit a losing trade as quickly as possible. One of the greatest advantages of chart analysis is its ability to quickly alert the trader to the fact that he or she is on the wrong side of the market.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Head And Shoulders as a Consolidation Patterns&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’ll talk more about this in Chapter 6, “Continuation Patterns.”&lt;/p&gt;
+&lt;h2&gt;TRIPLE TOPS AND BOTTOMS&lt;/h2&gt;
+&lt;p&gt;The volume tends to decline with each successive peak at the top and should increase at the breakdown point. The triple top is not complete until support levels along both of the intervening lows have been broken. Conversely, prices must close through the two intervening peaks at the bottom to complete a triple bottom.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/triple-top-1784696b075c9c345e2465aa0a0e787a-7cb1a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 533px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.29831144465291%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAB7ElEQVQ4y22Uh6pqQQxFz///kogFe+9iw4YFe++ay9qPOdwnNxAzMZOdnUzUW61WtlgszMnpdLJ+v2+v10v+eDy2+Xyu8/1+t8lkovPj8VDe+/2Wj93tduYB6BKQw+Fg8XjcLpeL/Gw2K0XO57NiAFPwer36hSnwJyBJw+FQ3202GzFcr9c2m81kifH9twC43W7N49LvlkkkSGK1WhUwZ0aRSqUU63Q68j+fjx2PR9nn8/mPIYDL5dIHHI1GaoOWYe8qY/GRdrtttVpN/n6/130AGZcHGKwQWhkMBv5cEKp/CznMtdVq+XEKAv7fDBk4bX6D4DtFGo2GSDAqOnKAPkOU/lEKkABLLtAer4ncbjfpdDrVHLvdrlp3K6UZUoU54lCNypFIxPL5vDWbTUun01apVATS6/UsmUyq3Xq9brlczn9QCKhl2LGsMAsGg2o7Go1aOBzWqxYKBQuFQrJoLBYTKKPJZDIiATteWy3zQWKpVBIbVoRzsVhU67AhGTDisEIpjHWLz5lH9aAZCASUUC6XBeIA8WkdJpxJpDgjSCQSinGPXGbJfAVIgJkARDtc4EwirJgpgJyJoxRxLAHnLq17/NRgBairRDKV3QIDzgNhiWEZAySw3GWWrI7318793r3vPXTKv4uzADn5AVvbVHiEepyLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;triple top&quot;
+        title=&quot;&quot;
+        src=&quot;/static/triple-top-1784696b075c9c345e2465aa0a0e787a-7cb1a.png&quot;
+        srcset=&quot;/static/triple-top-1784696b075c9c345e2465aa0a0e787a-90fcb.png 148w,
+/static/triple-top-1784696b075c9c345e2465aa0a0e787a-a64cf.png 295w,
+/static/triple-top-1784696b075c9c345e2465aa0a0e787a-7cb1a.png 533w&quot;
+        sizes=&quot;(max-width: 533px) 100vw, 533px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/triple-bottom-46f090451afe2d564fbbba8d1ef52340-b81dd.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 531px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.57062146892656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACKklEQVQ4y42Uh4ojQQxE5///yNgYg3HOOeeccw46nkBm8O7CCeT29LRKJZV6nNPpJJvNRn273arbs/lut9N91v1+/znLul6vdV2tVrrnDAYDCYfD0m639aU5wdVqVeLxuHoikdA1l8vJdDrVM4vFQr3f7ytGq9USZzabyeVykcPhIFi325V6va4JRqORvF4vud/v8ng8Pv5+v8Vtz+dTGcLUIQPm8XgEtpgBAPabAWiggGHz+Vzdgf71epVYLCaFQuET4A78yzGqi0ajWhEsHeru9XoyHA6lVCrpIZi5A7+fbQ8rl8vi8/mk0+loXx36RAYUmkwmP4J/K9UNGIlEVCTil8ulONBETQwxrKcE4GQdj8ca8N2/8/ms73iGDAKrKLfbTQ9QNnNpgBjjQxAB3+xIZkLCUkVxAyIOzYW6qU3TrVeMlFtZ4nCSAAaWlkygmdfr1QFlbPL5vPj9fgVNJpMSCASUKQbrZrOp4DAGR0uGjTG0F/SSyc9ms1IsFvWWIN7xeJRKpSLpdFqCwaACGmNKJtkPQIxAxsDECoVCn9IAZ5/2uA0cVZkfFIQuV4c+cA0piTvKM2LBEPbsM7dcglqtpuA41ehd5gC94hAbgMIORwTeGwgJKAvhGo2Glkx7AEZt/doQhBCoSOM5lEql9D/lsTK89JTVvjj8N6EymYzeMnrpkBEASgCAl5QIK7LCjBV2uO1RAbFUxXlWvXoMss2Qfef++sr8j/0DmoxHtPRnNNQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;triple bottom&quot;
+        title=&quot;&quot;
+        src=&quot;/static/triple-bottom-46f090451afe2d564fbbba8d1ef52340-b81dd.png&quot;
+        srcset=&quot;/static/triple-bottom-46f090451afe2d564fbbba8d1ef52340-f5dd6.png 148w,
+/static/triple-bottom-46f090451afe2d564fbbba8d1ef52340-b4361.png 295w,
+/static/triple-bottom-46f090451afe2d564fbbba8d1ef52340-b81dd.png 531w&quot;
+        sizes=&quot;(max-width: 531px) 100vw, 531px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;DOUBLE TOPS AND BOTTOMS&lt;/h2&gt;
+&lt;p&gt;A much more common reversal pattern is the &lt;strong&gt;&lt;em&gt;double top or bottom&lt;/em&gt;&lt;/strong&gt;.
+Next to the &lt;em&gt;head and shoulders&lt;/em&gt;, it is the most frequently seen and the most easily recognized.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/double-tops-8deaa1c1322198aac2f4ca9b881c2130-487c8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 521px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.73512476007679%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAB6UlEQVQ4y52TV44qMAxFs/+FsAX4A4EQvfcmeu9NdPx0LBkxPDQfY8lK4tjX147jVquVbLfbr7rZbHTd7/f/ndmv1+uXzdRNp1N5PB5yu91kuVzK5XKR6/Wqer/fZbFYSDweFxI3Gg3J5XJSq9VkPp9rjPmyP51O4gAxwQlw5Pl86no8HqVUKkm/35d0Oi1+v18g8U0g4KBtMpvN1AiYAWJDAoGAeDweBctms9Jut7XE8/n8ioflD0CcAURw7PV6aut2uzIYDPSOoEwmI+VyWQ6Hg/paVb8Ckr1erysz9ia73U7BERKa/1dAyiMbD1CpVJQZjTYW1gprB+A8mvX8ByABjAAAXq9XH8LEAN7PZoOhJVPA93KYr0KhIK1W6+WME6vtP8/vyQB2k8lEBxRgekOzeUFAO52OKvNnShu4Z+VuPB4rEcoHx9F4n88nqVRKdTQaSTKZlHw+L81mUxljpwX4csc8FotFTcAIJRIJqVarGqM/hZ+AcsnKWPAbYBuNRtXGIxEYDodfIBZHglgspmQc9IPBoBoBgQ0sACMje4IBjkQiyhR7KBR6Jefe4h19Ax0gHPmrgMCCsjhzb6UCar2kf8PhUHvKTILlGBNmidljbPjb7GmwPRZn8+G/vw/zpzj5o3wOOortHw+WrdOdujelAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;double-tops&quot;
+        title=&quot;&quot;
+        src=&quot;/static/double-tops-8deaa1c1322198aac2f4ca9b881c2130-487c8.png&quot;
+        srcset=&quot;/static/double-tops-8deaa1c1322198aac2f4ca9b881c2130-a2eec.png 148w,
+/static/double-tops-8deaa1c1322198aac2f4ca9b881c2130-793ad.png 295w,
+/static/double-tops-8deaa1c1322198aac2f4ca9b881c2130-487c8.png 521w&quot;
+        sizes=&quot;(max-width: 521px) 100vw, 521px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/double-bottoms-263558a8978b3b54c6bf24d5cf2516fa-64f81.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 539px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACDUlEQVQ4y3WUZ6tCMQyG+/9/k59EcQ8U995775nLE0k54DWQ0540eTNbdz6fZTqdymq1kv1+r7zdbpVns5kMBgPp9/vKnU5HdReLhfJ8PldGp9FoCFhuvV5LOp2WWq2mh5PJRMEBRLFUKkm5XJZKpSK5XE7G47Ecj0d1DABrsViUVCr1AdztdqowHA4VAFDo/X7LL3q9XvJ8PnVPALFYTCM+nU7iiARko8Ph4AFhjI0BMTl0v981M8CWy+UHkAhh6Ha7aZ1Iw+i/SE2GHSCXy0Uj9RE2m01NGS/893o92Ww23tHj8VB5oVCQVqvlQWiUgVIqSqcRAkTx2+22N6bIdNRSw8DOLXX0KAWApE1mGuH1elVFwFFkb53EALJ/I5wwIXYGIPYKiIdgfaxGJkeR6KyBOKHeZGZ6gH8BohgEJCJGidmj+/wz7KRPOSxiIkT+E9DSRIFGWGoQzaMZNBIgixBdLoQ2JTiHQUKBc6IBhJVIkTEmRgAyFZTAR4g3hDSIAmOIUbfb1RTr9bpUq1WVs+e6cca1RM6U4NABxDAbA0Y0o9HI7wFGmRU5AOYAQNJnPtF3dCsUCkkikZBsNquHrDwYeI1GoxKPxyUSiUgmk9Ga5vN53TOr6IbDYUkmkzpKjg+GKPIE4ZWouC14tecLR5zzz55ze9awQRdyDDGds3TtEYDtUQg+EjZWv+74HyMkBNbYqN/EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;double bottoms&quot;
+        title=&quot;&quot;
+        src=&quot;/static/double-bottoms-263558a8978b3b54c6bf24d5cf2516fa-64f81.png&quot;
+        srcset=&quot;/static/double-bottoms-263558a8978b3b54c6bf24d5cf2516fa-1321f.png 148w,
+/static/double-bottoms-263558a8978b3b54c6bf24d5cf2516fa-3cc55.png 295w,
+/static/double-bottoms-263558a8978b3b54c6bf24d5cf2516fa-64f81.png 539w&quot;
+        sizes=&quot;(max-width: 539px) 100vw, 539px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+For obvious reasons, the top is often referred to as an ‘M’ and the bottom as a ‘W.’ The general characteristics of a &lt;em&gt;double top&lt;/em&gt; are similar to that of the head and shoulders and triple top except that only two peaks appear instead of three. The volume pattern is similar as it the measuring rule.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measuring Technique for the Double Top&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The measuring technique for the double top is the height of the pattern projected from the breakdown point(the point where the middle trough at point B is broken).&lt;/p&gt;
+&lt;h2&gt;VARIATIONS FROM THE IDEAL PATTERN&lt;/h2&gt;
+&lt;p&gt;What does cause some problems is when the second peak actually exceeds the first peak by a slight margin. What at first may appear to be a valid upside breakout and resumption of the uptrend may turn out to be part of the topping process. To help resolve this dilemma, some of the filtering criteria already mentioned may come in handy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
