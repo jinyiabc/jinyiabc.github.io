@@ -275,3 +275,81 @@ In the early stages of a trend reversal, ***volume*** is not as important as mar
 **THE HEAD AND SHOULDERS REVERSAL PATTERN**
 
 ![head shoulder](head-shoulder.png)
+By this time, the major up trendline has already been broken, usually at point D, constituting another danger signal. But, despite all of these warnings, all that we know at this point is that the trend has shifted from up to sideways. This might be sufficient cause to liquidate long positions, but not necessarily enough to justify new short sales.
+
+**The Breaking of the Neckline Completes the Pattern**
+
+**The Return Move**
+
+Usually a ***return remove*** develops which is a bounce back to the bottom of the neckline or the the previous reaction low a point D (see point G), both of which have now becomes overhead resistance.
+
+**Summary**
+
+Let's review the basic ingredients for a head and shoulders top.
+
+1. A prior uptrend.
+2. A left shoulder on heavier volume(point A) followed by a corrective dip to point B.
+3. A rally into new highs but on lighter volume(point C).
+4. A decline that moves below he previous peak(at A) and approaches the previous reaction low(point D).
+5. A third rally(point E) on noticeably light volume that fails to reach the top of the head(at point C).
+6. A close below the neckline.
+7. A return move back to the neckline(point G) followed by new lows.
+
+**THE IMPORTANCE OF VOLUME**
+As a general rule, the second peak(the head) should take place in lighter volume that the left shoulder. This is not a requirement, but a strong tendency and an early warning of diminishing buying pressure. The most important volume signal takes place during the third peak(the right shoulder). Volume should be noticeably lighter than on the previous two peaks. Volume should then expand on the breaking of the neckline, decline during the return move, and then expand again once the return move is over.
+
+**FINDING A PRICE OBJECTIVE**
+
+The method of arriving at a price objective is based on the ***height*** of the pattern.
+You'll see throughout our entire study of price patterns that ***most price targets on bar charts are based on the height or volatility of the various patterns***.
+**It's important to remember that the objective arrived at is only a minimum target**, Prices will often move well beyond the objective.
+Having a minimum target to work with, however, is very helpful in determining beforehand whether here is enough potential in a market move to warrant taking a position. The ***maximum*** objective is the size of the prior move. Reversal patterns can only be expected to reverse or retrace what has goin before them.
+
+**Adjusting Price Objectives**
+
+**THE INVERSE HEAD AND SHOULDERS**
+
+![inverse head shoulder](inverse-head-shoulder.png)
+
+One slight difference at the bottom is the greater tendency for the return move back to the neckline to occur after the bullish breakout.
+The most important difference between the top and bottom patterns is the volume sequence. Volume plays a much more critical role in the identification and completion of a head and shoulders bottom. At bottoms, however, markets require a significant increase in buying pressure, reflected in greater volume, to launch a new bull market.
+
+A more technical way of looking at this difference is that a market can fall just from inertial. Lack of demand or buying interest on the part of traders is often enough to push a market lower; but a market does not go up on inertia. Prices only rise when demand exceeds supply and buyers are more aggressive than sellers.
+
+**The Slope of the Neckline**
+
+
+**COMPLEX HEAD AND SHOULDERS PATTERNS**
+
+A variation of the head and shoulders pattern sometimes occurs which is called the ***complex head and shoulders pattern***.
+
+**Tactics**
+
+**The Failed Head And Shoulders Pattern**
+
+This type of pattern starts out looking like a classic head and shoulders reversal, but at some point in its development , prices resume their original trend.
+There are two important lessons here. The first is that none of these chart patterns are infallible. They work most of the time, but not always. The second lesson is that technical traders must always be on the alert for chart signs that their analysis is incorrect. One of the keys to survival in the financial markets is to keep trading losses small and to exit a losing trade as quickly as possible. One of the greatest advantages of chart analysis is its ability to quickly alert the trader to the fact that he or she is on the wrong side of the market.
+
+**The Head And Shoulders as a Consolidation Patterns**
+
+We'll talk more about this in Chapter 6, "Continuation Patterns."
+
+##TRIPLE TOPS AND BOTTOMS
+
+The volume tends to decline with each successive peak at the top and should increase at the breakdown point. The triple top is not complete until support levels along both of the intervening lows have been broken. Conversely, prices must close through the two intervening peaks at the bottom to complete a triple bottom.
+![triple top](triple-top.png)
+![triple bottom](triple-bottom.png)
+
+##DOUBLE TOPS AND BOTTOMS
+A much more common reversal pattern is the ***double top or bottom***.
+Next to the *head and shoulders*, it is the most frequently seen and the most easily recognized.
+![double-tops](double-tops.png)
+![double bottoms](double-bottoms.png)
+For obvious reasons, the top is often referred to as an 'M' and the bottom as a 'W.' The general characteristics of a *double top* are similar to that of the head and shoulders and triple top except that only two peaks appear instead of three. The volume pattern is similar as it the measuring rule.
+
+**Measuring Technique for the Double Top**
+
+The measuring technique for the double top is the height of the pattern projected from the breakdown point(the point where the middle trough at point B is broken).
+
+##VARIATIONS FROM THE IDEAL PATTERN
+What does cause some problems is when the second peak actually exceeds the first peak by a slight margin. What at first may appear to be a valid upside breakout and resumption of the uptrend may turn out to be part of the topping process. To help resolve this dilemma, some of the filtering criteria already mentioned may come in handy.
