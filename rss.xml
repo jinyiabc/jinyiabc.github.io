@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 May 2018 09:06:55 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 May 2018 05:17:42 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -597,12 +597,64 @@ An upside weekly reversal, therefore, would occur when the market trades lower d
 &lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Armed with a better understanding of these concepts, we’re now ready to begin a study of price patterns.&lt;/p&gt;
 &lt;h2&gt;Chapter 5. Major Reversal Patterns&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It would be a mistake to assume that most changes in trend are very abrupt affairs. The fact is that important changes in trend usually require a period of transition. The problem is that these periods of transition do not always signal a trend reversal. Sometimes these sideways periods just indicate a pause or consolidation in the existing trend after which the original trend is resumed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PRICE PATTERNS&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Price patterns are pictures or formations, which appear on price charts of stocks or commodities, that can be
 classified into different categories, and that have predictive value.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TWO TYPES OF PATTERNS: REVERSAL AND CONTINUATION&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Volume&lt;/em&gt;&lt;/strong&gt; plays an important confirming role in all of these price patterns. In times of doubt, a study of the volume pattern accompanying the price data can be the deciding factor as to whether or not the pattern can be trusted.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;Reversal patterns indicate that an important reversal in trend is taking place. The continuation patterns, on the other hand, suggest that the market is only pausing for awhile, possibly to correct a near term overbought or oversold condition, after which the existing trend will be resumed. &lt;strong&gt;&lt;em&gt;The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Volume&lt;/em&gt;&lt;/strong&gt; plays an important confirming role in all of these price patterns. In times of doubt, a study of the volume pattern accompanying the price data can be the deciding factor as to whether or not the pattern can be trusted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preliminary Points Common to All Reversal Patterns&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The &lt;strong&gt;&lt;em&gt;Need for a Prior Trend&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The Breaking of Important Trendlines&lt;/li&gt;
+&lt;li&gt;The Larger the Pattern, the Greater the Potential&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When we use the term “larger,” we are referring to the height and the width of the price pattern. The height measures the volatility of the pattern. The width is the amount of time required to build and complete the pattern.&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Differences Between Tops and Bottoms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Topping patterns are usually shorter in duration and are more volatile than bottoms. Price swings within the tops are wider and more violent.
+For this reason it is usually easier and less costly to identify and trade bottoms than to catch market tops. One consoling factor, which makes the more treacherous topping patterns worthwhile, is that &lt;strong&gt;&lt;em&gt;prices trend to decline faster than they go up&lt;/em&gt;&lt;/strong&gt;. Therefore, the trader can usually make more money a lot faster by catching the short side of a bear market than by trading the long side of a bull market.&lt;/p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;Volume is More Important on the Upside.
+In the early stages of a trend reversal, &lt;strong&gt;&lt;em&gt;volume&lt;/em&gt;&lt;/strong&gt; is not as important as market tops.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;THE HEAD AND SHOULDERS REVERSAL PATTERN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/head-shoulder-b6f521e2ef939a228ab34b4003266e46-c147b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 554px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 97.65342960288808%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACcUlEQVQ4y3WUB2tqQRCF/f//R0Q0ICrR2DW22HvviomxbPgOzMXk8QaG3Z07e+ZMuevbbrfueDy6/X4vPRwO/yh2/J4V+2azcbvdTufT6eQQH2Do19eXu16v0u/vb6nt7/e79HK5SNkPh0O3Wq3c7XaTDVABTqdTNxgM5PQ/WSwWbjwee+f1eu0BmJDF4/Fwvslk4jqdjiIhrJ+fn2J3Pp9lq1arLpfLab9cLsUOHysRZDxAUuVAagj0R6ORQObzuZw+Pj5cr9cTU5jBtlwuq4bYCO4BUj+cMGJAiFooFBQZJjBqNptSpNFouNls9itlmiNALgDwF5ALOPEdtu12W7Z+vy8b7MmOskCIuqoppIcTbAzQRgFGr6+vLhQKCTCdTrtSqaTLb29vLhwOq6GkS/oCtA7SDAPkAixarZYLBAJKsV6ve3WyRgFKcAQCXso4kjLCmU6SNsz/io0XwZgQgmPzAJlw6BpgpVJRQ7rdrkBtlIyZrZSAyWAC7G/zGEKbSxQYVowEY0KqFJ49rLlkzYME9afOZOgB0jnYILClLqxEjsfjql0ikRDzWq2mIKyknMlktP6qITUAkDFA8/m8uhqLxdzLy4su+f1+dTuVSikIezoeiUQUzMZGgBaZlQEGnA4S2ZS0YGzMUPPBRpaURoAW6f39Xew4w4p/lz2sOEejUZ1N8WUmg8Gg6msN8xGdCzAElIagxWJRCqAFw5cJwB+GfE8mk8rMA4SysTKlMVwEBKbYstms6kX9AGGP4ss3UtafQtdggBEAYwZjOmzA1JA9AUiVFR8eWf42XikB2mvMHNorzZkVm73az/ZnfRZS/gGf/c3ZhkL+hQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;head shoulder&quot;
+        title=&quot;&quot;
+        src=&quot;/static/head-shoulder-b6f521e2ef939a228ab34b4003266e46-c147b.png&quot;
+        srcset=&quot;/static/head-shoulder-b6f521e2ef939a228ab34b4003266e46-29bd5.png 148w,
+/static/head-shoulder-b6f521e2ef939a228ab34b4003266e46-ec5d8.png 295w,
+/static/head-shoulder-b6f521e2ef939a228ab34b4003266e46-c147b.png 554w&quot;
+        sizes=&quot;(max-width: 554px) 100vw, 554px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
