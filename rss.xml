@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 May 2018 16:49:07 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 06 May 2018 04:24:24 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -865,7 +865,120 @@ For obvious reasons, the top is often referred to as an ‘M’ and the bottom a
 &lt;p&gt;&lt;strong&gt;Measuring Technique for the Double Top&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The measuring technique for the double top is the height of the pattern projected from the breakdown point(the point where the middle trough at point B is broken).&lt;/p&gt;
 &lt;h2&gt;VARIATIONS FROM THE IDEAL PATTERN&lt;/h2&gt;
-&lt;p&gt;What does cause some problems is when the second peak actually exceeds the first peak by a slight margin. What at first may appear to be a valid upside breakout and resumption of the uptrend may turn out to be part of the topping process. To help resolve this dilemma, some of the filtering criteria already mentioned may come in handy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;What does cause some problems is when the second peak actually exceeds the first peak by a slight margin. What at first may appear to be a valid upside breakout and resumption of the uptrend may turn out to be part of the topping process. To help resolve this dilemma, some of the filtering criteria already mentioned may come in handy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most chartists require a close beyond a previous resistance peak instead of just an intraday penetration. Second, a price filter of some type might be used. One such example is a percentage penetration criterion(such as 1% or 3%). Third, the two day penetration rule could be used as an example of a time filter.
+These filters are certainly not infallible, but do serve to reduce the number of false signals(or whipsaws) that often occur.&lt;/p&gt;
+&lt;p&gt;It’s not that unusual for the final leg or wave of a bull market to set a new high before reversing direction. In such a case, the final upside breakout would become a “bull trap.”
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bull-trap-1b0eee36de027c1e644a2d180c8f27d2-0e065.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 535px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.61682242990655%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAABj0lEQVQ4y3WT266CQAxF+f/v4sGIlygoUYM+SKJ4Ae8RFWpWT0pG45mkmTJ0dnd3O97pdBKz4/HYmH275+ZXVSW/Vl3X4h0OBw14Pp8f9ng8mnP81+ul/nq9liRJxPd9CcNQbbfb6X+Wt9ls5L8FI2MDWJqmCrharRQwCAKZTqfSbrc1VgG32606djHLMun3+8qKwMVi0ZxdLhcpy1IgAVgURcqw0+nI+Xz+DQh9SkKK/X4vg8FAmdkClAQkI8lwOJTJZKKxCgiACYpREovAVqulJRGMRiS9Xq+atNfrSRzHMhqNtIo8z/8ADdlYEny/3zUQZpQIKMz4f7vdhKq63a4mJQ6/KIrPktFlNpvJfD5X0d0FiHURhsQCghwkg601tyl5uVyqLqYX5cOI3b5dQMDG47E2BUCTSueQDpGRUt3L7sB+A5IcDQGldHYIeHQMVoyJ6WgA3+YCMoc0DSB25FKGUOU50Rz0xJABM58dEJIjDbHMHiwpmbNmDukegBz8etf4yGLnxPFquMc3jF1p3hYE1ga2/zooAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;bull trap&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bull-trap-1b0eee36de027c1e644a2d180c8f27d2-0e065.png&quot;
+        srcset=&quot;/static/bull-trap-1b0eee36de027c1e644a2d180c8f27d2-8485e.png 148w,
+/static/bull-trap-1b0eee36de027c1e644a2d180c8f27d2-b3455.png 295w,
+/static/bull-trap-1b0eee36de027c1e644a2d180c8f27d2-0e065.png 535w&quot;
+        sizes=&quot;(max-width: 535px) 100vw, 535px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Term “Double Top” Greatly Overused&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because the technical odds usually favor continuation of the present trend, it is usually wise to await completion of the pattern before taking action.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time Between Peaks or Troughs Is Important&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Finally, the size of the pattern is always important. The longer the time period between the two peaks and the greater the height of the pattern, the greater the potential impending reversal. This is true of all chart patterns.&lt;/p&gt;
+&lt;h2&gt;SAUCERS AND SPIKES&lt;/h2&gt;
+&lt;p&gt;The saucer bottom shows a very slow and very gradual turn from down to sideways to up. It is difficult to tell exactly when the saucer has been completed or to measure how far prices will travel in the opposite direction. The longer they last, the more significant they become.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/saucer-3982e1c1a9e113b88326a615ac7d24f8-ab71f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 527px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.5426944971537%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAB6klEQVQ4y5WU54pCMRCF8/4v5S9RsYuIBXvvvZdZvgMj4q7s7sCQe5PMmck5k4RGo2G1Ws1Go5GNx2P5dDq12WxmnU7H2u22dbtd6/f7ctaWy6UtFounM0cc86FQKFg+n7fdbmfH41Hjdru19XptrCWTSYvH4/JoNKokDjCZTJQ4l8tZKpWyZrNpYbVaGcbicDjURsD+Y/V6XcCcJFAyNhgMrNfraZzP55q73+/2eDy+Oebj6XQSIDjEB879k70GfnIMjlutlm02G9HxPDLVuL+DfUqEQRNAh8NB4AHk1w2/2WsSxKMgHJpUIar+drR37vwbERCDolBeorwD/rW6y+WivuQfQZ4qO6AbHNLklUpFnND41WpVm1+p4bj0LYawVCmVHXC/3yu4XC6rDyGZAG92/m+3m6ohGUnd4M9vWSATvYRaBEIwlbEJMBIxAggY+4gB3Kt1QI4dyERjAuoGCPPe5FTs9/Z6vX7jlkIA0132qgAgGB4ABMxBSYgAVMeYyWR0b7nr8ItDFTwGLnw2m9WLAxgLcIQzx8hNgAaACU6n03pQisWivFQqSTSJEolELBaL6VVhgVcDULLzijASBAjOP3sSiYTWiSGWis/nswVQqYDMqEwVHBmu4JV+w/kmwOf4xtnHiHCI9QXtXgjbX8hslAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;saucer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/saucer-3982e1c1a9e113b88326a615ac7d24f8-ab71f.png&quot;
+        srcset=&quot;/static/saucer-3982e1c1a9e113b88326a615ac7d24f8-d9803.png 148w,
+/static/saucer-3982e1c1a9e113b88326a615ac7d24f8-9d928.png 295w,
+/static/saucer-3982e1c1a9e113b88326a615ac7d24f8-ab71f.png 527w&quot;
+        sizes=&quot;(max-width: 527px) 100vw, 527px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;strong&gt;Spikes&lt;/strong&gt; are the hardest market turns to deal with because the spike(or V pattern) happens very quickly with little or no transition period. A daily or weekly reversal, on very heavy volume, is sometimes the only warning they give us. That being the case, there’s not much more we can say about them except that we hope you don’t run into too many of them.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/spike-cdc8ccf7431b8f422e0881938f561f39-ff67a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 544px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 83.63970588235294%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACIUlEQVQ4y3WT54prMQyEz/s/Un5tEhJCeu+9996blm8uDoew12AsW7I0Gkne9Xq1yWRiy+XSjsej7fd7W61W2rPZzLrdrvX7fRuNRpI5sWU7O/63223b7XbmbbdbS6fTlkwmbTAY6MN6vZbz6XRq2WzWCoWCxWIxi8fjNh6P7XK5KPDhcDAADYdDK5fLcu7h9X6/22KxEAKU3P3r8XhYq9USAoKCnPV6vXQSAMSbzeYfwtPpZH+t9/ut83w+CzmIHDK/HpRkJYdE5YM/opPdPZVKWafTsUwm83HC6WQyIpA4xCspkTIfms2m7iBPJBJWrVYlwx3EkzoO/A4BhP6DkHSoJPyAhCLwEUOc+xfEF4tFFc2t2+2moKQtDkEFsW59O3Jo3IYzgrs/3An0ceh35tL4dvS9qDStRja5XE4I1TbkzYWeo2VAR9XdySYgzYsNXCO7IvB3Pp9LRxA55DMbg/8t0uET5LP9rQaHtVpNehUFJZzh1LXK8/lUNd2dpif4X+mTAUWVQ6qF8c/Pj4VCIYtGo+KEkaP/qGg+n7dAICAdvAWDQY1iJBLROPLW6/WE3KNCeMep4wkuUTJO8AM3yJzoG42GZpeC0Kf1el1vqjJpgY5oIEJJRBeZlgIZqMLhsGwYAOzJBBuyQYZLD+54KJVKisgJwTQ4MgjYpM6kVCoV6UGEDTJBGQRm3IN88gcZKRMAGkCOjqhOZqPndLP+3au/IgH8lpcZekgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;spike&quot;
+        title=&quot;&quot;
+        src=&quot;/static/spike-cdc8ccf7431b8f422e0881938f561f39-ff67a.png&quot;
+        srcset=&quot;/static/spike-cdc8ccf7431b8f422e0881938f561f39-c2e61.png 148w,
+/static/spike-cdc8ccf7431b8f422e0881938f561f39-08c14.png 295w,
+/static/spike-cdc8ccf7431b8f422e0881938f561f39-ff67a.png 544w&quot;
+        sizes=&quot;(max-width: 544px) 100vw, 544px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’ve discussed the five most commonly used major reversal patterns—the head and shoulders, double and triple tops and bottoms, the saucer, and the V, or spike.
+There is another class of patterns, however, which are shorter term in nature and usually suggest trend consolidations rather that reversals. They are aptly called &lt;strong&gt;&lt;em&gt;continuation&lt;/em&gt;&lt;/strong&gt; patterns. Let’s look at this other type of pattern in Chapter 6.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
