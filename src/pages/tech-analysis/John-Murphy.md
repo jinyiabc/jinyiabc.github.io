@@ -353,3 +353,31 @@ The measuring technique for the double top is the height of the pattern projecte
 
 ##VARIATIONS FROM THE IDEAL PATTERN
 What does cause some problems is when the second peak actually exceeds the first peak by a slight margin. What at first may appear to be a valid upside breakout and resumption of the uptrend may turn out to be part of the topping process. To help resolve this dilemma, some of the filtering criteria already mentioned may come in handy.
+
+**Filters**
+
+Most chartists require a close beyond a previous resistance peak instead of just an intraday penetration. Second, a price filter of some type might be used. One such example is a percentage penetration criterion(such as 1% or 3%). Third, the two day penetration rule could be used as an example of a time filter.
+These filters are certainly not infallible, but do serve to reduce the number of false signals(or whipsaws) that often occur.
+
+It's not that unusual for the final leg or wave of a bull market to set a new high before reversing direction. In such a case, the final upside breakout would become a "bull trap."
+![bull trap](bull-trap.png)
+
+**The Term "Double Top" Greatly Overused**
+
+Because the technical odds usually favor continuation of the present trend, it is usually wise to await completion of the pattern before taking action.
+
+**Time Between Peaks or Troughs Is Important**
+
+Finally, the size of the pattern is always important. The longer the time period between the two peaks and the greater the height of the pattern, the greater the potential impending reversal. This is true of all chart patterns.
+
+##SAUCERS AND SPIKES
+
+The saucer bottom shows a very slow and very gradual turn from down to sideways to up. It is difficult to tell exactly when the saucer has been completed or to measure how far prices will travel in the opposite direction. The longer they last, the more significant they become.
+![saucer](saucer.png)
+**Spikes** are the hardest market turns to deal with because the spike(or V pattern) happens very quickly with little or no transition period. A daily or weekly reversal, on very heavy volume, is sometimes the only warning they give us. That being the case, there's not much more we can say about them except that we hope you don't run into too many of them.
+![spike](spike.png)
+
+**CONCLUSION**
+
+We've discussed the five most commonly used major reversal patterns--the head and shoulders, double and triple tops and bottoms, the saucer, and the V, or spike.
+There is another class of patterns, however, which are shorter term in nature and usually suggest trend consolidations rather that reversals. They are aptly called ***continuation*** patterns. Let's look at this other type of pattern in Chapter 6.
