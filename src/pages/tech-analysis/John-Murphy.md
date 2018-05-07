@@ -391,12 +391,12 @@ Most of the discussion of charting theory to this point has concentrated mainly 
 
 **VOLUME AND OPEN INTEREST AS SECONDARY INDICATORS**
 
-Price is by far the most important. Volume and open interest are secondary in importance and are used primarily aas confirming indicators. Of those two. volume is the more important.
+Price is by far the most important. Volume and open interest are secondary in importance and are used primarily as confirming indicators. Of those two. volume is the more important.
 
 **Volume**
 
 Volume is the number of entities traded during the time period under study.
-![volume](dalily-volume.png)
+![volume](volume-daily.png)
 
 **Open Interest in Futures**
 
@@ -423,3 +423,19 @@ The chartist is also watching for signs of ***divergence***.
 Divergence occurs if the penetration of a previous high by the price trend takes place on declining volume. This action alerts the chartist to diminishing buying pressure. If the volume also shows a tendency to pick up on price dips, the analyst begins to worry that uptrend is in trouble.
 
 **Volume as Confirmation in Price Patterns**
+
+One of the first signs of a head and shoulders top occurred when prices move into new highs during the formation of the head on light volume with heavier activity on the subsequent decline to the neckline. The double and triple tops saw lighter volume on each successive peak followed by heavier downside activity. Continuation patterns, like the triangle, should be accompanied by a gradual drop off in volume. As a rule, the resolution of all price patterns(the breakout point) should be accompanied by heavier trading activity if the signal given by that breakout is real.
+
+**Volume Precedes Price**
+
+Technicians believe that ***volume precedes price,*** meaning that the loss of upside pressure in and uptrend or downside pressure in a downtrend actually shows up in the volume figures before it is manifested in a reversal of the price trend.
+
+**On Balance Volume**
+
+OBJ actually produces a curving line on the price chart. This line can be used to either to confirm the quality of the current price trend or warn or an impending reversal by diverging from the price action.
+![OBJ](OBJ.png)
+The construction of the OBV line is simplicity itself. The total volume for each day is assigned a plus or minus value depending on whether prices close higher or lower for that day. A higher close causes the volume for that day to be given a plus value, while a lower close counts for negative volume. A running cumulative total is then maintained by adding or subtracting each day's volume based on the direction of the market close.
+
+The ***on balance volume*** line should follow in the same direction as the price trend. If prices show a series of higher peaks and troughs(an uptrend), the OBV should do the same. If prices are trending lower, so should the OBV line. It's when the volume line fails to move in the same direction as prices that a divergence exists and warns of a possible trend reversal.
+
+**Alternatives to OBJ**
