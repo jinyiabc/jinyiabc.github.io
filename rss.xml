@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 06 May 2018 04:24:24 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 May 2018 02:48:14 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -978,7 +978,165 @@ These filters are certainly not infallible, but do serve to reduce the number of
     &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We’ve discussed the five most commonly used major reversal patterns—the head and shoulders, double and triple tops and bottoms, the saucer, and the V, or spike.
-There is another class of patterns, however, which are shorter term in nature and usually suggest trend consolidations rather that reversals. They are aptly called &lt;strong&gt;&lt;em&gt;continuation&lt;/em&gt;&lt;/strong&gt; patterns. Let’s look at this other type of pattern in Chapter 6.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+There is another class of patterns, however, which are shorter term in nature and usually suggest trend consolidations rather that reversals. They are aptly called &lt;strong&gt;&lt;em&gt;continuation&lt;/em&gt;&lt;/strong&gt; patterns. Let’s look at this other type of pattern in Chapter 6.&lt;/p&gt;
+&lt;h2&gt;Chapter 7. Volume and Open interest&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most of the discussion of charting theory to this point has concentrated mainly on price action with some mention of volume. In this chapter, we’ll round out the three dimensional approach by taking a closer look at the role played by volume and open interest in the forecasting process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VOLUME AND OPEN INTEREST AS SECONDARY INDICATORS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Price is by far the most important. Volume and open interest are secondary in importance and are used primarily aas confirming indicators. Of those two. volume is the more important.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Volume is the number of entities traded during the time period under study.
+&lt;img src=&quot;dalily-volume.png&quot; alt=&quot;volume&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open Interest in Futures&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The total number of outstanding or unliquidated contracts at the end of the day is open interest.
+Remember that official volume and open interest figures are reported a day late in the futures market and are, therefore, plotted with a one day lag.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How Changes in Open Interest Occur&lt;/em&gt;&lt;/strong&gt;
+Every time a trade is completed on the floor of the exchange, the open interest is affected in one of three ways—it increases, decreases, or stays unchanged.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/open-interest-81edc8e708c6ec952a37c3c96330440c-b4c1c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 31%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA6ElEQVQY001R2Q6DMAzj/78N8cItDrFxCBhoGvcx8ORIrRYpTWtiNy7Gfd9gsF7XJakwhav6j3+/X3w+H8zzjG3bNM/gsu87zvNEnudY11UIPJPE78/nE8dxyJ6VZGKmacKyLEzTpC81uBnHEWmawvM8BEEgzcuyYBgGhGEoeJIk6LpOcGZZlnAcB1VVyRDKgQgSoEgURSJQFIW2RVIcxyKqpmf0fS/9HESJacH3+y1Cvu/Dtm20basFiVGQZE6momkauK4rySfQlrnQWl3XYoPTvV4vbTnLMjweD7HMM5M/gn0Uo7N/yz8ZKsivOP7V8gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;open interest&quot;
+        title=&quot;&quot;
+        src=&quot;/static/open-interest-81edc8e708c6ec952a37c3c96330440c-fb8a0.png&quot;
+        srcset=&quot;/static/open-interest-81edc8e708c6ec952a37c3c96330440c-1a291.png 148w,
+/static/open-interest-81edc8e708c6ec952a37c3c96330440c-2bc4a.png 295w,
+/static/open-interest-81edc8e708c6ec952a37c3c96330440c-fb8a0.png 590w,
+/static/open-interest-81edc8e708c6ec952a37c3c96330440c-b4c1c.png 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;General Rules for Interpreting Volume and Open Interest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If volume and open interest are both increasing, then the current price trend will probably continue in its present direction(either up or down). If, however, volume and open interest are declining, the action can be viewed as a warning that the current price trend may be nearing an end.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-c3143.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 79.86842105263159%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB50lEQVQ4y42UV27DQAxEdf/7+AL+tA0XuELuvcm9VwaPwShW8pMFCO1yyeGQXCp4vV52OBxss9nYdrtNCLr5fO6yWCxsMpnYbDaz3W6XsBkOhzYajex2u1kAYLvdtnw+b6vVyo3X67XLeDy2bDZr5XLZarWaFQoF/3K3XC49CIClUsmKxaLt93sLHo+HMzgejw7W7/c9IvrP9Xw+4/37/XaBDAtfgjjg/X73aDigIOLlcomdACa1KIoSILpncQ+pGBBjGQFGRC6pLXvkdDp5MPTn89kJoGNxVrkckIMAtWDCmVSULl90FF9N4cyXLGOGACo9GCLoOWMEE0Cu16vr2aMTa+re6/V+mgI6hrSejiOkSyqAA4QAhA5G6jSgNDGdTrtPImXS5IwRe5ypn4DFVkt7epDJZL4B9WyIyrvi4YqNRCxVDqXPl7ri+ydlFl+9eDqmjpIBbD7rpwEgAPeJhw0QKap7GJAGkwL7wWAQjx623LFHN51OrdPpOCCBHJBLpNVqOXVNC4AwxgFHzpSkXq/7CFYqFcvlcr6vVqve8YBUcQ7D0IE0w4DDDOl2uy6y4RU0Gg0HYs4R0oWcAxIxlUo5bX4GGAOAvtls+pkAgPElGwIRGHDKosEINDoaK+r3+8fwn6XJ+gIAHr83xLrv7gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;volume open&quot;
+        title=&quot;&quot;
+        src=&quot;/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-fb8a0.png&quot;
+        srcset=&quot;/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-1a291.png 148w,
+/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-2bc4a.png 295w,
+/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-fb8a0.png 590w,
+/static/volume-open-839f98ff770d8f4bf26763b3ed14760d-c3143.png 760w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;INTERPRETATION OF VOLUME FOR ALL MARKETS&lt;/h2&gt;
+&lt;p&gt;To state the rule more concisely, &lt;strong&gt;&lt;em&gt;volume should increase or expand in the direction of the existing price trend.&lt;/em&gt;&lt;/strong&gt;
+In an uptrend, volume should be heavier as the price moves higher, and should decrease or contract on price dips.
+As long as this pattern continues, volume is said to be confirming the price trend.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-b7a32.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.16727716727718%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAByUlEQVQ4y42TWY+CUAyF+f8/SZ98MEaiokaN+5K4ouC+onbma1ICOg9zk9LLbe/p6Sk48ruiKJJGoyHtdlvW67VsNhvZbrey3+9lMBiI53lq9XpdlsulxsIw1Ph0OpVcLiez2QwocXhcr9c4CYD5fC6v10sT8I/HQ3Nut5t8rt1uJ9VqVYnEgCQCaGwBeD6farzjrQB5sDwej/oOCVji/wRkXS4XTaKl+/2u7IwhckwmE1mtVuL7viwWCy0QBEG6ZTvgEns7OxwOcRHaOp/PCoQseDqgAIVSgAyEqlSDlS1YwgIw2rR2KcBCHrqxDuOWGQZB0+r9fqtZ3M7RM7m4A1OGkwKkBSrD0jSDBQZjctjbOR4w7rRarW+GTCmppbFM7jG+t+FwqAYY75lMRqWIAWFAy3iGADB7BGcIXKRlzmnZpCEOsOu630Pp9/tqvV5PRqORTo4inI3HY2VAa8T5a8rlspRKJQWrVCppQFrmt+p0OtoCenKRyQPMebfbVQ+oARYKBT2jaEpD2stms5LP5zWxWCyqGSgAeC7WajVpNpsaMzBbyOAgNBu+N/SjEpO2X4mY/XqmX9JOp5NqaUNzkt/b50rG/pOH/QBZvnXAQzy0LAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;uptrend volume&quot;
+        title=&quot;&quot;
+        src=&quot;/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-fb8a0.png&quot;
+        srcset=&quot;/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-1a291.png 148w,
+/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-2bc4a.png 295w,
+/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-fb8a0.png 590w,
+/static/price-volume-9c3eed264be4e8ff6209ff849239ff06-b7a32.png 819w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-73226.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84.33908045977012%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACNklEQVQ4y32U107sQAyG8/5PAjpcgsRZwQWIDbva3tm+2t57byafcyaKOIAla5wZ+/dvezLW09Oz/Lm7E9t+l2QyKfF4XBKJpMScNZvLycvLqzw+/pX7hwd5ewvKx0dR9/P5vGSzOSkUChKJRuXm5laCQVusTqcjw+FQFouFzGYzmU6nstls5Hg8qq7Xa5nPZ47OZePY5/PZ05NzjhBbLpdlPB6LNRgMdHM0GkmtVpNms6nByPV6la/C3na71WQIwJAYOKRYLdhdLpf/AtkjGMU2PrDv9/vKBnu/38tut9PqUGXoDzJqwPxqKqECWAKKDUuSKCCGn8l3ZSIwAYAgI5SN/+l0EohNJhO3ZFOiWQ+Hg5axWq3Uhg39gc1XxqaPvV7PHYoBRJbLpTIgk5k8Tkyafv3UCjMYHUq73VbqlEQgrACE1W/iZ0kiequArVZLS+G6NBoNb2KAAg4zlASoSYofJMxZt9sVyHn3EEfATdmUjCPJaDos3Es+Vx/aASg2a7ValUql4k7ZP0lAAASc3sCAYBgTDCB9ZVh8UybJqY4fw6JUQADG5hDWOLASzO/JN6BMk2RmqvhwjrJvUTtg9XpdSqWSbrLHSqNResM3fmjOeRxisZik02lJpVLOI5GVYrHoAkKTF4YekI3MsOGbMxKxZjIZDQSMxNiARp2XhjPbtjXG4pUIBAL/nq2EZsQOhUISDoe9lcBIJOKdA2LKhbUZqMUV4IANVso1TOknSq/8CgDB38knlgAAPzg/nNEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;volume price&quot;
+        title=&quot;&quot;
+        src=&quot;/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-fb8a0.png&quot;
+        srcset=&quot;/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-1a291.png 148w,
+/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-2bc4a.png 295w,
+/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-fb8a0.png 590w,
+/static/volume-price-805ecdf6b2b480b0392d38fc6a58f35f-73226.png 696w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The chartist is also watching for signs of &lt;strong&gt;&lt;em&gt;divergence&lt;/em&gt;&lt;/strong&gt;.
+Divergence occurs if the penetration of a previous high by the price trend takes place on declining volume. This action alerts the chartist to diminishing buying pressure. If the volume also shows a tendency to pick up on price dips, the analyst begins to worry that uptrend is in trouble.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volume as Confirmation in Price Patterns&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
