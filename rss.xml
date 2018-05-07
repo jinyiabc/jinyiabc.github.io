@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 May 2018 02:48:14 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 May 2018 06:28:03 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -983,10 +983,43 @@ There is another class of patterns, however, which are shorter term in nature an
 &lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Most of the discussion of charting theory to this point has concentrated mainly on price action with some mention of volume. In this chapter, we’ll round out the three dimensional approach by taking a closer look at the role played by volume and open interest in the forecasting process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;VOLUME AND OPEN INTEREST AS SECONDARY INDICATORS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Price is by far the most important. Volume and open interest are secondary in importance and are used primarily aas confirming indicators. Of those two. volume is the more important.&lt;/p&gt;
+&lt;p&gt;Price is by far the most important. Volume and open interest are secondary in importance and are used primarily as confirming indicators. Of those two. volume is the more important.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Volume&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Volume is the number of entities traded during the time period under study.
-&lt;img src=&quot;dalily-volume.png&quot; alt=&quot;volume&quot;&gt;&lt;/p&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-e3b9e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.08955223880596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB80lEQVQ4y6WUV48iQQyE5///IyReQYBA5JwzIucMPn0leXZWOt3LWeqlu8cul8vtDa7Xq5VKJatWq3Y8Hu10Ommxn8/nlslkLJfLWTqdtlQqZa1Wy5bLpa3Xa9vtdrbZbCybzVoikdA5OBwOBig2m82s2Wxav9+32+1m/zISjsdj+ZbLZRsOhwZWsN/v7Xw+y+n5fNr9ftf6fD72/X71G13cefLRaKQYwAAPASkRc2ff/20BSskeg1EqCcAKODjDKAPfR4GwxWIhTQF0X9j1ej3JIMDL5RJmQ7vVahWydCA3GoXm0W806FfJrPf7Lcftdmv1el1leACOk8lEZXky1xRDApirZP6AjsDT6VRsHRSxuSMAUO79RUQ1/9UUmAD6er3EoNPpWLfbVWmPx0NMkYE93SchgTBlT4LBYKDnE5bsWQmkQYjrjfLyMJLClu9IwNmfUKPR+AFEVLLzpnj5sCKIAO7RF4YkKRQK8qlUKmFSKsrn82KsSUEnKHu5TAvjSNmMGtn5xngmk0mNWSwWs3g8rpEsFovyEyBCM4s+ciwawhlwHGu1mpKiFe+NBIwbi28kx58K1RSy8U/AwQjAkQUryoNFu93WGVaAAMjZgZEoABWBYcOeSzRjT5NoGL9IQ0loCwl/Hdxz5285iM7v/xpYfwCvTrku+xnHPQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;volume&quot;
+        title=&quot;&quot;
+        src=&quot;/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-fb8a0.png&quot;
+        srcset=&quot;/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-1a291.png 148w,
+/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-2bc4a.png 295w,
+/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-fb8a0.png 590w,
+/static/volume-daily-3b9f65c18d6d6246157421d70f8e6ce8-e3b9e.png 737w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Open Interest in Futures&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The total number of outstanding or unliquidated contracts at the end of the day is open interest.
 Remember that official volume and open interest figures are reported a day late in the futures market and are, therefore, plotted with a one day lag.&lt;/p&gt;
@@ -1136,7 +1169,49 @@ As long as this pattern continues, volume is said to be confirming the price tre
     &lt;/p&gt;
 &lt;p&gt;The chartist is also watching for signs of &lt;strong&gt;&lt;em&gt;divergence&lt;/em&gt;&lt;/strong&gt;.
 Divergence occurs if the penetration of a previous high by the price trend takes place on declining volume. This action alerts the chartist to diminishing buying pressure. If the volume also shows a tendency to pick up on price dips, the analyst begins to worry that uptrend is in trouble.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Volume as Confirmation in Price Patterns&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;&lt;strong&gt;Volume as Confirmation in Price Patterns&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the first signs of a head and shoulders top occurred when prices move into new highs during the formation of the head on light volume with heavier activity on the subsequent decline to the neckline. The double and triple tops saw lighter volume on each successive peak followed by heavier downside activity. Continuation patterns, like the triangle, should be accompanied by a gradual drop off in volume. As a rule, the resolution of all price patterns(the breakout point) should be accompanied by heavier trading activity if the signal given by that breakout is real.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volume Precedes Price&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Technicians believe that &lt;strong&gt;&lt;em&gt;volume precedes price,&lt;/em&gt;&lt;/strong&gt; meaning that the loss of upside pressure in and uptrend or downside pressure in a downtrend actually shows up in the volume figures before it is manifested in a reversal of the price trend.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On Balance Volume&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OBJ actually produces a curving line on the price chart. This line can be used to either to confirm the quality of the current price trend or warn or an impending reversal by diverging from the price action.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-95470.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84.27762039660055%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACAklEQVQ4y2WU567CMAyF8/6vBX+QQOy9CmXvPQrUV5+Rq9wSyThx7NPjEdx2u5V+vy+LxUI2m00i2LFNp1PV8/lcZblcyn6/V9ntdoler9dyOBzEDYdDKRaL0u12NRDB4Xg8SqPR0LtSqaS6UChIrVaT1WqlAGg+PhqNJJfLyWAwEIeRBRPAx+Ox3O93SS/sQRBIGIY/d6/XS87ns4I7Uojj+J+DndGkCQMCCAQQ4NvtJtfrVW2IlUwBWZ/PJxEWzjCGOWBRFKn9+XxKpVKRTqejJQGID89mMy2D48cAuUCoISwASzPHD3AYcoZQq9VS5srQamiLrpGmMfU/5Gdg6/1+a4xNhiOY1ACGGana8sHSTH07fqSuKU8mEwViFhkdGkBHL5eLpoVQN8YIX78hiO1Jm9gkZQJgC22EOjE+2KgPYjMLgM+atCEDEQfV9AKchsAIcNgSxOI1YIcIsQbebre/gMYKR1ixBwxHA0nPJzV7PB5yOp0SUMZIUwaVGtJ+BDZ+QwBFrMvpBtlkUA6Y6xzaYycNG2QusXFGYA4DMuFt0wR0vV6XXq8nzWbzmzKbbDarU0/hCcJGAM7s0ZwRpiGfz0u1WlU7GuH1QMABlMlkkudULpd1jxgw/zDs0fibjX8X/GkIzFk6NlzAjDS5ZI+NJvHw0cwijbC5RDNWaOxW9z+o3gHxk8IZLAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OBJ&quot;
+        title=&quot;&quot;
+        src=&quot;/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-fb8a0.png&quot;
+        srcset=&quot;/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-1a291.png 148w,
+/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-2bc4a.png 295w,
+/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-fb8a0.png 590w,
+/static/OBJ-b2b2302b5562f8c524ef9e855d396a8c-95470.png 706w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+The construction of the OBV line is simplicity itself. The total volume for each day is assigned a plus or minus value depending on whether prices close higher or lower for that day. A higher close causes the volume for that day to be given a plus value, while a lower close counts for negative volume. A running cumulative total is then maintained by adding or subtracting each day’s volume based on the direction of the market close.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;on balance volume&lt;/em&gt;&lt;/strong&gt; line should follow in the same direction as the price trend. If prices show a series of higher peaks and troughs(an uptrend), the OBV should do the same. If prices are trending lower, so should the OBV line. It’s when the volume line fails to move in the same direction as prices that a divergence exists and warns of a possible trend reversal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alternatives to OBJ&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
