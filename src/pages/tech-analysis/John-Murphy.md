@@ -381,3 +381,45 @@ The saucer bottom shows a very slow and very gradual turn from down to sideways 
 
 We've discussed the five most commonly used major reversal patterns--the head and shoulders, double and triple tops and bottoms, the saucer, and the V, or spike.
 There is another class of patterns, however, which are shorter term in nature and usually suggest trend consolidations rather that reversals. They are aptly called ***continuation*** patterns. Let's look at this other type of pattern in Chapter 6.
+
+
+##Chapter 7. Volume and Open interest
+
+**INTRODUCTION**
+
+Most of the discussion of charting theory to this point has concentrated mainly on price action with some mention of volume. In this chapter, we'll round out the three dimensional approach by taking a closer look at the role played by volume and open interest in the forecasting process.
+
+**VOLUME AND OPEN INTEREST AS SECONDARY INDICATORS**
+
+Price is by far the most important. Volume and open interest are secondary in importance and are used primarily aas confirming indicators. Of those two. volume is the more important.
+
+**Volume**
+
+Volume is the number of entities traded during the time period under study.
+![volume](dalily-volume.png)
+
+**Open Interest in Futures**
+
+The total number of outstanding or unliquidated contracts at the end of the day is open interest.
+Remember that official volume and open interest figures are reported a day late in the futures market and are, therefore, plotted with a one day lag.
+
+***How Changes in Open Interest Occur***
+Every time a trade is completed on the floor of the exchange, the open interest is affected in one of three ways--it increases, decreases, or stays unchanged.
+![open interest](open-interest.png)
+
+**General Rules for Interpreting Volume and Open Interest**
+
+If volume and open interest are both increasing, then the current price trend will probably continue in its present direction(either up or down). If, however, volume and open interest are declining, the action can be viewed as a warning that the current price trend may be nearing an end.
+![volume open](volume-open.png)
+
+##INTERPRETATION OF VOLUME FOR ALL MARKETS
+To state the rule more concisely, ***volume should increase or expand in the direction of the existing price trend.***
+In an uptrend, volume should be heavier as the price moves higher, and should decrease or contract on price dips.
+As long as this pattern continues, volume is said to be confirming the price trend.
+![uptrend volume](price-volume.png)
+![volume price](volume-price.png)
+
+The chartist is also watching for signs of ***divergence***.
+Divergence occurs if the penetration of a previous high by the price trend takes place on declining volume. This action alerts the chartist to diminishing buying pressure. If the volume also shows a tendency to pick up on price dips, the analyst begins to worry that uptrend is in trouble.
+
+**Volume as Confirmation in Price Patterns**
