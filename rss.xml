@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 May 2018 06:28:03 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 09 May 2018 03:41:40 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1211,7 +1211,98 @@ Divergence occurs if the penetration of a previous high by the price trend takes
     
 The construction of the OBV line is simplicity itself. The total volume for each day is assigned a plus or minus value depending on whether prices close higher or lower for that day. A higher close causes the volume for that day to be given a plus value, while a lower close counts for negative volume. A running cumulative total is then maintained by adding or subtracting each day’s volume based on the direction of the market close.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;&lt;em&gt;on balance volume&lt;/em&gt;&lt;/strong&gt; line should follow in the same direction as the price trend. If prices show a series of higher peaks and troughs(an uptrend), the OBV should do the same. If prices are trending lower, so should the OBV line. It’s when the volume line fails to move in the same direction as prices that a divergence exists and warns of a possible trend reversal.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Alternatives to OBJ&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;&lt;strong&gt;Alternatives to OBJ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One variation is to give greater weight to those days where the trend is the strongest. On an up day, for example, the volume is multiplied by the amount of the price gain. This technique still assigns positive and negative values, but gives greater weight to those days with greater price movement and reduces the impact of those days where the actual price change is minimal.&lt;/p&gt;
+&lt;p&gt;It should be noted that volume reporting in the stock market is much more useful than in the future markets. Stock trading volume is reported immediately, while it is reported a day late for futures. The availability of volume data for stocks on each price change during the day has facilitated an even more advanced indicator called Money Folow, developed by Laszlo Birinyi,Jr.&lt;/p&gt;
+&lt;p&gt;These more sophisticated variations of OBV have basically the same intent—to determine whether the heavier volume is taking place on the upside(bullish) or the downside(bearish).
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-650df.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84.80662983425414%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACIElEQVQ4y12U164DMQhE9/8/KnnJS3rvvffeK1dnrohWsYTsBTzAgDd4PB623+8l2+3WdrvdVzabja3Xa8lqtbLZbGaDwUAyHA5tNBrZZDKx+Xwu++FwsACgTCZjpVJJCkBcAOViLpezQqFgrVZLPsfj8ZsA391u15LJpAIEKLmMst1uW7/ft9vtZqz3+22v18vO57PsBD2dTgqEHr/n86lv7GQa8MEFDOzX61XOn89HoFxCt1wuLZFIqJpYLKbLLPygDTsiwMvl8jWGd0ojCGWVy2VdvN/v2uGTwCx0BFgsFhbgHC7TwcbjsYRFQLIM2+Gr2WwqKwIDJkAybDQaKoVOUToO6OgmwTwb59SzikQilkql5Au3AqQpGJFarSbp9Xq6RCc5U8XvAhwQVrFYVHASEiAHOOByPp+XEQqwUSqCD3pKRe80IHwTXF3mMJ1OxRfOPoOdTkc6ssCHGYzH46qAYYYaBArwIRlwxCEfDDBZUDoR6S5Z0FG+ERoCv/gRxBd+9Xr9H5BsfGwAJzMMLJ4cwdD/Ln+SBCQ4gN/BRnxAKQPC/UxJZM3uZeLLDkWMDdVBhbrsZBKN8fCJd51LWM+QA8BTpMPpdNqy2ex/l3GORqP6AVAuJeKIAxfpeqVSsWq1qsY4iP8w3MYOVkCH6B6DjQEBlFfAwJIJ/LDz8yAIenbAORMUf2gKmDe4oFz+GPDgTwwuw+Kvxc8IIIi/oD9m0v3+zGr6JQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;obj divergence&quot;
+        title=&quot;&quot;
+        src=&quot;/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-fb8a0.png&quot;
+        srcset=&quot;/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-1a291.png 148w,
+/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-2bc4a.png 295w,
+/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-fb8a0.png 590w,
+/static/obj-divergence-0524e7a0b4a696ffe193787c66ab602e-650df.png 724w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-650df.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.0828729281768%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACL0lEQVQ4y22U167DQAhE/f+flDwkipTeo/Tee++dq8MVKz9kJeRdG4aBYe1tNhsZDoeyWCxkvV6rsZ/P5zIajaRer0uz2ZRGo6E2nU7122w2c5ZOpyWfz8v1ehWv0+lIqVRSx9PpJPv9Xo7Ho1wuFwXne6vVkm63K+PxWG63m9zvdw3meTgcJBaLyWQykfP5LN5qtRIWmXD4fr96JhDQX8t8WACSlAQQcYBksD1rt9sJ7SD48/k4MzD2LHyy2axst9t/hpQFG/rW7/ddAKWXy2XHyACez6cyscWedvGkZR7IgHLAYEYQPUulUiqKf5Gcat7vtyYaDAYagykglAl+vV4aYCL1ej3tS6VS0VJQnERUgdoojVh8N3EUEOVqtZr2gJeUSlbKMLEIDAaDqiYjhMEyl8u5hLRMe0ggYFBeLpeuNBxYsA+Hw8o8EAi48aACxKBdlA+GMgQIBrwAkFIQwwBpNowRhQEGmN5RlYlDX53KjEo0GtUDC0Bujo2Qf+ZIQqCpjZEIQIgpIBv/GABIOcbQD/p4PH4OOiW7sQHQ6GIA+seIdzjzRDCEozWoTn9pB6PFXea7DrbdVUql6YwGe5jy3szOhUJBisWijhf9RnWmQX8OsItEIlKtVhUYIBxRkJEgM8Y5k8lIPB6XZDKpgIlEQg2WtnSwQ6GQzhiOBHJDCOQJA4yyULjdbutgM78khwTlczHotccfBcpkwYFyCcIJAHqGkgRgCID5fxZ++wP8Sfe/hd6WfwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OBJ Variation&quot;
+        title=&quot;&quot;
+        src=&quot;/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-fb8a0.png&quot;
+        srcset=&quot;/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-1a291.png 148w,
+/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-2bc4a.png 295w,
+/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-fb8a0.png 590w,
+/static/OBJ-VARIATION-ed122f06239fd8574166ae3380d32b8e-650df.png 724w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;INTERPRETATION OF OPEN INTEREST IN FUTURES&lt;/h2&gt;
+&lt;p&gt;Let’s summarize these four points:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Rising open interest in an uptrend is bullish.&lt;/li&gt;
+&lt;li&gt;Declining open interest in an uptrend is bearish.&lt;/li&gt;
+&lt;li&gt;Rising open interest in a downtrend is bearish.&lt;/li&gt;
+&lt;li&gt;Declining open interest in a downtrend is bullish.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Other Situations Where Open Interest Is Important&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A leveling off or decline in open interest is often an early warning of a change in trend.&lt;/li&gt;
+&lt;li&gt;A high open interest figure at market tops can be considered bearish if the price drop is very sudden.&lt;/li&gt;
+&lt;li&gt;If open interest builds up noticeably during a sideways consolidation or a horizontal trading range, the ensuing price move intensifies once the breakout occurs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let’s assume we’ve had a three month trading range and that the open interest has jumped by 10,000 contracts. This means that 10,000 new long positions and 10,000 new short positions have been taken. Prices then break out on the upside and new three month highs are established. Because prices are trading at the highest point in three months, every single short position initiated during the previous three months now shows a loss. The scramble to cover those losing shorts naturally cause additional upside pressure on prices, producing even more panic. Prices remain strong until all or most of those 10,000 short positions have been offset by buying into the market strength. If the breakout has been to the downside, then it would have bee3n the longs doing the scrambling.&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Increasing open interest at the completion of a price pattern is viewed as added confirmation of a reliable trend signal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;WATCH THE COMMERCIALS&lt;/h2&gt;
+&lt;p&gt;The guiding principle in analyzing the Commitments Report is the belief that the large commercial hedgers are usually right, while the traders are usually wrong.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
