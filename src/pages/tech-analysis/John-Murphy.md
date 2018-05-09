@@ -439,3 +439,33 @@ The construction of the OBV line is simplicity itself. The total volume for each
 The ***on balance volume*** line should follow in the same direction as the price trend. If prices show a series of higher peaks and troughs(an uptrend), the OBV should do the same. If prices are trending lower, so should the OBV line. It's when the volume line fails to move in the same direction as prices that a divergence exists and warns of a possible trend reversal.
 
 **Alternatives to OBJ**
+
+One variation is to give greater weight to those days where the trend is the strongest. On an up day, for example, the volume is multiplied by the amount of the price gain. This technique still assigns positive and negative values, but gives greater weight to those days with greater price movement and reduces the impact of those days where the actual price change is minimal.
+
+It should be noted that volume reporting in the stock market is much more useful than in the future markets. Stock trading volume is reported immediately, while it is reported a day late for futures. The availability of volume data for stocks on each price change during the day has facilitated an even more advanced indicator called Money Folow, developed by Laszlo Birinyi,Jr.
+
+These more sophisticated variations of OBV have basically the same intent--to determine whether the heavier volume is taking place on the upside(bullish) or the downside(bearish).
+![obj divergence](obj-divergence.png)
+![OBJ Variation](OBJ-VARIATION.png)
+
+##INTERPRETATION OF OPEN INTEREST IN FUTURES
+Let's summarize these four points:
+
+1. Rising open interest in an uptrend is bullish.
+2. Declining open interest in an uptrend is bearish.
+3. Rising open interest in a downtrend is bearish.
+4. Declining open interest in a downtrend is bullish.
+
+**Other Situations Where Open Interest Is Important**
+
+1. A leveling off or decline in open interest is often an early warning of a change in trend.
+2. A high open interest figure at market tops can be considered bearish if the price drop is very sudden.
+3. If open interest builds up noticeably during a sideways consolidation or a horizontal trading range, the ensuing price move intensifies once the breakout occurs.
+
+Let's assume we've had a three month trading range and that the open interest has jumped by 10,000 contracts. This means that 10,000 new long positions and 10,000 new short positions have been taken. Prices then break out on the upside and new three month highs are established. Because prices are trading at the highest point in three months, every single short position initiated during the previous three months now shows a loss. The scramble to cover those losing shorts naturally cause additional upside pressure on prices, producing even more panic. Prices remain strong until all or most of those 10,000 short positions have been offset by buying into the market strength. If the breakout has been to the downside, then it would have bee3n the longs doing the scrambling.
+
+4. Increasing open interest at the completion of a price pattern is viewed as added confirmation of a reliable trend signal.
+
+##WATCH THE COMMERCIALS
+
+The guiding principle in analyzing the Commitments Report is the belief that the large commercial hedgers are usually right, while the traders are usually wrong.
