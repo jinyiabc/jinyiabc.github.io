@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 10:15:22 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 17:30:01 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1748,7 +1748,168 @@ They perform very poorly when markets get choppy and trade sideways for a period
     &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;THE ADAPTIVE MOVING AVERAGE&lt;/h2&gt;
-&lt;p&gt;Kaufman does that by constructing an Efficiency Ratio that compares price direction with the level of volatility. When the Efficiency Ratio is high, there is more direction than volatility(favoring a faster average). When the ratio is low, there’s more volatility than direction(favoring in slower average).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;Kaufman does that by constructing an Efficiency Ratio that compares price direction with the level of volatility. When the Efficiency Ratio is high, there is more direction than volatility(favoring a faster average). When the ratio is low, there’s more volatility than direction(favoring in slower average).&lt;/p&gt;
+&lt;h2&gt;Chapter 10. Oscillators and Contrary Opinion&lt;/h2&gt;
+&lt;p&gt;The oscillator provides the technical trader with a tool that can enable him or her to profit from these periodic sideways and trendless market environments.
+Used in conjunction with price charts during trending phases, the oscillator becomes an extremely valuable ally by alerting the trader to short term market extremes, commonly referred to as &lt;strong&gt;&lt;em&gt;overbought&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;oversold&lt;/em&gt;&lt;/strong&gt; conditions. The oscillator can also warn that a trend is losing momentum before that situation becomes evident in the price action itself. Oscillators can signal that a trend may be nearing completion by displaying certain divergences.&lt;/p&gt;
+&lt;h2&gt;OSCILLATOR USAGE IN CONJUNCTION WITH TREND&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Interpretation of Oscillators&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;They are plotted along the bottom of the price chart and resemble a flat horizontal band. The oscillator band is basically flat while prices may be trading up, down, or sideways.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;General Rules for Interpretation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a general rule, when the oscillator reaches an extreme value in either  the upper or lower end of the band, this suggests that the current price move may have gone too far too fast and it due for a correction or consolidation of some type. As another general rule, the trader should be buying when the oscillator line is in the lower end of the band and selling in the upper end. The crossing of the midpoint line is often used to generate buy and sell signals. We’ll see how these general rules are applied as we deal with various types of oscillators.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Three Most Important Uses for the Oscillator&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The oscillator is most useful when its value reaches an extreme reading near the upper or lower end of its boundaries.&lt;/li&gt;
+&lt;li&gt;A divergence between oscillator and the price action when the oscillator is in an extreme position is usually an important warning.&lt;/li&gt;
+&lt;li&gt;The crossing of the zero line can give important trading signals in the direction of the price trend.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;MEASURING MOMENTUM&lt;/h2&gt;
+&lt;p&gt;Momentum measures the velocity of price changes as opposed to the actual price levels themselves. Market momentum is measured by continually taking price differences for a fixed time interval.
+The formula for momentum is:
+M = V - V^
+where V is the latest closing price and V^ is the closing price x days ago.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-3d59e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 88.73949579831933%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACUklEQVQ4y3WU145qMQxFz/9/DS8IXhCi99577713PFpG4cJobqRgn8R1bwdrMpnIYrGQ9Xotq9VK5Wazkfl8LuPxWGazmd6b7+VyqffYonNHDDZnVjQalWq1qhc4sNErlYpEIhFJJBJfezgcvu1INhqNxOFwSCAQ0ESW/LGez+eX/vn9ed/tdiUcDqvs9/taiPXb8LfzX0lYtVpNcrmcdoGcTqf/At7v9y+H3W6nMDwej68k2+1WMQ6FQuL3+9UOX4I1m81XQH7MOp1O7+wej0fK5bK2g9PlcpFsNitOp1OSyaTs9/t3IvBstVqvgIBZKpU0SyaTUad6va5BCJpOp5UIgO/1esoklX8uAg4Gg1dA6PZ6vWKz2aRYLEoqlVKH6/WqxrBot9s1GB1wfjgclNHj8Sjn81k7MpNiGYxut5saoSPb7bYasTudjhissWs0GpqYZEBBd2aMlBQzrGSiEjCiGkigGvAiKLOJTjKwBRpI4oyABLbACAxhDsmgB4NBNQYCHKkIOwYbolwul7IM/m63W++pDvgsBjMejysZPC8uWFSZz+f1nMqpli6olC5IRBckYWTw0woNcywcyGJmkXaQhiDwRSc4AVkQgw/FaEBGgkPjTHDYAhcSgCEOfONAJcwchFAZ0Bg8lRRw4gM2CY4xm9aQ3IEROpJnRpvABNPoPL9CofD6t2HyjREZAZ1LNvgZLJHgDTnmDtYhEj86AArL5/Mps8Y4Fou9nUhidKqgKnTOeFX4oZMQuDQgT4bN3w+40BrT/79l3i/S/HkgzcP4AT8/Mm82W6T4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;oscillator&quot;
+        title=&quot;&quot;
+        src=&quot;/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-fb8a0.png&quot;
+        srcset=&quot;/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-1a291.png 148w,
+/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-2bc4a.png 295w,
+/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-fb8a0.png 590w,
+/static/oscillator-23ed4bb9e19ffb589071ac7719009a5b-3d59e.png 595w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-c17b0.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 78.125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAACMElEQVQ4y5XT6VIiQRAE4Hn/p9IQBQ8OEcVbEATEA7wP1DK+MmbDjdg/2xEN09NVWZlZNcV0Oo2Dg4MYDAYxmUxiNBrFxcVF7sPDw6jX69FsNvO/0Wjkc7/f/yvu7Ows1tbWMr7wYnt7O8He3t7i6ekpnp+f4/X1Na6vrzO51+vF6elpnJ+fJ4AY919fX5mHTLvdzvsCw4+Pj7AE/M/CstVqxcrKSqqczWZR3Nzc/BPw4eEhjo+P4/PzMxaLxZ87rK+urqJSqcTGxkbM5/NkTIUCKdmhXLe3txmws7OTu1arpVw2HB0d5btqtZoyfy9FLi8vfyRvbm7G6upqGsv4ra2teHx8TFYKAlpeXs44wKUiPjojQI0iBQkvLy9xd3eXVZx5QYpnHex2uwnIHoUAiN/d3c2uv7+/53u7QBMLHVJFskBG6zDA8Xgcw+Ew2WsCi7A1Hc5Gin+IFYLJ3dvbSyAFgGiEzpFri8MAM8nY8hYZvspJQAAuHHS09MR/Oehifs8pUIsqiuSy6P7+/qcpOguMd4xV/eTkJGWRJ8m5tARzjDqdTiwtLSVD/qeHkoFK2N/fzwt+YYElKyT7rBRkRdk8xUlGCFvsC5dMBWAcMLV1zlZMoERgihgnI0Mqmawop6PwgzqPMFEVQx0GQqZnCpz5rUm+lPX19Rx8nSZbbMF0l6QZaC+B+9gxJ9WWYApsPiIhxpmnzpgWuuOC+eW0Y1QGYYWdgthRIU68uFKRbX0DjtKbTMhkQ5EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;longer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-fb8a0.png&quot;
+        srcset=&quot;/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-1a291.png 148w,
+/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-2bc4a.png 295w,
+/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-fb8a0.png 590w,
+/static/longer-oscillator-1c86e3c3ba19e88e7a6a50b511f61a54-c17b0.png 608w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Momentum Measures Rates of Ascent or Descent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Momentum Line Leads the Price Action&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because of the way it is constructed, the momentum line is always a step ahead of the price movement. It leads the advance or decline in prices, then levels off while current price trend is still in effect. It then begins to move in the opposite direction as prices begin to level off.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Crossing of the Zero Line as a Trading Signal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many technicians use the crossing of the zero line to generate buy and sell signals.  A crossing of the zero line would be a buy signal, and a crossing below the zero line, a sell signal. It should be stressed here again, however, that basic trend analysis is still the overriding consideration. Oscillator analysis should not be used as an excuse to trade against the prevailing market trend. Buy position should only be taken on crossing ablve the zero line if the market trend is up. Short positions should be taken on crossings below the zero line only if the price trend is down.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-5871a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 83.03130148270182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACTUlEQVQ4y42U145iMRBE/f//wjMIBIicRM4555wzPTotecXM01qynNrdVeW616xWK6nX69Lv92U6ncpkMpHxeKy92WxKNpuVYrEohUJBcrmc5PN5GQwGes6d0WgknU5HwuGwVKtVMSQpl8syn8/lfr/L6XSSy+Wi8+VyqcHdblcajYbOh8OhxlyvV+2bzUaBUKzVaonh0uv1Ehrj+/2Wz+cj/9tg53Q6FTnsDJRvt9uvoO+EzOkU+i72fD4lGo2qHCTy+XzS6/XEbLdbeTweGsQF26CNFDBgRDca8YvFQpLJpEQiEQUDM+Rot9ti0A5xbUM7GvuhUEgRoA1FOUNLl8slqVRKi1rEoOSBVEO3262BBFQqFX1dElE5GAxKJpNR4b1er6Ld7/dSKpUUvW2gU8qHw0GDA4GAOBwOrRyPx4X9b/oej0dqtdovWay+NApgLdUQG4AGmtY2jCAlCS+ZTqfVMhTa7XZKn3G9Xiti7tINm8fj8V9VdMBbdGSAxmw2k/P5rAkRnzWPhDwYnwfC6BQzXCQhekAXE4OKh8K4BCYSCTUuOoGcotDjDndBSSFNyILKIIHq30YQOtnL1mJ/G7Q1IcYGGdQRHFTow2XmFCEJyNi356yJ4R7vQEHVEIRQgRpUQMsB3kMnzvAYI+fs8RPAo2hHj8Viugdtg+v5hBAYndDQio8X2ScZD4Q1iGEPDUnCo7CPzrhCbcN3aKvR8SGBoCABa1DwqbEmBsMz9/v9ygbK0Df4D0HRhA3rM9bM0en73PoUIJwR8/1z+QHxGOs+vrm6tAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;leader momentum&quot;
+        title=&quot;&quot;
+        src=&quot;/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-fb8a0.png&quot;
+        srcset=&quot;/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-1a291.png 148w,
+/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-2bc4a.png 295w,
+/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-fb8a0.png 590w,
+/static/leader-momentum-2295faf0b5393b376454f8f8da24ed44-5871a.png 607w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-7f31f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 91.0774410774411%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACVUlEQVQ4y3XUCU9qQQwF4Pv/f5IxxkQMxLjghqiAiuIKKu6C0pevyRh90UnKnbm3PT097VANh8Not9txdnYWV1dXcX5+nmZ/enoah4eHcXx8HEdHR2m9Xi8uLy/j5uYmnxcXFzEYDGJ/fz8xKs5ra2t5eHh4iPF4HPf393F3dxedTie/7e3txebmZjSbzTRA/EajUcb0+/2Yn59P0Eqmsj4/P2M2m6XZ/7Ywx/rt7S1eX1/j+fk536tKRdX19XV8fHz8CAL4/3p6ekomWAHCWnXdbjcZK/vk5CQqGb+zKWAvLy9ZFkdyMGze39+THSLKBa7Ug4ODTFBBB8gEYDGZTNLJHjAAwbQtuk2n0x+VaRjQBLSwQR9tDcBAEECJHh8fs0l8mGDsLcBwkiHkjY2NPNBJdzVKaQzoXw0qzeMjPhkCVB4tscRGRsyUWEAlMbNlBslCP3IgYj51P5vyfWHIyfP29jafAiQrw+wdwO8akuRrsInMySxpBG2K6JhKKgBoqUJlbol4eqsmxwaqrA5ugTNH4IAlUjaWwHV5e3s72dMPgd3d3SQlrvLDkWEku4mXAAuBRXzflVp0tfdNBZIjVmGiO+UlYWXTAGelGBP6YUf8VquVd7xerye7ubm5aDQasbW1FZXZcgDKCWNlYAgIS0kkBsbPWZxv5Z8IAcmzKQsLC7G6uhorKysZQEvZZVxfX//K7n2tVkszuy4AEjs7O6mxVWGytLQUy8vLsbi4mA72AJXmGwaa5em/U1fpjCXWjNYJaObK9SrNKffX4Nr/9u/z1835B+hmQTAaR8v9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;momentum macd&quot;
+        title=&quot;&quot;
+        src=&quot;/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-fb8a0.png&quot;
+        srcset=&quot;/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-1a291.png 148w,
+/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-2bc4a.png 295w,
+/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-fb8a0.png 590w,
+/static/momentum-macd-e0bf4e3481b266eb51677c7a377680c8-7f31f.png 594w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Need for an Upper and Lower Boundary&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
