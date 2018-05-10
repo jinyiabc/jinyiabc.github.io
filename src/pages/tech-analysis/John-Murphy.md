@@ -637,3 +637,5 @@ Because of the way it is constructed, the momentum line is always a step ahead o
 Many technicians use the crossing of the zero line to generate buy and sell signals.  A crossing of the zero line would be a buy signal, and a crossing below the zero line, a sell signal. It should be stressed here again, however, that basic trend analysis is still the overriding consideration. Oscillator analysis should not be used as an excuse to trade against the prevailing market trend. Buy position should only be taken on crossing ablve the zero line if the market trend is up. Short positions should be taken on crossings below the zero line only if the price trend is down.
 ![leader momentum](leader-momentum.png)
 ![momentum macd](momentum-macd.png)
+
+**The Need for an Upper and Lower Boundary**
