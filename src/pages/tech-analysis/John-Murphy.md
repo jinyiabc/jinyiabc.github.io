@@ -469,3 +469,45 @@ Let's assume we've had a three month trading range and that the open interest ha
 ##WATCH THE COMMERCIALS
 
 The guiding principle in analyzing the Commitments Report is the belief that the large commercial hedgers are usually right, while the traders are usually wrong.
+
+##NET TRADER POSITIONS
+##OPEN INTEREST IN OPTIONS
+Open interest plays an important role in options trading as well. Open interest figures are published each day for put and call options on futures markets, stock averages, industry indexes, and individual stocks. While open interest in options may not be interpreted in exactly the same way as in futures, it tells us essentially the same thing--where the interest is and the liquidity. Some option traders compare call open interest to put open interest in order to measure market sentiment. Others use option volume.
+##PUT/CALL RATIOS
+Volume figures in options are broken down into call volume(bullish) and put volume(bearish). By monitoring the volume in calls versus puts, we are able to determine the degree of bullishness or bearishness in a market. One of the primary uses of volume data in options trading is the construction of put/call volume ratios. When options traders bullish, call volume exceeds put volume and the put/call ratio falls. A very high ratio signals an oversold market. A very low ratio is a negative warning of an overbought market.
+
+##CONCLUSION
+The next step is to broaden our time horizon and to learn how to apply the tools we've learned to weekly and monthly charts in order to perform long range trend analysis. We'll accomplish that in the next chapter.
+
+##Chapter 8. Long Term Charts
+**INTRODUCTION**
+
+A thorough trend analysis of a market, however, should include some consideration of how the daily market price is moving in relation to its long range trend structure. The purpose of weekly and monthly charts is to compress price action in such a way that the time horizon can be greatly expanded and much longer time periods can be studied.
+
+**THE IMPORTANCE OF LONGER RANGE PERSPECTIVE**
+
+Long range price charts provide a perspective on the market trend that is impossible to achieve with the use of daily charts alone. ***Anyone who is not consulting these longer range chart is missing an enormous amount of valuable price information.***
+
+**CONSTRUCTION OF CONTINUATION CHARTS FOR FUTURES**
+
+The average futures contract has a trading life of about a year and a half before expiration.
+In order to accomplish this, the simplest method, and the one used by most chart services, is to always use the price of the nearest expiring contract. When that nearest expiring contract stops trading, the next in line becomes the nearest contract and it the one plotted.
+
+**OHTER Ways to Construct Continuation Charts**
+
+Sometimes the expiring contract may be trading at a significant premium or discount to the next contract, and the changeover to the new contract may cause a sudden price drop or jump on the chart. Another potential distortion is the extreme volatility experienced by some spot contracts just before expiration.
+
+##THE PERPETUAL CONTRACT
+##LONG TERM TRENDS DISPUTE RANDOMNESS
+The most striking features of long range charts is that not only are trends very clearly defined, but that long range trends often last for years. The persistence of existing trends over long periods of time, in many cases for years, is a compelling argument against the claims of Random Walk Theorists that prices are serially independent and that past price action has no effect on future price action.
+##PATTERNS ON CHARTS: WEEKLY AND MONTHLY REVERSALS
+Price patterns appear on the long range charts, which are interpreted in the same way as on the daily charts. ***Double tops and bottoms*** are very prominent on these charts, as are head and shoulder reversals. Triangles, which are usually continuation patterns, are frequently seen.
+Another pattern that occurs quite frequently on these charts is the ***weekly and monthly reversal***.
+##LONG TERM TO SHORT TERM CHARTS
+It's especially important to appreciate the order in which price charts should be studied in performing a thorough trend analysis. The proper order to follow in chart analysis is to begin with the long range and gradually work to the near term. If the analyst begins with only the near term picture, he or she is forced to constantly revise conclusions as more price data is considered. A thorough analysis of a daily chart may have to be completely redone after looking at the long range charts.
+
+The first chart to be considered is the 20 year monthly chart. The analyst look for the more obvious chart patterns, major trend lines, or the proximity of major support or resistance levels. He or she then consults the most recent five years on the weekly chart, repeating the same process. Having done that, the analyst narrows his or her focus to the last six or nine months of market action on the daily bar chart, thus going from the "macro" to the "micro" approach.
+
+##WHY SHOULD LONG RANGE CHARTS BE ADJUSTED FOR INFLATION?
+The tremendous price gains in commodity markets during the 1970s and the declining prices in the 1980s and 1990s are classic examples of inflation at work.
+##LONG TERM CHARTS NOT INTENDED FOR TRADING PURPOSES
