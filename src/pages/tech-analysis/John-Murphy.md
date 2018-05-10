@@ -527,3 +527,67 @@ The moving average is a follower, not a leader. It never anticipates; it only re
 The moving average follows a market and tell us that a trend has begun, but only after the fact.
 ![moving average](moving-average.png)
 **Which Prices to Average**
+
+**The Simple Moving Average**
+
+**The linearly Weighted Moving Average**
+
+The greater weight is therefore given to the more recent closings. The totals is then divided by the sum of the multipliers.
+
+**The Exponentially Smoothed Moving Average**
+![exp weight](exp-weight.png)
+
+**The Use of One Moving Average**
+
+While the shorter average generates more false signals, it has the advantage of giving trend signals earlier in the move. It stands to reason that the more sensitive the average, the earlier the signals will be. So there is a tradeoff at work here, The trick is to find the average that is sensitive enough to generate early signals, but insensitive enough to avoid most of the random "noise."
+![use moving average](use-moving.png)
+We'll add another corollary here: The longer averages work better as long as the trend remains in force, but a shorter average is better when the trend is in the process of reversing.
+It becomes clearer, therefore, that the use of one moving average alone has several disadvantages. It is usually more advantageous to employ two moving averages.
+
+##How to Use Two Averages to Generate Signals
+This technique is called the ***double crossover method***.
+This means that a buy signal is produced when the shorter average crosses above the longer. This technique of using two averages together lags the market a bit more than the use of a single average but produces fewer whipsaws.
+![cross over](crossover.png)
+![cross over](crossover2.png)
+##The Use of Three Average, or the Triple Crossover Method
+The most widely used triple crossover system is the popular 4-9-18-day moving average combination.
+##How to Use the 4-9-18-Day Moving Average System
+A buying alert takes place in a downtrend when the 4 day crosses above both the 9 and the 18. A confirmed buy signal occurs when the 9 day then crosses above the 18. This places the 4 day over the 9 day which is over the 18 day. Some intermingling may occur during corrections or consolidations, but the general uptrend remains intact.
+![4 9 18](4-9-18.png)
+##MOVING AVERAGE ENVELOPES
+The usefulness of a single moving average can be enhanced by surrounding it with envelopes. ***Percentage envelops*** can be used to help determine when a market has gotten overextended in either direction.
+When prices reach one of the envelopes(3% from the average), the short term trend is considered to be overextended.
+![envelopes](envelopes.png)
+##BOLLINGER BANDS
+Using two standard deviations ensures that 95% of the price data will fall between the trading bands. As a rule, prices are considered to be overextended on the upside(overbought) when they touch the upper hand. They are considered overextended on the downside(oversold) when they touch the lower band.
+![bollinger](bollinger.png)
+##USING BOLLINGER BANDS AS TARGETS
+The simplest way to use Bollinger Bands is to use the upper and lower bands as price targets. In other words, if prices bounce off the lower band and cross above the 20 day average, the upper band becomes the upper price target. A crossing below the 20 day average would identify the lower band as the downside target. In a strong uptrend, prices will usually fluctuate between the upper band and the 20 day average. In that case, a crossing below the 20 day average warns of a trend reversal to the downside.
+##BAND WIDTH MEASURES VOLATILITY
+When the bands are unusually far apart, that is often a sign that the current trend may be ending, When the distance between the two bands has narrowed too far, that is often a sign that a market may be about to initiate a new trend.
+Bollinger Bands work best when combined with overbought/oversold oscillators that are explained in the next chapter.
+
+**Centering the Average**
+
+The more statistically correct way to plot a moving average is to center it.
+
+##MOVING AVERAGES TIED TO CYCLES
+The subject of cycles is introduced here only to make to point that there seems to be a relationship between the underlying cycles that affect a certain market and the correct moving averages to use.
+There appears to be a definite relationship between moving averages and cycles. For example, the ***monthly cycle*** is one of the best known cycles operating throughout the commodity markets.  Cycles tend to be related to their next longer and shorter cycles harmonically, or by a factor of two. That means that the next longer cycle is double the length of a cycle and the next shorter cycle is half its length.
+
+The monthly cycle, therefore, may explain the popularity of the 5,10,20, and 40 day moving averages. The 20 day cycle measures the monthly cycle. The 40 day average is double the 20 day. The 10 day average is half of 20 and the 5 day average is half again of 10.
+
+##FIBONACCI NUMBERS USED AS MOVING AVERAGES
+
+##MOVING AVERAGES APPLIED TO LONG TERM CHARTS
+
+**Some Pros and Cons of the Moving Average**
+
+Because they are trend-following in nature, however, moving averages works best when markets are in trending period.
+They perform very poorly when markets get choppy and trade sideways for a period of time. And that might be a thrid to a half of the time.
+
+**Moving Averages As Oscillators**
+
+**The Moving Average Applied to Other Technical Data**
+
+##THE WEEKLY RULE
