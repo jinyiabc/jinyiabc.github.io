@@ -595,3 +595,6 @@ They perform very poorly when markets get choppy and trade sideways for a period
 1. Cover short positions and buy long whenever the price exceeds the highs of the four preceding full calendar weeks.
 2. Liquidate long positions and sell short whenever the price falls below the lows of the four preceding full calendar weeks.
 ![4week](4week.png)
+
+##THE ADAPTIVE MOVING AVERAGE
+Kaufman does that by constructing an Efficiency Ratio that compares price direction with the level of volatility. When the Efficiency Ratio is high, there is more direction than volatility(favoring a faster average). When the ratio is low, there's more volatility than direction(favoring in slower average).
