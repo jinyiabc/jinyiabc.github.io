@@ -591,3 +591,7 @@ They perform very poorly when markets get choppy and trade sideways for a period
 **The Moving Average Applied to Other Technical Data**
 
 ##THE WEEKLY RULE
+
+1. Cover short positions and buy long whenever the price exceeds the highs of the four preceding full calendar weeks.
+2. Liquidate long positions and sell short whenever the price falls below the lows of the four preceding full calendar weeks.
+![4week](4week.png)
