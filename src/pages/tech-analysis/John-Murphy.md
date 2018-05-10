@@ -598,3 +598,42 @@ They perform very poorly when markets get choppy and trade sideways for a period
 
 ##THE ADAPTIVE MOVING AVERAGE
 Kaufman does that by constructing an Efficiency Ratio that compares price direction with the level of volatility. When the Efficiency Ratio is high, there is more direction than volatility(favoring a faster average). When the ratio is low, there's more volatility than direction(favoring in slower average).
+
+##Chapter 10. Oscillators and Contrary Opinion
+The oscillator provides the technical trader with a tool that can enable him or her to profit from these periodic sideways and trendless market environments.
+Used in conjunction with price charts during trending phases, the oscillator becomes an extremely valuable ally by alerting the trader to short term market extremes, commonly referred to as ***overbought*** or ***oversold*** conditions. The oscillator can also warn that a trend is losing momentum before that situation becomes evident in the price action itself. Oscillators can signal that a trend may be nearing completion by displaying certain divergences.
+
+##OSCILLATOR USAGE IN CONJUNCTION WITH TREND
+**Interpretation of Oscillators**
+
+They are plotted along the bottom of the price chart and resemble a flat horizontal band. The oscillator band is basically flat while prices may be trading up, down, or sideways.
+
+**General Rules for Interpretation**
+
+As a general rule, when the oscillator reaches an extreme value in either  the upper or lower end of the band, this suggests that the current price move may have gone too far too fast and it due for a correction or consolidation of some type. As another general rule, the trader should be buying when the oscillator line is in the lower end of the band and selling in the upper end. The crossing of the midpoint line is often used to generate buy and sell signals. We'll see how these general rules are applied as we deal with various types of oscillators.
+
+**The Three Most Important Uses for the Oscillator**
+
+1. The oscillator is most useful when its value reaches an extreme reading near the upper or lower end of its boundaries.
+2. A divergence between oscillator and the price action when the oscillator is in an extreme position is usually an important warning.
+3. The crossing of the zero line can give important trading signals in the direction of the price trend.
+
+##MEASURING MOMENTUM
+Momentum measures the velocity of price changes as opposed to the actual price levels themselves. Market momentum is measured by continually taking price differences for a fixed time interval.
+The formula for momentum is:
+    M = V - V^
+where V is the latest closing price and V^ is the closing price x days ago.
+![oscillator](oscillator.png)
+![longer](longer-oscillator.png)
+
+**Momentum Measures Rates of Ascent or Descent**
+
+**The Momentum Line Leads the Price Action**
+
+Because of the way it is constructed, the momentum line is always a step ahead of the price movement. It leads the advance or decline in prices, then levels off while current price trend is still in effect. It then begins to move in the opposite direction as prices begin to level off.
+
+**The Crossing of the Zero Line as a Trading Signal**
+
+Many technicians use the crossing of the zero line to generate buy and sell signals.  A crossing of the zero line would be a buy signal, and a crossing below the zero line, a sell signal. It should be stressed here again, however, that basic trend analysis is still the overriding consideration. Oscillator analysis should not be used as an excuse to trade against the prevailing market trend. Buy position should only be taken on crossing ablve the zero line if the market trend is up. Short positions should be taken on crossings below the zero line only if the price trend is down.
+![leader momentum](leader-momentum.png)
+![momentum macd](momentum-macd.png)
