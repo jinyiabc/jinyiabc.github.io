@@ -511,3 +511,19 @@ The first chart to be considered is the 20 year monthly chart. The analyst look 
 ##WHY SHOULD LONG RANGE CHARTS BE ADJUSTED FOR INFLATION?
 The tremendous price gains in commodity markets during the 1970s and the declining prices in the 1980s and 1990s are classic examples of inflation at work.
 ##LONG TERM CHARTS NOT INTENDED FOR TRADING PURPOSES
+Long term charts are useful in the analytical process to help determine the major trend and price objectives. They are not suitable, however, for the timing of entry and exit points and should not be used for that purpose.
+![long term](long-term.png)
+![long term](long-chart2.png)
+##Chapter 9. Moving Averages
+
+**INTRODUCTION**
+
+Because of the way it is constructed and the fact that it can be so easily quantified and tested, it is the basis for many mechanical trend-following systems in use today.
+There are many questions to be considered when using moving averages. We'll address many of these questions in this chapter and show examples of some of the more common usages of the moving average.
+
+**THE MOVING AVERAGE: A SMOOTHING DEVICE WITH A TIME LAG**
+
+The moving average is a follower, not a leader. It never anticipates; it only reacts.
+The moving average follows a market and tell us that a trend has begun, but only after the fact.
+![moving average](moving-average.png)
+**Which Prices to Average**
