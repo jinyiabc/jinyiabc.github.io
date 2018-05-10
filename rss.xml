@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 09:29:38 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 10:10:09 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1709,7 +1709,44 @@ There appears to be a definite relationship between moving averages and cycles. 
 They perform very poorly when markets get choppy and trade sideways for a period of time. And that might be a thrid to a half of the time.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Moving Averages As Oscillators&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Moving Average Applied to Other Technical Data&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;THE WEEKLY RULE&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;h2&gt;THE WEEKLY RULE&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Cover short positions and buy long whenever the price exceeds the highs of the four preceding full calendar weeks.&lt;/li&gt;
+&lt;li&gt;Liquidate long positions and sell short whenever the price falls below the lows of the four preceding full calendar weeks.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4week-b75573f2ecb5b2488a81faf34df4908e-fde3e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 530px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 86.0377358490566%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB/klEQVQ4y4WU167CQAxE8/+fxDMPSAhEh9B7C713o2NpUHQvEpZMEq93PDv2Eux2OxsMBjafz225XFoURf7Ok3in07Fer+fe7Xat3+/bYrGw6XRqs9nMnZxms2mbzcaC8XhsqVTKg+v12kFZwGu1muVyOatWq+58k7fdbr0oYOfz2er1uuXzeVutVhbwc7vdbDgcOoPJZGLP59P9mx2PR8tms3a5XOx6vTr46XRycAeEEVUEgr9er4/H49hoNLJ2u+1HBqzRaDhb4mAFHI0K30zgMnRCV4xjIgPfnAy5nKEAH4+HM5VzHBlMaAYgNJE1JCIOUKVSMXrhgAQA5Ek1VSSBWKlUsmKx6M2gqApIDgw90d6PLFFlsEOP/X5vyWTSmWGIDjsxxCQHezROzhBRMZKhTzXmkAQxYhLipqaJIbl+ZJLVaWYJoTXEbIA9XVUMZ6OaplFS3JuiCgSVwDdHAxB29/vdNZTHR+mfhlQnIC1JiI/LL6PABxCGXC+uFVqywNACrmvIUWAMc2KMDI1jjHinIZBivwNqXAAjkUVA4zEcUGLoDBhXkPcwDJ2QawhqIpHwhjBvdJdFktkE+0Kh4N0nVi6XLZPJ+BMg5pR1mGLOMJ1OfwAAwwFnk/5p2AQQAHyzTjGIEGMvjQsOh4O1Wi2vpiuoO/z3j+JXo1h/A2ef/8aDT7p/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;4week&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4week-b75573f2ecb5b2488a81faf34df4908e-fde3e.png&quot;
+        srcset=&quot;/static/4week-b75573f2ecb5b2488a81faf34df4908e-8803e.png 148w,
+/static/4week-b75573f2ecb5b2488a81faf34df4908e-77437.png 295w,
+/static/4week-b75573f2ecb5b2488a81faf34df4908e-fde3e.png 530w&quot;
+        sizes=&quot;(max-width: 530px) 100vw, 530px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
