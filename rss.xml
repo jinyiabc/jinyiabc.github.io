@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 04:50:51 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 07:21:07 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1331,7 +1331,115 @@ Another pattern that occurs quite frequently on these charts is the &lt;strong&g
 &lt;p&gt;The first chart to be considered is the 20 year monthly chart. The analyst look for the more obvious chart patterns, major trend lines, or the proximity of major support or resistance levels. He or she then consults the most recent five years on the weekly chart, repeating the same process. Having done that, the analyst narrows his or her focus to the last six or nine months of market action on the daily bar chart, thus going from the “macro” to the “micro” approach.&lt;/p&gt;
 &lt;h2&gt;WHY SHOULD LONG RANGE CHARTS BE ADJUSTED FOR INFLATION?&lt;/h2&gt;
 &lt;p&gt;The tremendous price gains in commodity markets during the 1970s and the declining prices in the 1980s and 1990s are classic examples of inflation at work.&lt;/p&gt;
-&lt;h2&gt;LONG TERM CHARTS NOT INTENDED FOR TRADING PURPOSES&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;h2&gt;LONG TERM CHARTS NOT INTENDED FOR TRADING PURPOSES&lt;/h2&gt;
+&lt;p&gt;Long term charts are useful in the analytical process to help determine the major trend and price objectives. They are not suitable, however, for the timing of entry and exit points and should not be used for that purpose.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/long-term-c3ba2b65bb4c2351800159d1d19b794e-87598.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 540px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.18518518518519%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACD0lEQVQ4y42U54pCQQyFff9HEhsXe0FRsYC9995blu8sIwr7YwNhZjKT5OQk9/oul4utVisbDAa2XC5tt9vZZrOx7XarPXeTycSm06nNZjPZUfeGdT6f22KxsOv1ar79fq/H6XTaGo2GnMfjsR5x9vv9Fo1GLZVKWTabtdFopHuXpN/vy7fVatnxePwNeDgcDMEASlCj6/VajqDEGQS8OZ1O8mm329btdnXHW2w+ymJD4OFwqDJer5fUCdkrlYp9yv1+V0CqwI+kQkjA8/ksDkKhkLgE1ad0Oh1LJBJKipAMH+zlclncgvBdMhvIBX6pVLJqtaqySAYFaKFQkN0JNpDDoWsWPkLoApK5Xq/rMZlBEI/HdabEWq2moPl8XkHglCBUhP9XQNbb7absPABpr9dT0OfzKTsdxk7XSey4/BMhpDqBBjISjHu66JoHx0wA58fjoWQ05Y0QZ4JRDvOFM6sbHVCDgHfsaYa7IyD6hZCsBKHLBEbJ/l8BIRS9A1Iu3ICAbKAgO5efSgPgy91zZgUxFVEye3EIVwwuY8OeZqAMrmsMyrlYLFoymZQym7lcTiPFnRACla4xJvAIwaxO+RLcvtlsaiU5doITDB/QUb4QBgIBffxkDAaDFolELBaL6WcAEmYRzWQySu55nt6Gw2Gt2CgbEYeUytQD25XHF8AQs8IX3DneWFFQua7DL/IDxferTj6Trs0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;long term&quot;
+        title=&quot;&quot;
+        src=&quot;/static/long-term-c3ba2b65bb4c2351800159d1d19b794e-87598.png&quot;
+        srcset=&quot;/static/long-term-c3ba2b65bb4c2351800159d1d19b794e-beb4f.png 148w,
+/static/long-term-c3ba2b65bb4c2351800159d1d19b794e-0c12c.png 295w,
+/static/long-term-c3ba2b65bb4c2351800159d1d19b794e-87598.png 540w&quot;
+        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/long-chart2-56c76fdc60148f945080d261634bfdc3-7cb1a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 533px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.61350844277673%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACEElEQVQ4y4WU54orMQyF5/2fJf+zhJBGGum990YK6b1q+QQK2WUvV6CxLVuaoyPZzvV6lePxKIfDQTabjazXax1tvt1uVW1t+zZfrVayWCx0vFwu4uz3e2m321IqldSRQ8vlUnUwGEgikZBsNivpdFp1NBppgPl8ruN0OpVIJCL9fl9BOYas2WxKp9ORbrergZHn8ylkgN5uN7nf72p7vV46IiDLZDJyOp1kt9uJw4cFDkBGcURw/C3YPgOCOBgM6k8BoinD4f8cz+ezqiE3O2nXajWNoQgJCEIL8KnmxH4qlVLeDP3j8dCxUqnIcDj8ifBfAS1lChONRnUO5yAxoZgUFareCIH7FzLQfH19STgclnw+Ly6XSwtAmiCiE0BOZxDsz5Q/BTTwY3PS8/v9EggE9KzX6xWPx6MFJY4GJFiv13sTDjdwhQPIQfJbaDHOF4tFmc1mb3QaECeak8acTCaSy+U0DTirVqs/UNucsVwuqw/yGVT7EEIJAMEcZg1KDuLUarU0uGVCFqQLd/BstL1Tptw4oePxWG8MaLk1BGRt+4VCQZLJpPh8PgmFQuJ2uzUrrqm2DRXjjkJ4o9HQDdDU63VdY0dJERt7VBz+sPMD1vAKUgfYcIYDB9jgB7FYTP8MFfF4XNGwpsI8FtjpTx4G/KEDKhxgYoA/0kVJkzsKh3BpTxR9hw21p+3z9sD/N951rMVr8IhcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;long term&quot;
+        title=&quot;&quot;
+        src=&quot;/static/long-chart2-56c76fdc60148f945080d261634bfdc3-7cb1a.png&quot;
+        srcset=&quot;/static/long-chart2-56c76fdc60148f945080d261634bfdc3-90fcb.png 148w,
+/static/long-chart2-56c76fdc60148f945080d261634bfdc3-a64cf.png 295w,
+/static/long-chart2-56c76fdc60148f945080d261634bfdc3-7cb1a.png 533w&quot;
+        sizes=&quot;(max-width: 533px) 100vw, 533px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Chapter 9. Moving Averages&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because of the way it is constructed and the fact that it can be so easily quantified and tested, it is the basis for many mechanical trend-following systems in use today.
+There are many questions to be considered when using moving averages. We’ll address many of these questions in this chapter and show examples of some of the more common usages of the moving average.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE MOVING AVERAGE: A SMOOTHING DEVICE WITH A TIME LAG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The moving average is a follower, not a leader. It never anticipates; it only reacts.
+The moving average follows a market and tell us that a trend has begun, but only after the fact.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/moving-average-c70a27f0530c56ae6b1b7c0787451c25-a356c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 508px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 88.9763779527559%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACK0lEQVQ4y5WU12oDQQxF9/+/yGAw2MbGuPfee++9KRwFbTYmLxnQapqursqss91uZbPZyHq9Vo2wZ/u23u12cjweZb/f/zo3fTqd9Myp1WoSi8VkOp3qhoEj3W5XksmkSjqdllQqJfl8XlarlcpyuVRZLBYSDof13AHo8XjIaDSS4XAok8lEbrebMF6vl54h9/tdrter6vf7rcI5A/BCoaAYDugMQoI+LAEwI4bpzzkD59lsVubzuQIrw8/hNTIWljcGaSHUy+Ui7XZbwSA0Ho9/ADEE6Pl86hqmjUZD5xhEIhEVchuPxyUYDEooFJJMJuM6mc1m4vAxVsbmcDhooSiE3+/XORUeDAbi8/m0CFSVnJNX2MFYAY2hMYNNNBrVSzhptVpuqNwlLBwTLlEAzBpAzhXQcsZBtVrV8nMBBt68knRAYAszb9HO57OScRlCl5yg8Wr9iDEMbW6RGJCJy9By2Gw23dCMLT1H3srlsvT7fa0ogF4gL6DmsNfr6YugKRmAEBbC3MsGMBz9JdxXQHLGc6KyhEpYNPZ/B0Wk+o6xo3rkjQO8oRHbI4f2mmDCEzU7NDidTuc7ZDbRXOIy1TIh0RhwZokvlUpSLBb1yREdUq/XtQ4OTRsIBLTjaWSMeeiJREI1BalUKgpAegCzPV6S7QOOQ/198aQwzuVy+qtiTi+yxgBHGKAR9hGc2pr72ja8BECgDThiHgmZvwnFIn8UzoRGRlu+reW+AHraRsGSBl1iAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;moving average&quot;
+        title=&quot;&quot;
+        src=&quot;/static/moving-average-c70a27f0530c56ae6b1b7c0787451c25-a356c.png&quot;
+        srcset=&quot;/static/moving-average-c70a27f0530c56ae6b1b7c0787451c25-11fec.png 148w,
+/static/moving-average-c70a27f0530c56ae6b1b7c0787451c25-4cd09.png 295w,
+/static/moving-average-c70a27f0530c56ae6b1b7c0787451c25-a356c.png 508w&quot;
+        sizes=&quot;(max-width: 508px) 100vw, 508px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;strong&gt;Which Prices to Average&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
