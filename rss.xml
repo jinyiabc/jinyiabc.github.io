@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 07:21:07 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 09:29:38 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1439,7 +1439,277 @@ The moving average follows a market and tell us that a trend has begun, but only
   
   &lt;/a&gt;
     
-&lt;strong&gt;Which Prices to Average&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;strong&gt;Which Prices to Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Simple Moving Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The linearly Weighted Moving Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The greater weight is therefore given to the more recent closings. The totals is then divided by the sum of the multipliers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Exponentially Smoothed Moving Average&lt;/strong&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/exp-weight-cac98a53f91c5e4fc1234606145e5d69-ab71f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 527px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.83491461100569%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB7UlEQVQ4y4WU14pDMQxE7///Up7zENJJI7333nu0nAGZm4VlBcKOLc0djaVEl8vF1uu1bbdb2+12wQ+Hg87cOdvv92F1j+ecz2eLCM5kMtZsNgVC0GazEUiv17N0Oi3PZrNaq9WqCCyXS1ssFoorl8uWTCZtNptZBDIsV6uVNRoN63Q6CsLe77c9Ho/g9/vdns+nfT4f3bFik8nERqORPhIAX6+XXa9XJXrgX+b3rPP53KbTaWAswNPppABKHQwGNh6Prd1ua48UJDhjHCMHZkgEEcqlysAQgx2Xt9vta6VULxNDawDcuIch2n4B/lemA/JYqVRKVaApGJQbAL1k2KCJA+CwRl8HgzWSDIdDPQS5AFEukkVoQP9ggLkuztqTMIAolTtiiGfvLANDAAlkDysSaZ3j8ahSAMXr9br1+31pRu8Wi0XtqQwN1TYkeiC0fUIAQCOY8Ju7eO/FZQCQGAFSN2C/hacUGGPeGnFt4/3IHThqGza4Pz9fxnkMwNEHQHQEgDvOuGOPIRnSiKHPLqXSwHwFcTlDQ4T3lqAsVua6VCppriuVimaZVbMMSCKRsHw+r1lGN/YEkJTL5axQKITfJPMYuAPXajW9AzJFlAIQj0DD8oFut6s94K1WSxrjnDOKnJFDDH8mjKg/2A8Pb7wfvKfGcQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;exp weight&quot;
+        title=&quot;&quot;
+        src=&quot;/static/exp-weight-cac98a53f91c5e4fc1234606145e5d69-ab71f.png&quot;
+        srcset=&quot;/static/exp-weight-cac98a53f91c5e4fc1234606145e5d69-d9803.png 148w,
+/static/exp-weight-cac98a53f91c5e4fc1234606145e5d69-9d928.png 295w,
+/static/exp-weight-cac98a53f91c5e4fc1234606145e5d69-ab71f.png 527w&quot;
+        sizes=&quot;(max-width: 527px) 100vw, 527px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Use of One Moving Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While the shorter average generates more false signals, it has the advantage of giving trend signals earlier in the move. It stands to reason that the more sensitive the average, the earlier the signals will be. So there is a tradeoff at work here, The trick is to find the average that is sensitive enough to generate early signals, but insensitive enough to avoid most of the random “noise.”
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/use-moving-cb29152388e612aabfaa5cd18c34c39f-88544.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 520px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACLUlEQVQ4y42U1a4jQQxE+/8/KqCgwsyJwszMXh1LHs3evQ9rqTUN7rJd5R53Pp9lOp3KarWS/X7/1zgcDrLb7WS5XMp6vZbNZvOPjw07dzgHg0HpdrsKwCaHBOA7HA4lnU5LJpORQqGg4Pjwxce+kUhEfRwZXC4XIVMufz4fMRuNRhqo3+/rOfb9fr1hawzQxWIhjmiJREIjRKNRnbfbbXm/356zmR/MD3q9XpW27XYrDtRSqaQLSmy1WtJsNpW75/Mpp9NJObrdbr+CYrPZTGq1mmbplUxGgBKAL1Efj4eWPR6PNQAGJQbG/Hg8ynw+V0A0UEAAcACETSIBwgUGmf7GH7zG43Hp9XoKqioDZoSbAYCinNmaKn4CspdKpVQ0U14zJDMrx1SG5Gq1qhw2Gg2ZTCZanvlhdAVBX6+X8qiiAOhvCXNGCBQvFovaX6FQSEWz8gk0GAzU/36/a3ZgeaL4ObJy6vW6Nj3lUBY8YWQbDod1DRjigeOJYhn6S4YGQHE2y+VyChyLxVQ4v+pkrxlStz9DvzC0kp8zwLLZrNLx00gKGhxEG6HW8aROKWRhpVAegVkz5w7PkgEFtA5fR+NSAoryQlCO18LodDq6h7OtASiXy9pWtAwZ2+DcUUYgEFBAuh3lOGQOSD6f1zXPk3kymZRKpaKCsQaYu3QCFTpeBE5cYhP1mOPMb4tsALCAtBE/DwvIHfoUP6hwoNJDDN6x9ROtgoM1/f8Y4v0B8SZGtSAcXg4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;use moving average&quot;
+        title=&quot;&quot;
+        src=&quot;/static/use-moving-cb29152388e612aabfaa5cd18c34c39f-88544.png&quot;
+        srcset=&quot;/static/use-moving-cb29152388e612aabfaa5cd18c34c39f-d098a.png 148w,
+/static/use-moving-cb29152388e612aabfaa5cd18c34c39f-ec850.png 295w,
+/static/use-moving-cb29152388e612aabfaa5cd18c34c39f-88544.png 520w&quot;
+        sizes=&quot;(max-width: 520px) 100vw, 520px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+We’ll add another corollary here: The longer averages work better as long as the trend remains in force, but a shorter average is better when the trend is in the process of reversing.
+It becomes clearer, therefore, that the use of one moving average alone has several disadvantages. It is usually more advantageous to employ two moving averages.&lt;/p&gt;
+&lt;h2&gt;How to Use Two Averages to Generate Signals&lt;/h2&gt;
+&lt;p&gt;This technique is called the &lt;strong&gt;&lt;em&gt;double crossover method&lt;/em&gt;&lt;/strong&gt;.
+This means that a buy signal is produced when the shorter average crosses above the longer. This technique of using two averages together lags the market a bit more than the use of a single average but produces fewer whipsaws.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/crossover-d7aa2b16de83fb1f0b308aa713e5d79a-88544.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 520px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.38461538461539%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACC0lEQVQ4y42UB4vrQAyE/f//UiCQkEYSUkjvvffeo+PTIePnlztuQfFa0c7OzGrt7HY7abfbMplMZLlcymKxcJ+j0Uh6vZ7GcDjUd4L/vMFaaljn8JNKpWQ8Hsv1ehU2OB6PcrlcFCSbzUqpVJJKpSLJZFJrAdjv91p7OByk3+9LJBKRVqslzmazkdvtJjbYsdlsynQ6/Sf/fr+VBYt5Pp9PzRGPx0PW67WsVqtvQJjZosFgIOVyWQKBgBQKBel2u3I+n8U/DIxxv99lPp8rGQdUGCGBxGw2U8nIYQGF1WpVTqeT6ylzA2WgxPx0oGqHgmfQ9w9AAcIvwKzGz1APZbvdupL9crzBhhwOFn2SDI7rITszXq/XRzAb2AJTJJLnYP7zEGSvJz8Fm5l8mKAKu8xDcq6HfwE0pjwbjYbUajUJh8MKxmYAcqAqmVP9TbKBUcdJ01bFYlEbOZFIqH/WJSrZ+szr16eBZ9QaIwZ9C1uUKiD9xnEjG19gwRwpXD+emM5/ADGnbagBnDxXErluY0OdG4F874eCE2WOTPKw6HQ6ks/ntYVisZjkcjm9UXarHD4K+ECCxuYOczOQARi3CJB6va455gSAvFNLkIOxw6JQKCTxeFyps3swGNRN0um0/kee92g0qk+YMSdPDV+aTCajdmnb0AbIZkeYmD/2GSMsxyWwziB4J7COmi8cXALt8r6YdQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cross over&quot;
+        title=&quot;&quot;
+        src=&quot;/static/crossover-d7aa2b16de83fb1f0b308aa713e5d79a-88544.png&quot;
+        srcset=&quot;/static/crossover-d7aa2b16de83fb1f0b308aa713e5d79a-d098a.png 148w,
+/static/crossover-d7aa2b16de83fb1f0b308aa713e5d79a-ec850.png 295w,
+/static/crossover-d7aa2b16de83fb1f0b308aa713e5d79a-88544.png 520w&quot;
+        sizes=&quot;(max-width: 520px) 100vw, 520px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/crossover2-001c95072b4884fbf58b606821329e3f-bf6ef.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 522px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84.48275862068965%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACH0lEQVQ4y42UV28CQQyE7///Hl5BAlFE76KI3nvvzdHnyGhJ8hBLFne73vHMrA9vvV7LaDSS+Xwum83mnayTrE+nU5lMJr9qLBeLhQyHQ1mtVuK1Wi1JJBLS7/dlu93qwdlspkVkrVbT/Wg0KtVqVWuWy+VHUhOJRKTT6Yg3Ho/l9XoperFY1M3T6SQW7Pd6Pel2u3I+n8UNzhG3202ZAu61223J5XISi8UkHA6L3+/Xw8/nUw/8J1EHIQWkOx7udjuVgywKjsejXK/XNxMauE14Ju73u1QqFRkMBt+AGP54PPSwmcsG70j5KdOVisz9fi/NZlNJKCCXABuCw/hHEy7LGNAIGzjEuwFSg10mlzqPG4WhG4Dm83k5HA76DlvYsG5SYY9VJEQgQX4Aut7QHUZ4y+0zk9QZO0DwjcB7ZvTNEBk/ARkXZi+dTitgMplUEJgBwLp5DXtkKyDIfwGa2STBYeRdLhcJBAKSzWbVe+qxAgUKyKW4gBawcS+ABswp3mYyGR0v7CAAxr+3ZOtEIgkQpJA8A4x/eAoBAjCbDupgqWMDVRtuGw+asM5XRGf2WLc5LZVKyjAej6t0RqdcLiuOR1fMr9frCsAHzjPTj3+8c+OsAdJoNBSQLBQKusYzVtBMv2Wfz6f/KHjDbZKpVEpCoZA2cxMf+e7Z4zcYDGott44qj+FlRJCDPHzg5pFNIpd1nmHAHmucsXXO8AvWF5OS+ZBfzsS4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cross over&quot;
+        title=&quot;&quot;
+        src=&quot;/static/crossover2-001c95072b4884fbf58b606821329e3f-bf6ef.png&quot;
+        srcset=&quot;/static/crossover2-001c95072b4884fbf58b606821329e3f-a38f4.png 148w,
+/static/crossover2-001c95072b4884fbf58b606821329e3f-9f339.png 295w,
+/static/crossover2-001c95072b4884fbf58b606821329e3f-bf6ef.png 522w&quot;
+        sizes=&quot;(max-width: 522px) 100vw, 522px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;The Use of Three Average, or the Triple Crossover Method&lt;/h2&gt;
+&lt;p&gt;The most widely used triple crossover system is the popular 4-9-18-day moving average combination.&lt;/p&gt;
+&lt;h2&gt;How to Use the 4-9-18-Day Moving Average System&lt;/h2&gt;
+&lt;p&gt;A buying alert takes place in a downtrend when the 4 day crosses above both the 9 and the 18. A confirmed buy signal occurs when the 9 day then crosses above the 18. This places the 4 day over the 9 day which is over the 18 day. Some intermingling may occur during corrections or consolidations, but the general uptrend remains intact.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4-9-18-8a80a4a6bd6c074debb8f956c4f7c2fa-0a4c8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 524px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 86.6412213740458%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB80lEQVQ4y32UV4sCQRCE5///KPHNBxVzzmLOOWsfX0Mte3JcQzO706mqZnbD4XCwfr9vs9nMttut7fd7d/bX67XN53NbLpfui8XC191u5zmsOHWs1AQK8vm8jUYj39hsNt6IhG63a+l02nK5nOdkMhkrlUq2Wq3cGUB+tVq1ZDJpvV7PAhuPx8P9drsZ9vl83GXx53hc+5fLxZlMp1MLTIJuq9Vy6kp8v9+Rxxt8O/Z8Pu16vXqfAD1toA/T/kMUd4ZhMENTUDrC+/3ugdfr5TqyEhwMBq4l9hdaGXIBxCmDigZKOJ1O3hTETAb9tyn3fD7/QuiUafg9mWuAy4hzeCBgECaKMGAozSOEf52ckOqdRrqHyCTtdSfJj045TgM9CABfySCRziABvfKhyx0mPplMLDBVtEg+Ho/RF0BzTacpxcPhMEKuptT8OhRRKhQKViwW/WtoNBrRtRBymnY6nUhHxXWAfiggBK40QnxkYBBNuAE4BSDRqbN+6019oCsCA5cvhUYEQSMdGYI+5BGv1+vRd10ul51VrVbzWGg2m5ZIJKxSqXhgPB77j4AiCnDeWflJkJfNZj2ORIrhMAj8IVKpVLTJO41JpBgtNYyGIOKdVQ1xgGEBRCS3220v4ApwYtAUXajov6hfFxKgGbLwzG3AfgACoAiuGeAmXQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;4 9 18&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4-9-18-8a80a4a6bd6c074debb8f956c4f7c2fa-0a4c8.png&quot;
+        srcset=&quot;/static/4-9-18-8a80a4a6bd6c074debb8f956c4f7c2fa-076a5.png 148w,
+/static/4-9-18-8a80a4a6bd6c074debb8f956c4f7c2fa-1e0b5.png 295w,
+/static/4-9-18-8a80a4a6bd6c074debb8f956c4f7c2fa-0a4c8.png 524w&quot;
+        sizes=&quot;(max-width: 524px) 100vw, 524px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;MOVING AVERAGE ENVELOPES&lt;/h2&gt;
+&lt;p&gt;The usefulness of a single moving average can be enhanced by surrounding it with envelopes. &lt;strong&gt;&lt;em&gt;Percentage envelops&lt;/em&gt;&lt;/strong&gt; can be used to help determine when a market has gotten overextended in either direction.
+When prices reach one of the envelopes(3% from the average), the short term trend is considered to be overextended.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/envelopes-4fa75c6627476b3ecd0a15982fb6fb02-b088a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 529px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150.6616257088847%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADg0lEQVRIx43WWUsmSwwG4P7/v0IRwQv1RhEVvVAE933f933fd2t4AulzxhlhCvJVd1UlefMmlf6qh4eHcnBwUPb29srV1VW5vr4uFxcX5fz8vBwdHZXt7e2Qzc3NkJOTk1g/Pj4OobuxsRFrr6+vpaK8urpaZmZm6kPW7u7uQnlxcbEsLS2Vubm5eLbOKQHm8PCw9Pb2huGnp6dSXV5eFsPB9fX1sr+/Hxv/OsbHxwP5y8tLeXx8LBVPb29v9YGPj4/CCQogv7m5ifX39/fy+fkZzznf3t6WpqamMAgQxBXexM6Q0dXVVWZnZ8Mbr4wybp9RlNgzpqeng477+/v/DELIoDE2Nla6u7vL5ORk8MdYY2NjrKEB8s7OzlgHZH5+Pjg8PT0NY2FQSDzw1NzcHGggbGlpCdna2op33I6MjJS+vr7S3t5eOjo6IlEMcy58dioPSqShoSE8OgD+xMREOMGXrLe2tpbh4eFydnYWoUKqnJ6fn+uM06tYXV5eDm5s8KYEKNr7+voK721tbYFWAjlJ7vHKIYPOhcG1tbVA6XDWHwc5KKMCX/hTXgxl9ulKVBj0g9TM3P8HdIZsZ23KdlZEvnP4m0EL0BEeGSDehYUnyPM9xbpzrp2QJbhyUDkI0YZwMzzvyac1s0RICpE4V3ZhYaHmvEJ0T09PZNABVZ8K6nFqaiqURkdHY02pqFfvZnpm97y+KbxCBKV6S6Q7OztB+O7ubiDImsszGVX2A6PKjpGZztZlJloTh2ZijwF7Zo5WVlZqHivZgUQ42Q9zJhyhIcsl9ySTLsRuT82hDSUhgxRwysFPQ1azTFRENmfrHEWWWc6W9L0Gc9i3JnGDg4MRUc64ZCPqMNtOKqQYai3vtoE32cWZrGoWKBGuM3UdJsLvBhWuJCTp7rwMo0fIdAiE7ERz+AlhUkBxaGgoRLZdU1xDJkQju00ghM6LO/mdN+v9/f2BTi0qEw7QkIkx/kDIaI7MOL4kQBazo/9tAJFfyZpDXOGGgbxeRDkQBZ0fq+QthcHMciAEm5J7qwZ5wxVekoJU/GlwVjdY6BhiNFtXtrJsT2gg+UwxQ/RMH7+B0CLCceWG5IV3v7MJWLeff01EgxpdJjuN/UCoDFS8WsMh40pCj3NQ7fl4ebbu3VfQM538NgtZhJXL7b/JwMBAGBE6b8IwQ8kJgd4Mca7leRcA178AGOG9ZQwnCbUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;envelopes&quot;
+        title=&quot;&quot;
+        src=&quot;/static/envelopes-4fa75c6627476b3ecd0a15982fb6fb02-b088a.png&quot;
+        srcset=&quot;/static/envelopes-4fa75c6627476b3ecd0a15982fb6fb02-28aeb.png 148w,
+/static/envelopes-4fa75c6627476b3ecd0a15982fb6fb02-4828a.png 295w,
+/static/envelopes-4fa75c6627476b3ecd0a15982fb6fb02-b088a.png 529w&quot;
+        sizes=&quot;(max-width: 529px) 100vw, 529px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;BOLLINGER BANDS&lt;/h2&gt;
+&lt;p&gt;Using two standard deviations ensures that 95% of the price data will fall between the trading bands. As a rule, prices are considered to be overextended on the upside(overbought) when they touch the upper hand. They are considered overextended on the downside(oversold) when they touch the lower band.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bollinger-d57de98a6dd129bf530b853026ed7e46-b088a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 529px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 90.73724007561437%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACWklEQVQ4y62UxwojQQxE5/8/wyeDsQ/2wQfjDAbnnHPOOUctT9DGh93bNjQ9MypJpZJ6rOv1KsvlUrbbrRwOB9nv97p3u52s12tZLBZ6rlarL+4X84s7Ho9i8RKLxaRWq8l4PJbhcKiOm81GZrOZ5HI5KRQKeiaTSbVjI4BJUCwWxefz6btFhsvlogxarZZ0Oh19/9v6fD7f/X6/9RtnpVKRXq8np9NJLKhTtnFg3e93mUwm0mg0pN1uaymAjd0EYvX7fXE4HMoYtsrwF5zJZDQbQWBK8PP5rJo9Hg+53W76/fV6KT6RSChDAoJRhjiw+Gi326VUKmkgWGSzWQmHwxro+XyqlvP5XEmAhwDNRH9tCgwpmaA2m001jMfjkk6nJRqNisvl0oA4gwmFQhIMBqVarWolbJqERBoQEFp5vV4NRNcBezweCQQCqgs6drtdyefz2vFIJKJBnU6nkiGgYW0RtV6vi9/v15nCSAnNZlMGg4GWihNBYIeOo9FIR4UESIMPJeOnc8gM4miMlA0rymRho2xY8oy26EkiNt8MEQsngAQDBJgOwsR0ElnAGDkYlel0+p0M7FRD9y00QlCy/GthIztJ0clchl87yb6DTVDAZs5MGWbjTEAYm5KNRGAJhK5aMtnoEKVzcn9hzMk7z1xLROedu4zmjBWN4SyXy/oMSwsHt9stqVRKfxJ0l/FhoNmMCcPLsPOMnZN3ukwwfNEY5soQAzeAzAABcbKZUWw0Azs28MbOJiHJ9eoRkLsIZUYFB/RAFzRhgwHMM3qbeTX6m/8l3bbkP68/bww8NXv7mwMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;bollinger&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bollinger-d57de98a6dd129bf530b853026ed7e46-b088a.png&quot;
+        srcset=&quot;/static/bollinger-d57de98a6dd129bf530b853026ed7e46-28aeb.png 148w,
+/static/bollinger-d57de98a6dd129bf530b853026ed7e46-4828a.png 295w,
+/static/bollinger-d57de98a6dd129bf530b853026ed7e46-b088a.png 529w&quot;
+        sizes=&quot;(max-width: 529px) 100vw, 529px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;USING BOLLINGER BANDS AS TARGETS&lt;/h2&gt;
+&lt;p&gt;The simplest way to use Bollinger Bands is to use the upper and lower bands as price targets. In other words, if prices bounce off the lower band and cross above the 20 day average, the upper band becomes the upper price target. A crossing below the 20 day average would identify the lower band as the downside target. In a strong uptrend, prices will usually fluctuate between the upper band and the 20 day average. In that case, a crossing below the 20 day average warns of a trend reversal to the downside.&lt;/p&gt;
+&lt;h2&gt;BAND WIDTH MEASURES VOLATILITY&lt;/h2&gt;
+&lt;p&gt;When the bands are unusually far apart, that is often a sign that the current trend may be ending, When the distance between the two bands has narrowed too far, that is often a sign that a market may be about to initiate a new trend.
+Bollinger Bands work best when combined with overbought/oversold oscillators that are explained in the next chapter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Centering the Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The more statistically correct way to plot a moving average is to center it.&lt;/p&gt;
+&lt;h2&gt;MOVING AVERAGES TIED TO CYCLES&lt;/h2&gt;
+&lt;p&gt;The subject of cycles is introduced here only to make to point that there seems to be a relationship between the underlying cycles that affect a certain market and the correct moving averages to use.
+There appears to be a definite relationship between moving averages and cycles. For example, the &lt;strong&gt;&lt;em&gt;monthly cycle&lt;/em&gt;&lt;/strong&gt; is one of the best known cycles operating throughout the commodity markets.  Cycles tend to be related to their next longer and shorter cycles harmonically, or by a factor of two. That means that the next longer cycle is double the length of a cycle and the next shorter cycle is half its length.&lt;/p&gt;
+&lt;p&gt;The monthly cycle, therefore, may explain the popularity of the 5,10,20, and 40 day moving averages. The 20 day cycle measures the monthly cycle. The 40 day average is double the 20 day. The 10 day average is half of 20 and the 5 day average is half again of 10.&lt;/p&gt;
+&lt;h2&gt;FIBONACCI NUMBERS USED AS MOVING AVERAGES&lt;/h2&gt;
+&lt;h2&gt;MOVING AVERAGES APPLIED TO LONG TERM CHARTS&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Some Pros and Cons of the Moving Average&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because they are trend-following in nature, however, moving averages works best when markets are in trending period.
+They perform very poorly when markets get choppy and trade sideways for a period of time. And that might be a thrid to a half of the time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Moving Averages As Oscillators&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Moving Average Applied to Other Technical Data&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;THE WEEKLY RULE&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
