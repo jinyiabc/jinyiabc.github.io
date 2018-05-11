@@ -728,6 +728,20 @@ If 80-90% of market traders are bullish on a market, it is assumed that they hav
 
 **Contrary Opinion Measures Strong Versus Weak Hands**
 
-A second feature of this philosophy is its ability to compare strong versus weak hands. Future trading is a zero sum game. For every long there is also a short. If 80% of the traders are on the long side of a market, then the remaining  20% (who are holding short position) must be well financed enough to absorb the longs held by the other 80%. 
+A second feature of this philosophy is its ability to compare strong versus weak hands. Future trading is a zero sum game. For every long there is also a short. If 80% of the traders are on the long side of a market, then the remaining  20% (who are holding short position) must be well financed enough to absorb the longs held by the other 80%.
 
 This means further that the shorts must be well capitalized and are considered to be strong hands. The 80%, who are holding much smaller positions per trader, are considered to be weaker hands who will be forced to liquidate those longs on any sudden turn in prices.
+
+**Watch the Market's Reaction to Fundamental News**
+
+Watch the market's reaction to fundamental news very closely. The failure of prices to react to bullish news in an overbought area is a clear warning that a trun may be near. The first adverse news is usually enough to quickly push prices in the other direction. Correspondingly, the failure of prices in an oversold area (under 25%) to react to bearish news can be taken as  a warning that all the bad news ha been fully discounted in the current low price.
+
+**Combine Contrarian Opinion with Other Technical Tools**
+
+##INVESTOR SENTIMENT READINGS
+
+Each weekend Barron's includes in its Market Laboratory section a set of numbers under the heading "Investor Sentiment Readings." In that space, four different investor polls are included to gauge the degree of bullishness and bearishness in the stock market. Too much bullishness is bad, Too much bearishness is good.
+
+##INVESTOR INTELLIGENCE NUMBERS
+
+##Chapter 11. Point and Figure Charting
