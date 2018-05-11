@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 May 2018 17:30:01 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 May 2018 07:47:52 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -1909,7 +1909,337 @@ where V is the latest closing price and V^ is the closing price x days ago.
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Need for an Upper and Lower Boundary&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;&lt;strong&gt;The Need for an Upper and Lower Boundary&lt;/strong&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/momentum-upper-lower-5fd29da9045e4967e87cbc1a21bdc16e-4496d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 517px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 153.57833655705997%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADvElEQVRIx5XV525jOQwF4Pv+bxNgEgQzQRIkm957sWM7vfdetf4Y8CLA7v5YAbQsiSIPD0ndamNjo0xNTZeh4eHS7nRKc2entFrtsru7V+bm5srv33/K0NBQGRwcjP9/jY2VTme3NJvN0mg0Q9fZr1+9Zad7t7q8vCz/d3x9fcX88fFRBgYGwjEHz8/Ppbq4uCivr6/l8/MzFIn/OVyyJv7ncG9kZKRsbW2V0dHRsrq6Wu7v778NptefF3jb29v7x5mIjo+PS09PTzk5OYm9u7u7LkW75ebm5jvks7Oz2tDLy0vMp6en4RkvV1dXtROocJrG0gk9his/ErOwsBAXhWAtBAaGu8myPjg4KGPdhDw8PJSnp6cwlNQw2Gg04qxi5O3trSwtLZW+vr4yPT1dZmdng4+fCCBL9GksDaJgfn6+3N7efof8/v4eh4+Pj+X6+jqM2aeAm5WVlbK4uFj29/cDRZ5DBb08kAgZQp4PDw9DaX19vWxvbwcie7ybccSoSKzHx8fLxMRECL6BCoSsttvtgDwzMxNoWq1WcMkICiBTZ/QIpzjvdBtheXk5jDMIXCXVDkCnzAtDBsNCtlYJInHuojLiyF2IJbA2qAQItOfn5xECcYaG1MGvWX1CzBEgKEJN1OHR0VEsKEFjzRjPENhLDulkyPgUrlmJEXYqnnp7e7sPxFQQjjtlQ5HgKrml46I1YyTPJAeASpGKPTuGlxThO4NaqNYZsnPFzoj/dNiIshGOLKslPGUNCluWcbS2thY6OMO1c5ypyey0urBtEq+OTJp1j0KnhAYo6FjTkdWsPb2NW2CqzByv//bmuYRjIf3sX4NTfEOOhkCY7SW0fAvzUoaJW5k36No3PBzWEJvrkPNNE2I+qlnYxJBdBjhQNlozUeMe33UvC4soAVkz1J6sZvg4U1accpjdlK8RnsOgTOHCwIN6ysJNHv9rJDVAZR6CQ96JYd3f3x8ZxU1WgHOIJZEBeqoBWqFDHA+sA8XNOp7A55mRzc3NoEAmGcKThOgQRnAHmXcxSyyeL1l0IV8SnrIMzArbPnq0GadA5EtDh8F4HCARip7OEmKAUQr+U+bUGQBaLjtD2JCyU3+keEs0kAqVQnp1CUcMcYQGnZGfjUxIneX0zmA2fz6qRC0ywqAz6ISuzIivocqgW+HBBlTqTEe4KFRNn59UFySEI8bsWas/90gg5FnV59smo74R3j7tODk5GR98TvMTmzpmehD7L5K6l7WUUsjvBq7wg1+zOsw1HeK/fTN9//8GnFT1IC3e2cIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;upper lower&quot;
+        title=&quot;&quot;
+        src=&quot;/static/momentum-upper-lower-5fd29da9045e4967e87cbc1a21bdc16e-4496d.png&quot;
+        srcset=&quot;/static/momentum-upper-lower-5fd29da9045e4967e87cbc1a21bdc16e-1ac1f.png 148w,
+/static/momentum-upper-lower-5fd29da9045e4967e87cbc1a21bdc16e-06846.png 295w,
+/static/momentum-upper-lower-5fd29da9045e4967e87cbc1a21bdc16e-4496d.png 517w&quot;
+        sizes=&quot;(max-width: 517px) 100vw, 517px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MEASURE RATE OF CHANGE(ROC)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rate of Change = 100(V/V^)
+where V is the latest close and V^ is the closing price x days ago.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONSTRUCTING AN OSILLATOR USING TWO MOVING AVERAGES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This can be done by plotting the difference between the two averages as a histogram. These histogram bars appear as a plus or minus value around a centered zero line. This type of oscillator has three uses:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To help spot divergences.&lt;/li&gt;
+&lt;li&gt;To help identify short term variations from the long term trend, when the shorter average moves too far above or below the longer average.&lt;/li&gt;
+&lt;li&gt;To pinpoint the crossings of the two moving averages, which occur when the oscillator crosses the zero line.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/moving-average-oscillator-85d65dc7582035aade2b59e9a9c19a57-2c19d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 523px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 90.63097514340345%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACaElEQVQ4y42UxwqqQQyF//df+AaKggtduhNRBEEs2HvvvfeuuXyBEe9d3YEx889kknNOMlqn00mOx6PsdjvZbDay3W7/sr/r9Xotq9VKv3/92BuNRkIsq9vtSiaTkcFgIIfD4es8m80knU5LNpvVmUql1C+fz8t8PpflcimLxUKDFYtFCYfDumeNx2NFOJlMpN1uS6/X02CM5/Op8/F4fNev10vPSqWSVCoVXXOf4Pv9XiyiMu73u87L5SLn81kvfz4fMeN3jTwwAwBBoA4g9jWgcUYjdECPfr+vwRnv91stkiANEtxuN4EdUkCZOEhloQeDw0QiIbFYTDP9O0DNxUKh8E3EqNVq0ul09A60LVDh3Gw2FQka5nI5RQstztCt0Wh86ZEca5hdr1ctjhYF7jj/ZqUoZIZ6vV7XyuJHYIJSBKQx2rLmjiIkG9HZHA6HCt1UFsScoR1IQYJEJGGfJOyjHYw4s0yLQNnhcEg8HlfE6EVroFm1WtUEWL/fr1KEQiHxeDya3ARThCxoYK/XK06nU51+6ROIgT74uFwucbvdavEHKUy+CKFMG4AKlGgHumAwKJFIRNe8ECoJVdCZHqSFYEQi9Nai8GMamd5ioKXNZhOfz6f6TKdTPaMoSMS5afxWqyV2u13pKkJ+iI4FLVm5AAJEN4ITiIlPuVxWbWkvOgALO5BbRIYOl3kdtIUJijWO9CdFYQ0qCsYZwVgjGUwtLgUCAX1CFIcHj2bRaFSSyeR38oLQi7X59zEoWcMQCVRDDghkCmAs+yTBggppjBQg5RsZsEiBzhbNyoc5NE/I/HkiAfN/xx8CyCu+JniBcgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;moving average oscillator&quot;
+        title=&quot;&quot;
+        src=&quot;/static/moving-average-oscillator-85d65dc7582035aade2b59e9a9c19a57-2c19d.png&quot;
+        srcset=&quot;/static/moving-average-oscillator-85d65dc7582035aade2b59e9a9c19a57-a2a18.png 148w,
+/static/moving-average-oscillator-85d65dc7582035aade2b59e9a9c19a57-96408.png 295w,
+/static/moving-average-oscillator-85d65dc7582035aade2b59e9a9c19a57-2c19d.png 523w&quot;
+        sizes=&quot;(max-width: 523px) 100vw, 523px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;COMMODITY CHANNEL INDEX&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE RELATIVE STRENGTH INDEX(RSI)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wilder’s Relative Strength Index doesn’t really measure the relative strength between different entities and, it that sense, the name is somewhat misleading. The RSI, however, does solve the problem of erratic movement and the need for a constant upper and lower boundary. The actual formula is calculated as follows:&lt;/p&gt;
+&lt;p&gt;RSI = 100-100/1+RS
+RS = Average of x days’up close/ Avrage of x days’ down close&lt;/p&gt;
+&lt;p&gt;Wilder originally employed a 14 day period. The shorter the time period, the more sensitive the oscillator becomes and the wider its amplitude. The time period is lengthened to make the oscillator smoother and narrower in amplitude.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/RSI-268a32eb9231ca81c1151da2a059e71b-30ea3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 546px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.78388278388279%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACIklEQVQ4y4WU16oDMQxE9///J88JaaQ3SEhI3/Tee9HlDHjZh8A1GFu2NBqNi3c+n+10Otl+v7ftdmu73U4d283denjf+dBns5kdj0ejeaVSyZrNppyXy6WtVivbbDbm+77l83krFApWLpc1r9frgd96vdY8m81aJBIRqADn87ldLhf7fD72/X6Djv18PtXf77fG1+ulPdfG47EAW62WmArwer3arxYOBDDcsEejkUCI73a7qkqAsKOhI6Ww6fQAlDUkORwOAmAPOcJxnU5HEghwsVjYcDi0wWAQBGCTcTqdCvB+v1uv11OJYTY0gGGLnwDJxomhmWskQRf0DZcJY8fMSYJNkoDhLw05MUp0gYBxIO5gGB+Ph+ZUBSluB74eR08pk8lEI6za7bZsSkYCgm+3WwDiQElEdcgBQ2wPPdCA3u/3lQ0wEsGUi4+GSEI1SIFezDmQSqUiEgCT0GMTHQCgkwBWbg09CcCPkdIY2YM1Sd1jECCM0IuMLMCGa8Kpk5Ug1tzTQw4SUh7+VMA6JQsQnQhwbxoA2DESxEgy5vggBzagxDF3z1GAZEQ/aHNBYcwmepKMPXwonT3Y12o1y2QyViwWg7eOnw6lWq3KCbE5LUAA43I3Gg19CKwTDBDBrvOxpFIpvWck0T3EiMfjlkgkLJfLWTqdtmg0aslkUiwYY7GYAGBIJymda+bmwVtGA9A5GHThoiIwdvg/RJ//Ghf7D44cAI8GwZUPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;RSI&quot;
+        title=&quot;&quot;
+        src=&quot;/static/RSI-268a32eb9231ca81c1151da2a059e71b-30ea3.png&quot;
+        srcset=&quot;/static/RSI-268a32eb9231ca81c1151da2a059e71b-efee6.png 148w,
+/static/RSI-268a32eb9231ca81c1151da2a059e71b-7d4b6.png 295w,
+/static/RSI-268a32eb9231ca81c1151da2a059e71b-30ea3.png 546w&quot;
+        sizes=&quot;(max-width: 546px) 100vw, 546px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/compare-rsi-d79e39148b5c9223f6a8f203a94c178a-ee358.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 528px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.87878787878788%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACS0lEQVQ4y5WU52oDQQyE9/0fyWBccMO99957703hU1Bi8i8HYnW70mhG2jt3vV5ls9nIer3W1Yz37XYrq9Xqx9jf7/e6b3F2ZvuOzWg0KtlsVqbTqUwmE13n87n0+32JxWISDoclEolIKBRSfzAY/MRho9FIvF6vxrjdbqeHhUJB6vW6VCoVabfbupLYaDSEGJ77/a72fr/l70M8scqQhNvtJufzWQ6HgxyPR7lcLvpOSwzo+XzK6/WS8XisANYCGAK2WCy+AZHH+imDIoDRF5P12V+LhQAFksmkro5DggGAFSxgS0WSAAD48XgoA4ovl0sF+pTOGfGOCQGKFIAwAglgnwJIN/lYr9dTg8DpdNIWNZvNX0CqzmYzNYDsKgCIkWjJALPCEJ99K9JqtcTRIwCRyCaT7na7ejgcDrUd9sAW6QAxJHzYAUg8ec6aTDB9BJBmWy9hwH1Mp9Pq079cLqcE8vm8+tzPTCajeXoPcZiQMYIx0pGGj9mUUUQOsciGKSyr1ep3D2EHAyoDADN8rkGn01Ewkjjj8nP/YAU4CmxQKFNAq8pk7XoQSBH2mb7tI5mkVCqlfSSHc0jQfwWEPiNHMmz57Jg2zAhiJRCfySOVGHpI38rlssqln/wPVDIOU4I2zDC+Y94BYnoUJYY24GPWglqtJsViUWP1Hno8Hv1T8GchqFQq6R8oGAxKIBDQfnLOu8/n0xXZfr9fc5gy77RKJScSCTUOSIzH48oSeUiDFTJhhTx82PDOOSssaZUDFYerYyt9++/DgLAviCI6DbXEXeEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;compare RSI&quot;
+        title=&quot;&quot;
+        src=&quot;/static/compare-rsi-d79e39148b5c9223f6a8f203a94c178a-ee358.png&quot;
+        srcset=&quot;/static/compare-rsi-d79e39148b5c9223f6a8f203a94c178a-6d88e.png 148w,
+/static/compare-rsi-d79e39148b5c9223f6a8f203a94c178a-bd048.png 295w,
+/static/compare-rsi-d79e39148b5c9223f6a8f203a94c178a-ee358.png 528w&quot;
+        sizes=&quot;(max-width: 528px) 100vw, 528px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interpreting RSI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RSI is plotted on a vertical scale of 0 to 100. Movements above 70 are considered overbought, while an oversold condition would be a move under 30. Because of shifting that takes place in bull and bear markets, the 80 level usually becomes the overbought level in bull markets and the 20 level the oversold level in bear markets.
+&quot;&quot;Failure swings”, as Wilder calls them, occur when the RSI is above 70 or under 30. A top failure swing occurs when a peak in the RSI (over 70) fails to exceed a previous peak in an uptrend, followed by a downside break of a previous trough. A bottom failure swing occurs when the RSI is in a downtrend(under 30), fails to set a ne low, and then proceeds to exceed a previous peak.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/failure-swing-7eab02ea183cfd6286b310eea347c872-2c19d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 523px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 158.3173996175908%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADlElEQVRIx5XW14olOwwF0Pr/P2rot450zjnnnHPysHTZRXNhHsag47IsK2zJ8unOz8/bxsZGW15ebvv7+0UHBwc9zc7OtsnJyTY+Pt5mZmba0dFRL2Pe3t5ug4ODbXp6ul1fX7fu5uammASNz8/P9vX1VeTbPqMXFxft6uqqPT09tbe3t/by8tLe39/bx8dH29zcLJnn5+fWXV5eliJCDrGC57D17e1tKc+wn/Hz81Mz2YeHh6JSyBMLXp6dnRUdHx9XWCcnJ+WVwaOVlZUyyMMoJH9/f/+fQq6i19fXOuwQwe/v7zIkDB7E862trVK6u7tbUFF0enraHh8f293dXesIE6SIguASSrgOUMoA7yihlDMiwyuFMGLFIgdlT8hmfN46AGcGkzzf5NbX1yvCUsgqpSzBIIKUUG6PN6LwHdwyyB0eHhbO9kuh0rAALq+EIDSYggQfXmZe4PE44TPmu1fIXd7xcmdnp4p8b2+v6ot3PEi5xBOewpeHqc9SyLvfdSYRrBJC8FWPDP5tkHGmFArBgpfJKhxZtIYno8IiIzTK4Yt8i8A+xV2YipgFG8ITKswI8zR3Fy0tLdXdXVhYqHs+MjJSPHIdgaGhoWKMjY0VbjmkgFdXV6ssrGG7uLhYfEmyh/AnJiZKplOcAwMDJcTS1NRUm5ubK8u6iy4zOjpaa7N9fGudaHh4uO9ChaG4ZVR4lMsywiMkdKSEVIHv1KZZmGkgMO+AL0RhSRD80qrgx7pQhCos4cGZDKXkRGQPr5MQGy49YdjAETECeLzUmTlZlnFDFVBWWfajHNITUyoK1mHC+Nkzg4YT9qLQne4VsqTyHaAolz9NEw9RxGMEUxA5Z05P7NIYWZaE3Iw00SQm74rweYOfOwzr3kPKhJawYWPDIAzb+fn5wjRdOj0wEagICqtjp9PCgdK0ewd5ak8y7KcCyMAZf21trV7NyJaH6SQYyRxDUR7glQjvwoebSsgb1IeMWKQkb4ubkx5n/v28kkm3hl8aRJ8UFimT5WBinUOwyxtDsYznIUv3CabloVDTgnjk0L8MHqsEhispKZG8gDzhNetmlPIywxEsvEeS4oqKqEL+LZS/HVkLBSkbPdGeUnK3lZPZXaaQM9Uc/NnRC7Um7Sg3wlpjyJ8ppGVRkL5oTq8UeueG6IME1ZROnEOUaqCsO+i2oPAZJG8WkdHl/f0/BTs4WsM4N+r3v4zc87zXfwApfF1qGlq7lQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;failure swing&quot;
+        title=&quot;&quot;
+        src=&quot;/static/failure-swing-7eab02ea183cfd6286b310eea347c872-2c19d.png&quot;
+        srcset=&quot;/static/failure-swing-7eab02ea183cfd6286b310eea347c872-a2a18.png 148w,
+/static/failure-swing-7eab02ea183cfd6286b310eea347c872-96408.png 295w,
+/static/failure-swing-7eab02ea183cfd6286b310eea347c872-2c19d.png 523w&quot;
+        sizes=&quot;(max-width: 523px) 100vw, 523px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/rsi-trendline-3feb9a171594e5814ce624b3d5773cfc-e4609.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 538px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 83.08550185873607%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACM0lEQVQ4y12Ux24CQQyG9/3PueUN4ACIAyckJJDoTVTRQu8k9A6OPkdGGyx5Z8dt/P/jXedyuchqtZKfnx9Zr9ey2WxU2X9/f6vP/O82U7OR7/AoFAqSTqdlsViog3U+n+vabDYllUpJsViURCIh3W5XfbPZTKbTqb53Oh2JRCJSr9fFoTodPR4PeT6f/xTBfr1eNabX66ntfr//iyOGRkajkTjA2O/3r2QLIgkJh8MSCAR0DYVCCs9iTdrttmQyGe1WIe92u5fTHYiv1WpJMplUWsbjsXx+fmonxNEMq9frVf9yufwrSDcWgJxOJ2k0GtqZdW9CEgWQYDAoHx8fUqlU1A6nzna7lXg8LqxAgmC/368ku6lAb7eb7geDgfh8Pun3+3pxyGQy+YNMEvg9Ho/CoyjFTexy3iUajSolhgg6KKqQz+eztkshjHRzOBy0w+PxqCOC0gFKjMVSjDgo0lumIAocVopxSewJZLaghLVarWoitKDYiIc/aHhxCFROY2jhxILL5bISzp5CwOIQlI6xMfjZbFa704IMLC8kMWMQPRwOdW8Dz0CTgJZKJcnn8zp75GGjqVdBN2S+aziCP0aJLwR+sds7yUDkcBt+eGbkXpCBaSe4v1FsUMHeuqR76GAy+MaBy5rL5RS+w+k4CeIHQCLkM/nAwm58ArdWqymvxFLE7PxctCBQYrGYOinw9fX1ulF4dBflEmzPO5fJnkIoaB14AJJNvFveh9r27r/Re9wva8vutgekfz8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;rsi trendline&quot;
+        title=&quot;&quot;
+        src=&quot;/static/rsi-trendline-3feb9a171594e5814ce624b3d5773cfc-e4609.png&quot;
+        srcset=&quot;/static/rsi-trendline-3feb9a171594e5814ce624b3d5773cfc-8da5a.png 148w,
+/static/rsi-trendline-3feb9a171594e5814ce624b3d5773cfc-ca340.png 295w,
+/static/rsi-trendline-3feb9a171594e5814ce624b3d5773cfc-e4609.png 538w&quot;
+        sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;USING THE 70 AND 30 LINES TO GENERATE SIGNALS&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/RSI-SIGNALS-89363eb26af67022605db58c1ce97478-2c19d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 523px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.40917782026769%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACFUlEQVQ4y3WU56oCQQyF5/2faEX0j+iq2EXF3vvae83lyyXgFe5A2CnJmZOTzLrNZiOTyURWq5XsdjvZbrd/bDabqQ2HQxmNRhIEgfryXa/X6sN8PB7L6XQS12q1JJVKSbvdVsf5fC7L5VIWi4U6FgoFtXQ6Lfl8Xve5ADDmxGSzWYlGo+rv2OCWWq0mvV5Put2uPJ9Peb/fav+Ner0u9/td55lMRuOOx6M4UAG4Xq/yeDzUDOz1emkAqcLycDhIJBKRWCwm1WpVs4EZzGENMQdtG59ABsYoFosSDocVFK0AulwuEgqF9AupZrMp+/1eHHoZ2Pe43W7SaDSUIQPRbZAVAAwAqYECoptpwSZaVCoVZcWXVD4HzL8vJ1W6gC5x3I6oGDegEw58YWEgzE1jCJhxhj9SUHkHAyiTOkKbkSqV73Q6Ui6XVTdAz+ez6oZRSPboFDJVQJqaTfShWsaSFuAMCaiqNTrAAHERKeKPz3Q6/a0yQVCnwbkJx1KppPoNBgMFJQsY9Pt91Rl92QeQOXv2ghzo9gJgiqbMYUKAaQmovSBSI5g4UrdXoy+FCTfj/K0PawxQ1shgZ+xZ+vwPiMecPXTSgx3gGGubkwVrUiP1RCKh75dvMplUphRQi0JFPc/TV4ADHY8urAnCTFNai4oDEo/Hxfd9BePnYm3naEgOLRAHzEABsHkul9Mz/PAHyABhz/gBhxKh32Zi7LAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;RSI SIGNALS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/RSI-SIGNALS-89363eb26af67022605db58c1ce97478-2c19d.png&quot;
+        srcset=&quot;/static/RSI-SIGNALS-89363eb26af67022605db58c1ce97478-a2a18.png 148w,
+/static/RSI-SIGNALS-89363eb26af67022605db58c1ce97478-96408.png 295w,
+/static/RSI-SIGNALS-89363eb26af67022605db58c1ce97478-2c19d.png 523w&quot;
+        sizes=&quot;(max-width: 523px) 100vw, 523px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;STOCHASTICS(K%D)&lt;/h2&gt;
+&lt;p&gt;Two lines are used in Stockastic Process—the %K line and the %D line. The %D line is the more important and it the one that provides the major signals.&lt;/p&gt;
+&lt;p&gt;%K = 100[(C-L14)/(H14-L14)]&lt;/p&gt;
+&lt;p&gt;where C is the latest close, L14 is the lowest low for the last 14 periods, and H14 is the highest high for the same 14 periods(14 periods can refer to days, weeks, or months).&lt;/p&gt;
+&lt;p&gt;The second line(%D) is a 3 period moving average of the %k line. The upper and lower extremes are the 80 and 20 values.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/k-d-2684ad70dfdeb1dde76928c59fa9bd78-4496d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 517px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 159.18762088974856%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADm0lEQVRIx43V12olWwwEUP//zxi/+sngnHPOOecc92XJ1MG+DMM06HT3bqkklcLpenx8bMfHx213d7edn5+3q6urdnNzU/fT09O2t7fXDg8P29HRUd339/fb5eVlfXe/uLgoPeK96/7+vq2trbWBgYECZUiAb29vt6GhoTYyMlIyPj7eBgcHC9R3ekBmZmZab29vBdZ1d3fXXl5e2vv7e1tZWWmbm5slb29v7W8Xm5OTk4pUlEtLS+36+vob8OHhoX1+fpZ8fX39EtfP56enp3Z2dlbRsBPhzs5OAaKqAPH40zDGrnxDTVIFynmu29vboqMijBf3gLoY8AhANFLj/OPjo6MXUIBTU1PfEXrxAP35+bkUU2UAjEQUoD9lIpj19fUCLkAHiiAa5Xf2+vr6K2KACucesEQomPn5+e+UceMhxVEx7SPCg4OD4g2PJPSgQE/6zrF3hemknAi1AoUUgCMAdDjUJrKgTy+DkGGgU4DaAEgunAHTuNIClEn4f/HoipZ+cQg1Y8ZLxki0igRkeXm5poYh8sMnCYcdQB5FgA8TokE9ixoAfnxHQTidm5urvpudna2xGx4erimrWcbD4uLiLzAEe2esQERkFoVvKkoAs2VHX2ZdlHt6emro+/v72/T0dClmITgfHR2t+8TERC2Lvr6+OqM/NjZW557RUkXxYOPwsrGxUR5XV1freWtrq+4ixKVn+oTewsJCnUkZRcUhntIm2XPhMPswPBPPbLLqiDM9XIC8Cdk88ioS4OiQmpSkphCeOWNMdIni0CtAB3pJX/EECKD0/+XiVJVl0tmHmjpzqffwgUN99nOWc2Vv4p2gC9c1KX6AKPnk5GQpGEPFIrnSVoCJqBQkO1MAnW2TieDF3WVWcaPPcJee9C4DfCV6GPqzIlQU+ePvT4sz7ZCUM2I/59nIavSKULjQeWSkQESEOATuPI6BMxStMzOv6p0/KQWRJoUsV3zoN+kB4MB3UXCuyU2RyLScxtaHsDrbRqTmGlfZh7xnvTMAkD8sjhSFnbtG7wCScJGi5N9O6sClLrXoO4+dYqKjOIQKSFrZzDjDhygyx6LHc/6MFCQcK6gIOwuWIoP8X+APN7gEqje9SztLwTThODtRn9Y+pKQ1eGHoPTvQWfovC1h6gPAGFHi2jrS7KHZ3d9eU2HnA7UOTQHjPgnAnlohvbLxbHJZLLQf8iQxXIskexBXPwHkXGWfR4yB7kY6Wwut/9SBN9cSVqN0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;k &amp; d&quot;
+        title=&quot;&quot;
+        src=&quot;/static/k-d-2684ad70dfdeb1dde76928c59fa9bd78-4496d.png&quot;
+        srcset=&quot;/static/k-d-2684ad70dfdeb1dde76928c59fa9bd78-1ac1f.png 148w,
+/static/k-d-2684ad70dfdeb1dde76928c59fa9bd78-06846.png 295w,
+/static/k-d-2684ad70dfdeb1dde76928c59fa9bd78-4496d.png 517w&quot;
+        sizes=&quot;(max-width: 517px) 100vw, 517px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/rsi-kd-34f283b827e1c888aa094d122a0494d8-fe6c6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 545px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.46788990825688%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACFUlEQVQ4y32Ux44CQQxE5/8/CXECJBCIJBA555xzqtXzyiP2si1Z08Eul6vbE1wuF00mE83ncx2PR+12O202G63Xa41GI3W7XfX7ffu2222b488ZNh6PVa1WzZ7PpwKCM5mM6vW6hsOher2e2WKxMIBisahWq6VGo6Fms2kAt9tN1+tVkCE+n88rlUrp/X4rgNH9ftfpdFKlUtF0OtVsNtPhcNB/g2CvhuoGg4HhGCAAZGTj8Xj8CTyfzwbOGQN22+3WJGHOALBcLv8Ccoh2Pkiw3+8tALaAwZ41bDgj+ev1CmPYRx4SGCBBMFutVpatVqsZGI4Ec4ZenPsaNl4V2hNjgDDCkcwITgKA0IhASsYI5BbxXy6Xxpjb5qJcd5KGgF4WBzjgTGbWvgd7fEiKkQi53D8E9BtFF9jBFMY4wIxS/HL8yfCFBPvEAMg8IBAGsCkUCmYIzJc92PsrIAHlEgxDngqGH0YCY0gpoOP8/TxwIhAfwD6fT/gK6Bj20JWHT1LKN0CQGbCAkWf3WwWg0+lYAjR0GTAujpL9Yq1kFxztCKRjmMOYfvWyYMKaJ0K7IQstVyqVrHUBDqBNYxNEAPrAgpLoab6ckZQ1CTGeC4mZA0ivc6kB9CORiBKJhLLZrBnZY7GYWTqdVjwet/1kMqloNGprmGHE5XI5A2cEiEq5/jh9ztfnlI9G/iOgbH/c7suaZvgBCYusmAxGrOcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;RSI KD&quot;
+        title=&quot;&quot;
+        src=&quot;/static/rsi-kd-34f283b827e1c888aa094d122a0494d8-fe6c6.png&quot;
+        srcset=&quot;/static/rsi-kd-34f283b827e1c888aa094d122a0494d8-34b8e.png 148w,
+/static/rsi-kd-34f283b827e1c888aa094d122a0494d8-caddc.png 295w,
+/static/rsi-kd-34f283b827e1c888aa094d122a0494d8-fe6c6.png 545w&quot;
+        sizes=&quot;(max-width: 545px) 100vw, 545px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;LARRY WILLIAMS %R&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Choice of Time Period Tied to Cycles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The popularity of the 10 day momentum and the 14 day RSI lengths are based largely on the 28 day trading cycle and measure 1/2 of the value of that dominant trading cycle. We’ll come back to the importance of cycles in Chapter 14.&lt;/p&gt;
+&lt;h2&gt;THE IMPORTANCE OF TREND&lt;/h2&gt;
+&lt;p&gt;Most oscillator buy signals work best in uptrends and oscillator sell signals are most profitable in downtrend. The place to start your market analysis is always by determining the general trend of the market. If the trend is up, then a buying strategy is called for. Oscillators can then be used to help time market entry. Buy when the market is oversold in an uptrend. Sell short when the market is overbought in a downtrend. Or, buy when the momentum oscillator crosses back above the zero line when the major trend is bullish and sell a crossing under the zero line in a bear market.
+The danger in placing too much importance on oscillators by themselves is the temptation to use divergence as an excuse to initiate trades contrary to the general trend. The oscillator, as useful as it is, is just one tool among many others and must always be used as an aid, not a substitute, for basic trend analysis.&lt;/p&gt;
+&lt;h2&gt;WHEN OSCILLATORS ARE MOST USEFUL&lt;/h2&gt;
+&lt;p&gt;During choppy market periods, as prices move sideways for several weeks or months, oscillators track the price movement very closely. The peaks and troughs on the price chart coincide almost exactly with peaks and troughs on the oscillator. In the early stages of a new trend, following an important breakout, oscillators often reach extremes very quickly and stay there for a while. Later on, as the trend begins to mature, the oscillators should be given greater weight.  To summarize, give less attention to the oscillator in the early states of an important move, but pay close attention to its signals as the move reaches maturity.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
