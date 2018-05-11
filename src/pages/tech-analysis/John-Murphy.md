@@ -639,3 +639,64 @@ Many technicians use the crossing of the zero line to generate buy and sell sign
 ![momentum macd](momentum-macd.png)
 
 **The Need for an Upper and Lower Boundary**
+![upper lower](momentum-upper-lower.png)
+
+**MEASURE RATE OF CHANGE(ROC)**
+
+Rate of Change = 100(V/V^)
+where V is the latest close and V^ is the closing price x days ago.
+
+**CONSTRUCTING AN OSILLATOR USING TWO MOVING AVERAGES**
+
+This can be done by plotting the difference between the two averages as a histogram. These histogram bars appear as a plus or minus value around a centered zero line. This type of oscillator has three uses:
+1. To help spot divergences.
+2. To help identify short term variations from the long term trend, when the shorter average moves too far above or below the longer average.
+3. To pinpoint the crossings of the two moving averages, which occur when the oscillator crosses the zero line.
+![moving average oscillator](moving-average-oscillator.png)
+
+**COMMODITY CHANNEL INDEX**
+
+**THE RELATIVE STRENGTH INDEX(RSI)**
+
+Wilder's Relative Strength Index doesn't really measure the relative strength between different entities and, it that sense, the name is somewhat misleading. The RSI, however, does solve the problem of erratic movement and the need for a constant upper and lower boundary. The actual formula is calculated as follows:
+
+RSI = 100-100/1+RS
+RS = Average of x days'up close/ Avrage of x days' down close
+
+Wilder originally employed a 14 day period. The shorter the time period, the more sensitive the oscillator becomes and the wider its amplitude. The time period is lengthened to make the oscillator smoother and narrower in amplitude.
+![RSI](RSI.png)
+![compare RSI](compare-rsi.png)
+
+**Interpreting RSI**
+
+RSI is plotted on a vertical scale of 0 to 100. Movements above 70 are considered overbought, while an oversold condition would be a move under 30. Because of shifting that takes place in bull and bear markets, the 80 level usually becomes the overbought level in bull markets and the 20 level the oversold level in bear markets.
+""Failure swings", as Wilder calls them, occur when the RSI is above 70 or under 30. A top failure swing occurs when a peak in the RSI (over 70) fails to exceed a previous peak in an uptrend, followed by a downside break of a previous trough. A bottom failure swing occurs when the RSI is in a downtrend(under 30), fails to set a ne low, and then proceeds to exceed a previous peak.
+![failure swing](failure-swing.png)
+![rsi trendline](rsi-trendline.png)
+
+##USING THE 70 AND 30 LINES TO GENERATE SIGNALS
+![RSI SIGNALS](RSI-SIGNALS.png)
+
+##STOCHASTICS(K%D)
+Two lines are used in Stockastic Process--the %K line and the %D line. The %D line is the more important and it the one that provides the major signals.
+
+%K = 100[(C-L14)/(H14-L14)]
+
+where C is the latest close, L14 is the lowest low for the last 14 periods, and H14 is the highest high for the same 14 periods(14 periods can refer to days, weeks, or months).
+
+The second line(%D) is a 3 period moving average of the %k line. The upper and lower extremes are the 80 and 20 values.
+![k & d](k-d.png)
+![RSI KD](rsi-kd.png)
+
+##LARRY WILLIAMS %R
+
+**Choice of Time Period Tied to Cycles**
+
+The popularity of the 10 day momentum and the 14 day RSI lengths are based largely on the 28 day trading cycle and measure 1/2 of the value of that dominant trading cycle. We'll come back to the importance of cycles in Chapter 14.
+
+##THE IMPORTANCE OF TREND
+Most oscillator buy signals work best in uptrends and oscillator sell signals are most profitable in downtrend. The place to start your market analysis is always by determining the general trend of the market. If the trend is up, then a buying strategy is called for. Oscillators can then be used to help time market entry. Buy when the market is oversold in an uptrend. Sell short when the market is overbought in a downtrend. Or, buy when the momentum oscillator crosses back above the zero line when the major trend is bullish and sell a crossing under the zero line in a bear market.
+The danger in placing too much importance on oscillators by themselves is the temptation to use divergence as an excuse to initiate trades contrary to the general trend. The oscillator, as useful as it is, is just one tool among many others and must always be used as an aid, not a substitute, for basic trend analysis.
+
+##WHEN OSCILLATORS ARE MOST USEFUL
+During choppy market periods, as prices move sideways for several weeks or months, oscillators track the price movement very closely. The peaks and troughs on the price chart coincide almost exactly with peaks and troughs on the oscillator. In the early stages of a new trend, following an important breakout, oscillators often reach extremes very quickly and stay there for a while. Later on, as the trend begins to mature, the oscillators should be given greater weight.  To summarize, give less attention to the oscillator in the early states of an important move, but pay close attention to its signals as the move reaches maturity.
