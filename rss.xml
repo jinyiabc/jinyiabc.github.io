@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 May 2018 07:47:52 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 May 2018 09:34:34 GMT</lastBuildDate><item><title><![CDATA[Technical Analysis of Financial Markets-- John Murphy]]></title><description><![CDATA[Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends…]]></description><link>https://jinyiabc.github.io//tech-analysis/John-Murphy/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/John-Murphy/</guid><pubDate>Tue, 01 May 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Technical Analysis is the study of market action, primarily through the use of charts, for the
 purpose of forecasting future price trends.&lt;/p&gt;
 &lt;h2&gt;Chapter 1. Philosophy of Technical Analysis&lt;/h2&gt;
@@ -2239,7 +2239,156 @@ RS = Average of x days’up close/ Avrage of x days’ down close&lt;/p&gt;
 &lt;p&gt;Most oscillator buy signals work best in uptrends and oscillator sell signals are most profitable in downtrend. The place to start your market analysis is always by determining the general trend of the market. If the trend is up, then a buying strategy is called for. Oscillators can then be used to help time market entry. Buy when the market is oversold in an uptrend. Sell short when the market is overbought in a downtrend. Or, buy when the momentum oscillator crosses back above the zero line when the major trend is bullish and sell a crossing under the zero line in a bear market.
 The danger in placing too much importance on oscillators by themselves is the temptation to use divergence as an excuse to initiate trades contrary to the general trend. The oscillator, as useful as it is, is just one tool among many others and must always be used as an aid, not a substitute, for basic trend analysis.&lt;/p&gt;
 &lt;h2&gt;WHEN OSCILLATORS ARE MOST USEFUL&lt;/h2&gt;
-&lt;p&gt;During choppy market periods, as prices move sideways for several weeks or months, oscillators track the price movement very closely. The peaks and troughs on the price chart coincide almost exactly with peaks and troughs on the oscillator. In the early stages of a new trend, following an important breakout, oscillators often reach extremes very quickly and stay there for a while. Later on, as the trend begins to mature, the oscillators should be given greater weight.  To summarize, give less attention to the oscillator in the early states of an important move, but pay close attention to its signals as the move reaches maturity.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
+&lt;p&gt;During choppy market periods, as prices move sideways for several weeks or months, oscillators track the price movement very closely. The peaks and troughs on the price chart coincide almost exactly with peaks and troughs on the oscillator. In the early stages of a new trend, following an important breakout, oscillators often reach extremes very quickly and stay there for a while. Later on, as the trend begins to mature, the oscillators should be given greater weight.  To summarize, give less attention to the oscillator in the early states of an important move, but pay close attention to its signals as the move reaches maturity.&lt;/p&gt;
+&lt;h2&gt;MOVING AVERAGE CONVERGENCE/DIVERGENCE(MACD)&lt;/h2&gt;
+&lt;p&gt;The faster line is the difference between two exponentially smoothed moving averages of closing prices(usually 12 and 26 days or weeks). The slower line is usually a 9 period exponentially smoothed average of the MACD line.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/MACD-4b7301fd89a6d2af72633d5d61bb0c31-0c224.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 565px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 78.93805309734513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACB0lEQVQ4y4WU167DMAxD8/+/1QItuvfee++9eHEEKGifroDAjiNTJGUneL/fGo1G6vf7WiwWms/nmk6nmkwmajQaKhaLqlQqKpfLymQyNpI/GAzCfYlEQtlsVo/HQwGAhUJB1WpVh8NB5/NZl8tF9/vdCnS7XbXbbQ2HQ/V6PVu73W5hzul0sqIA8x6Autvt9B3O8L94Pp+WB1v2hICr1coSYAeT4/FoSVT3+Hw+er1eNqKKmM1mpmq73Vp+CIhvfIA2mwjWx+OxNpuNVe90OibVgzlABDaEgACQzGZn4mxYBwzzUUFhQJDJ4wX49sPQJX8HsjCekRyCoqigyDdbehA2BWOhTOX1em0SmS+XS2PBGg/s8BZf9/u9jYCyRh4qIGAM2ew+tFotO3+lUskkN5tNq87cm+TNoYkUozmA8m4MkUBTqHy9Xk0ilb3j3wGQHxnUECiCoQGymSokeIedBQXcT3xCCUERwPz4wByFP4CMmEoSH5GNb+4POaiANc1BCUVYI59bBAGTzEauGF4BgG/YwGbmeIuHAJPHvc3lcorFYjbnfpMH0wDK3NVUKmUjPwDAYMgd58eQz+ftvvKNHwHvgDFPJpOKx+PGmDBA0KPRqNLptCKRiAExUp012Dggc9YpSLFaraZ6vR5ejMB/BiTxgY0kk0j3/GC7x5w9HqzyRpLDwwn4A0bOsyWV3ACbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;MACD&quot;
+        title=&quot;&quot;
+        src=&quot;/static/MACD-4b7301fd89a6d2af72633d5d61bb0c31-0c224.png&quot;
+        srcset=&quot;/static/MACD-4b7301fd89a6d2af72633d5d61bb0c31-3e146.png 148w,
+/static/MACD-4b7301fd89a6d2af72633d5d61bb0c31-aecb5.png 295w,
+/static/MACD-4b7301fd89a6d2af72633d5d61bb0c31-0c224.png 565w&quot;
+        sizes=&quot;(max-width: 565px) 100vw, 565px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/MACD2-e179e794d76d5569da7565b845d00c09-b81dd.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 531px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 89.83050847457628%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACPElEQVQ4y5WUV4tCQQyF7///O74pKiqoYMeOvffea5YvkOGysA8biDNzZ+bk5CSjd71epd/vS6/Xk+VyKfP5XBaLhc7te7fbdT4cDmU2m+m+jXxjb7fbibfZbCSdTku1WpX9fq/OxuFwkFarJblcTrLZrOTzefVSqaT7OHdPp5MUCgWJRCJKxgPgfr8L9vl85Pv9uvG3rddraTQaGowzGHeLxaLU63UFV0AmGCAG5J93Oh3JZDIynU7leDxKMplUtuPxWGVBIkA1ZX7O57NjYQzNAMEfj4eub7ebMgSY9BlxZIGcY4jAaGLGJXRFF7O/pNhut6qjAsKQCkGb1EiBAKPRSOgAv/llsLUFp3gOEHaAvF4vbROqznfWgMKcNXNSZ44MAD2fT82i2WwqUw8gxKWX/NHRikscgjmXmMOckfOAGwnWdIFqyITLVm0MFqzZw2hgwCwbf2AyQDJlyEXo8rHdbutIKjAixcvlol2A03NcwlerlQYbDAbudXFXGVpLvN9vp5e1kskAOIE4AxgZIRUBqb5jCKDpQiqwpKdIEecgADzDSqWic4pGm9DsZMcrYY+zHkyINJlMXBOjk98BsbRYExSQWq0m5XJZg/FNi0IqVJGDVIqKWaNbEICsIMwBJ30yQB50JFNMixIMBtVTqZQkEglNJRqNamr8i8TjcR0DgYDuczYcDkssFtNzoVBI37ICwhD6fOCfBG14cjhp2F8ajNCZEZYQsWozcoYCelSNXqJagPudV/AfA/AHjP5DmkTjcMIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;MACD2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/MACD2-e179e794d76d5569da7565b845d00c09-b81dd.png&quot;
+        srcset=&quot;/static/MACD2-e179e794d76d5569da7565b845d00c09-f5dd6.png 148w,
+/static/MACD2-e179e794d76d5569da7565b845d00c09-b4361.png 295w,
+/static/MACD2-e179e794d76d5569da7565b845d00c09-b81dd.png 531w&quot;
+        sizes=&quot;(max-width: 531px) 100vw, 531px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;MACD HISTOGRAM&lt;/h2&gt;
+&lt;p&gt;The real value of the histogram is spotting when the spread between the two lines is widening or narrowing.
+Turns in histogram back toward the zero line always precede the actual crossover signals.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/MCAD-histogram-ad0f8907eff5d90cbdbf17f99a121013-b366f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 514px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 89.10505836575875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACQUlEQVQ4y52U56oCQQyF5/1faVFU7IoFwd5de+/dXL5AZLlw/9xA3HE2OTk5mVk3m81kNBrJYrGQ5XIp0+lUnf1OpyOtVku93W5Lo9GQZrMpw+FQxuOxOrHkV6tVjXGVSkVisZj0+305n89yv9/ler3K5XKRbrcrtVpNnWCSAD0cDhpzu900zvd9yefzUq/Xxc3nczEDDJav10v9L3u/3+qPx0PZUhhQunL8YLSMbzYbbeW3fT6fLxAG2GAwUIasaZs8x4IX6/Vak3DWq9VKg7fbrVaGfdCIsT2KwBAsBaSCscB2u52KT0W05ckecUhEMboJts9wAHUsgmAYosMO0c0mk4kCAxjU3YwuVEOCns/nd2K0ARtAWTN5Jno6nbRN9vf7/Tf+eDzqHmCQc1TmSNACLAmkAO3xNF3NbB8HmPbBQDoGqi2zyXGhGkOAkRnMYGmszACkk2DL5OpQoEwSCTgvjCXDKRQKUiqVVHQKE5/L5cTzPOn1egpGhxTQlmEEOwMsl8sSDof10AJAUa6hnTWOGQAAk2cxrLVl08gOLW0mk0nVBjkYDsnEwp6ixNIFN4r3dikcC4IswZJgwpXiP+yIgxkfCv6nUimJRqNSLBYlFApJJpPRe+7QhZf8QRfaBcw+BJwALj1a2leH/+hKQYtjT4dCVcQlIJFIqPiA0jLVKYLDgC9KOp3WJxpDJB6Pax7xelOYUCQS0SAAstms8EljejBAbIbDk2vIk0SI2K1BZztCjuNi4iMqBRD7P8agfgCDwERFbhiw2QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;MCAD histogram&quot;
+        title=&quot;&quot;
+        src=&quot;/static/MCAD-histogram-ad0f8907eff5d90cbdbf17f99a121013-b366f.png&quot;
+        srcset=&quot;/static/MCAD-histogram-ad0f8907eff5d90cbdbf17f99a121013-2832b.png 148w,
+/static/MCAD-histogram-ad0f8907eff5d90cbdbf17f99a121013-6a05e.png 295w,
+/static/MCAD-histogram-ad0f8907eff5d90cbdbf17f99a121013-b366f.png 514w&quot;
+        sizes=&quot;(max-width: 514px) 100vw, 514px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;COMBINE WEEKLY AND DAILIES&lt;/h2&gt;
+&lt;p&gt;As with all technical indicators, signals on weekly charts are always more important than those on daily charts. The best way to combine them is to use weekly signals to determine market direction and the daily signals to fine-tune entry and exit points. A daily signal is followed only when it agrees with the weekly signal. Two crossover system in which this principle is especially true are MACD and Stochastics.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/week-histogram-941efc27552b28f4b26dc6b4732a247c-ee358.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 528px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.68939393939394%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACIklEQVQ4y5WUxQ4jQQxE5/9/K4miMDMzM6NXz6uK5rCXbcnqGbddLkN30Ol0bDKZ2Hq9dlksFrZcLl3XarWs2+1ar9fzHdvZbGar1crt+GbnrN/v2/v9tiAajbpj2OhwOLhzoVCwfD5v5XLZqtWq/xPseDzabrfzfTweWzwet1KpZK/XywJQt9utiSmA3+/Xwuv5fLqzls7v97sHr1QqNhqN/gKeTif71wIEY5jcbje7Xq/ObrPZ2OVy+YGxIPMDPJ/Prvx8Pr/IHACE4+Px+AXZ7/cOBPB8Pnc71mAwcHFAnJQGQgAiy1hnBEQUnFKJQL1e98Z4U+isFmBiHA4Srlt4SVer1XwSHFBdgxXpYQQ7BAMxEyudUWPZ0Ey6jS6gyM1m00cHoUkAq+gEI4vpdOo15IwGUSqahWg6HJADDAACIFxLncEONoCHm6S01SRIBAx0eKHEkT3cGDkTWI1khzUXApYECxhqmGnOiKQUGQWlQ2BSgi0B8UMHID6AOqDuLnXksN1uWy6X86uEpNNpP4cxgRhgBpnryDfzSkN+NeRSw0ZM2PnnGweMGQl0SKPRsEQiYZlMxorFou/cd/QOGIvF/OKnUimX4XDojwDGehBgyn1F+IZdMpl0GwQw9SIgGmkBhjMgROUFITL6SCRi2WzW/7EHDD2lwZYXi9QdEDCi6JnCGEM5KVUapNJQBuqq+uthcEAGk+6wa+4QDff/LMbqD/qPSrrreIUiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;week histogram&quot;
+        title=&quot;&quot;
+        src=&quot;/static/week-histogram-941efc27552b28f4b26dc6b4732a247c-ee358.png&quot;
+        srcset=&quot;/static/week-histogram-941efc27552b28f4b26dc6b4732a247c-6d88e.png 148w,
+/static/week-histogram-941efc27552b28f4b26dc6b4732a247c-bd048.png 295w,
+/static/week-histogram-941efc27552b28f4b26dc6b4732a247c-ee358.png 528w&quot;
+        sizes=&quot;(max-width: 528px) 100vw, 528px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;THE PRINCIPLE OF CONTRARY OPINION IN FUTURES&lt;/h2&gt;
+&lt;p&gt;Contrary Opinion adds the important third dimension to market analysis—the psychological—by determining the degree of bullishness or bearishness among participants in the various financial markets.
+The principle of Contrary Opinion holds that when the vast majority of people agree on anything, they are generally wrong. A true contrarian, therefore, will first try to determine what the majority are doing and then will act in the opposite direction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interpreting Bullish Consensus Numbers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most traders seem to employ a fairly simple method of analyzing these weekly numbers. If the numbers are above 75%, the market is considered to be overbought and means that a top may be near. A reading below 25% is interpreted to warn of an oversold condition and the increased likelihood that a market bottom is near.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contrary Opinion Measures Remaining Buying or Selling Power&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If 80-90% of market traders are bullish on a market, it is assumed that they have already taken their market positions. Who is left to buy and push the market higher? This then is one of the keys to understanding Contrary Opinion. &lt;strong&gt;&lt;em&gt;If the overwhelming sentiment of market traders is on one side of the market, there simply isn’t enough buying or selling pressure left to continue the present trend.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contrary Opinion Measures Strong Versus Weak Hands&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A second feature of this philosophy is its ability to compare strong versus weak hands. Future trading is a zero sum game. For every long there is also a short. If 80% of the traders are on the long side of a market, then the remaining  20% (who are holding short position) must be well financed enough to absorb the longs held by the other 80%. &lt;/p&gt;
+&lt;p&gt;This means further that the shorts must be well capitalized and are considered to be strong hands. The 80%, who are holding much smaller positions per trader, are considered to be weaker hands who will be forced to liquidate those longs on any sudden turn in prices.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技术分析-学习笔记]]></title><description><![CDATA[张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。” 基础均线 背离： 排列： 开口：
  Bollinger BandWidth  is an…]]></description><link>https://jinyiabc.github.io//tech-analysis/</link><guid isPermaLink="false">https://jinyiabc.github.io//tech-analysis/</guid><pubDate>Sun, 29 Apr 2018 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;张清华：“技术分析不是不是数学也不是统计学，而是一种投资艺术、修养，及群众投资心理学，唯有透析技术指标，
 洞悉投资市场，面对自己的贪与婪，正确掌握市场的多与空，它必定能为你赚进钞票来。”&lt;/p&gt;
