@@ -700,3 +700,34 @@ The danger in placing too much importance on oscillators by themselves is the te
 
 ##WHEN OSCILLATORS ARE MOST USEFUL
 During choppy market periods, as prices move sideways for several weeks or months, oscillators track the price movement very closely. The peaks and troughs on the price chart coincide almost exactly with peaks and troughs on the oscillator. In the early stages of a new trend, following an important breakout, oscillators often reach extremes very quickly and stay there for a while. Later on, as the trend begins to mature, the oscillators should be given greater weight.  To summarize, give less attention to the oscillator in the early states of an important move, but pay close attention to its signals as the move reaches maturity.
+
+##MOVING AVERAGE CONVERGENCE/DIVERGENCE(MACD)
+The faster line is the difference between two exponentially smoothed moving averages of closing prices(usually 12 and 26 days or weeks). The slower line is usually a 9 period exponentially smoothed average of the MACD line.
+![MACD](MACD.png)
+![MACD2](MACD2.png)
+
+##MACD HISTOGRAM
+The real value of the histogram is spotting when the spread between the two lines is widening or narrowing.
+Turns in histogram back toward the zero line always precede the actual crossover signals.
+![MCAD histogram](MCAD-histogram.png)
+
+##COMBINE WEEKLY AND DAILIES
+As with all technical indicators, signals on weekly charts are always more important than those on daily charts. The best way to combine them is to use weekly signals to determine market direction and the daily signals to fine-tune entry and exit points. A daily signal is followed only when it agrees with the weekly signal. Two crossover system in which this principle is especially true are MACD and Stochastics.
+![week histogram](week-histogram.png)
+##THE PRINCIPLE OF CONTRARY OPINION IN FUTURES
+Contrary Opinion adds the important third dimension to market analysis--the psychological--by determining the degree of bullishness or bearishness among participants in the various financial markets.
+The principle of Contrary Opinion holds that when the vast majority of people agree on anything, they are generally wrong. A true contrarian, therefore, will first try to determine what the majority are doing and then will act in the opposite direction.
+
+**Interpreting Bullish Consensus Numbers**
+
+Most traders seem to employ a fairly simple method of analyzing these weekly numbers. If the numbers are above 75%, the market is considered to be overbought and means that a top may be near. A reading below 25% is interpreted to warn of an oversold condition and the increased likelihood that a market bottom is near.
+
+**Contrary Opinion Measures Remaining Buying or Selling Power**
+
+If 80-90% of market traders are bullish on a market, it is assumed that they have already taken their market positions. Who is left to buy and push the market higher? This then is one of the keys to understanding Contrary Opinion. ***If the overwhelming sentiment of market traders is on one side of the market, there simply isn't enough buying or selling pressure left to continue the present trend.***
+
+**Contrary Opinion Measures Strong Versus Weak Hands**
+
+A second feature of this philosophy is its ability to compare strong versus weak hands. Future trading is a zero sum game. For every long there is also a short. If 80% of the traders are on the long side of a market, then the remaining  20% (who are holding short position) must be well financed enough to absorb the longs held by the other 80%. 
+
+This means further that the shorts must be well capitalized and are considered to be strong hands. The 80%, who are holding much smaller positions per trader, are considered to be weaker hands who will be forced to liquidate those longs on any sudden turn in prices.
