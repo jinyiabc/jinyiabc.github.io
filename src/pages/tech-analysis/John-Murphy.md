@@ -745,3 +745,7 @@ Each weekend Barron's includes in its Market Laboratory section a set of numbers
 ##INVESTOR INTELLIGENCE NUMBERS
 
 ##Chapter 11. Point and Figure Charting
+##Chapter 13. Elliott Wave Theory
+**BASIC TENETS OF THE ELLIOTT WAVE PRINCIPLE**
+
+There are three important aspects of wave theory--pattern, ratio and time--in that order of importance. Pattern refers to the wave patterns or formation that comprise the most important element of the theory. Ratio analysis is useful in determining retracement points and price objectives by measuring the relationships between the different waves. Finally, time relationship also exists and can be used to confirm the wave patterns and ratios, but are considered by some Elliotticians to be less reliable in market forecasting.
