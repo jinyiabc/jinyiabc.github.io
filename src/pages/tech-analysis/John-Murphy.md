@@ -734,7 +734,7 @@ This means further that the shorts must be well capitalized and are considered t
 
 **Watch the Market's Reaction to Fundamental News**
 
-Watch the market's reaction to fundamental news very closely. The failure of prices to react to bullish news in an overbought area is a clear warning that a trun may be near. The first adverse news is usually enough to quickly push prices in the other direction. Correspondingly, the failure of prices in an oversold area (under 25%) to react to bearish news can be taken as  a warning that all the bad news ha been fully discounted in the current low price.
+Watch the market's reaction to fundamental news very closely. The failure of prices to react to bullish news in an overbought area is a clear warning that a turn may be near. The first adverse news is usually enough to quickly push prices in the other direction. Correspondingly, the failure of prices in an oversold area (under 25%) to react to bearish news can be taken as  a warning that all the bad news ha been fully discounted in the current low price.
 
 **Combine Contrarian Opinion with Other Technical Tools**
 
@@ -749,3 +749,8 @@ Each weekend Barron's includes in its Market Laboratory section a set of numbers
 **BASIC TENETS OF THE ELLIOTT WAVE PRINCIPLE**
 
 There are three important aspects of wave theory--pattern, ratio and time--in that order of importance. Pattern refers to the wave patterns or formation that comprise the most important element of the theory. Ratio analysis is useful in determining retracement points and price objectives by measuring the relationships between the different waves. Finally, time relationship also exists and can be used to confirm the wave patterns and ratios, but are considered by some Elliotticians to be less reliable in market forecasting.
+
+##Chapter 14. Time Cycles
+##Chapter 15. Computers and Trading Systems
+As useful as it is, the computer is only a tool. It can make a good technical analyst even better. It won't, however, turn a poor technician into a good one.
+##Chapter 16. Money Management and Trading Tactics
