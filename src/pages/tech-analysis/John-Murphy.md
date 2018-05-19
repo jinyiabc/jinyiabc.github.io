@@ -754,4 +754,5 @@ There are three important aspects of wave theory--pattern, ratio and time--in th
 ##Chapter 15. Computers and Trading Systems
 As useful as it is, the computer is only a tool. It can make a good technical analyst even better. It won't, however, turn a poor technician into a good one.
 ##Chapter 16. Money Management and Trading Tactics
-##Chapter 17. The Link Between Stocks and Futures: Inter-market Analysis 
+##Chapter 17. The Link Between Stocks and Futures: Inter-market Analysis
+##Chapter 18. Stock Market Indicators
