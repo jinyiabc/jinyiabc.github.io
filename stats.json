@@ -29,8 +29,8 @@
       "component---src-layouts-index-js-9a27956de95e82d1ae0b.js.map"
     ],
     "path---index": [
-      "path---index-78f34d532aabb96e2938.js",
-      "path---index-78f34d532aabb96e2938.js.map"
+      "path---index-1bb2bdf3c4640bd03b84.js",
+      "path---index-1bb2bdf3c4640bd03b84.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -45,6 +45,10 @@
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---kim-trump": [
+      "path---kim-trump-58625e882337b644a7d4.js",
+      "path---kim-trump-58625e882337b644a7d4.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -63,9 +67,9 @@
       "path---pdf-test-pdf-test-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2603b60ba683836931ea.js",
+      "app-6b447fc26843c15e282d.js",
       "build-js-styles.css",
-      "app-2603b60ba683836931ea.js.map",
+      "app-6b447fc26843c15e282d.js.map",
       "build-js-styles.css.map"
     ],
     "path---new-blog": [
@@ -81,8 +85,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tech-analysis-john-murphy": [
-      "path---tech-analysis-john-murphy-979832df875ebda272a8.js",
-      "path---tech-analysis-john-murphy-979832df875ebda272a8.js.map"
+      "path---tech-analysis-john-murphy-33316e417987c3c6447a.js",
+      "path---tech-analysis-john-murphy-33316e417987c3c6447a.js.map"
     ]
   }
 }
