@@ -1,0 +1,2 @@
+webpackJsonp([77772360860918],{580:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Alex's Blog",author:"Alex J.Y."}},markdownRemark:{id:"/home/travis/build/jinyiabc/jinyiabc.github.io/src/pages/tex-holdem/index.md absPath of file >>> MarkdownRemark",html:"<p>Hello World</p>",frontmatter:{title:"Hello New Blog",date:"August 25, 2018"}}},pathContext:{slug:"/tex-holdem/",previous:{fields:{slug:"/kim-trump/"},frontmatter:{title:"Announcement between DPRK and USA"}},next:null}}}});
+//# sourceMappingURL=path---tex-holdem-0eec45c686a90236c094.js.map
