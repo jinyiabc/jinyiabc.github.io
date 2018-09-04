@@ -1,5 +1,5 @@
 ---
-title: Hello New Blog
+title: [转发]从零开始(资金管理)Chris Ferguson从$0到10K的过程
 date: "2018-08-25T23:46:37.121Z"
 
 ---
