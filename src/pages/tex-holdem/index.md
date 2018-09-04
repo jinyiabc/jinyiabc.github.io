@@ -1,7 +1,15 @@
 ---
+title: AAA
+date: "2018-04-29T13:00:00.284Z"
+---
+
+
+
+
+<!-- ---
 title: [转载]从零开始(资金管理)Chris Ferguson从$0到10K的过程
 date: "2018-09-12T23:46:37.121Z"
----
+--- -->
 
 ![profile](./profile.jpeg)
 
