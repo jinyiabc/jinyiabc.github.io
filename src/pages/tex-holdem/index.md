@@ -1,6 +1,6 @@
 ---
 title: [转载]从零开始(资金管理)Chris Ferguson从$0到10K的过程
-date: "2018-09-04T13:00:00.284Z"
+date: "2018-09-04T00:00:00.284Z"
 ---
 
 ![profile](./profile.jpeg)
