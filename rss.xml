@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Sep 2018 08:17:03 GMT</lastBuildDate><item><title><![CDATA[Hello New Blog]]></title><description><![CDATA[我在Full Tilt Poker（以下简称FTP）里面花了一年的时间做一个试验，我正试图从$0开始赚到$10,00…]]></description><link>https://jinyiabc.github.io//tex-poker/</link><guid isPermaLink="false">https://jinyiabc.github.io//tex-poker/</guid><pubDate>Sat, 25 Aug 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./profile.jpeg&quot; alt=&quot;profile&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jinyiabc.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Sep 2018 09:17:09 GMT</lastBuildDate><item><title><![CDATA[转发 Chris Ferguson从0到10K的过程]]></title><description><![CDATA[我在Full Tilt Poker（以下简称FTP）里面花了一年的时间做一个试验，我正试图从$0开始赚到$10,00…]]></description><link>https://jinyiabc.github.io//tex-poker/</link><guid isPermaLink="false">https://jinyiabc.github.io//tex-poker/</guid><pubDate>Sat, 25 Aug 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-a7643.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.77304964539007%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAEjhbRabmR//8QAHRAAAQMFAQAAAAAAAAAAAAAAAgEDBAASISMxM//aAAgBAQABBQK3XHXDjxESeMThV//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEEAwEAAAAAAAAAAAAAAAABAhExEBIicf/aAAgBAQAGPwLd1lzCnNDhfcf/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFhUaHx/9oACAEBAAE/IagqWYSZqbTXMTp69zQ8M9HElU19n//aAAwDAQACAAMAAAAQk/8A/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxDBSH//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qq6//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMVFBgaFh/9oACAEBAAE/EENRUqdK9Jrf7hBQy2kRqPr7kioAXPC37PWNXNAh1txoAsydLBF0zyz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;profile&quot;
+        title=&quot;&quot;
+        src=&quot;/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-f8fb9.jpeg&quot;
+        srcset=&quot;/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-e8976.jpeg 148w,
+/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-63df2.jpeg 295w,
+/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-f8fb9.jpeg 590w,
+/static/profile-3ff9f9cb12cf263e3b3f56e32d33435c-a7643.jpeg 705w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;我在Full Tilt Poker（以下简称FTP）里面花了一年的时间做一个试验，我正试图从$0开始赚到$10,000。从一无所有开始，我不得不开始开始玩一些免费比赛。刚开始的时候，我经常赢得一两个美元，但很快又输掉使我不得不重新开始。这花了我很长时间，但终于，我可以升级到参加那些用真钱买入的比赛了。&lt;/p&gt;
 &lt;p&gt;一直到今天，人们仍然不相信那个坐在FTP低等级桌子上的人就是我。他们经常问我在那边干嘛，然后常常告诉我他们的故事：从$5开始赚到$500或者从$100赚到$1,000。但是，他们的故事通常都以最后破产而告终。这并没有什么好奇怪的，这些家伙通过赌博的方式来迅速建立起他们的资金。他们喜欢参加那些超过他们的资金承受能力的比赛，而当他们碰巧赢了，他们又会立刻升级到更高等级的桌子并且再一次的进行冒险。必然的结果是，他们在几手牌里输光了所有的钱。&lt;/p&gt;
 &lt;p&gt;对我来说，这项试验并不仅仅关于钱。而是关于向我们大家展示，如何通过进行正确的资金管理，从零开始升级一直到可以玩一些大比赛。我知道这是完全可能的，因为我以前也曾经做到过，从$1开始赚到了$20,000。&lt;/p&gt;
