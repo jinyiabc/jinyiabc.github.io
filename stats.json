@@ -13,12 +13,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---tech-analysis": [
-      "path---tech-analysis-c78be868e7da20d2c8a2.js",
-      "path---tech-analysis-c78be868e7da20d2c8a2.js.map"
-    ],
-    "path---tex-holdem": [
-      "path---tex-holdem-0eec45c686a90236c094.js",
-      "path---tex-holdem-0eec45c686a90236c094.js.map"
+      "path---tech-analysis-c7829eab0d91ab5000a3.js",
+      "path---tech-analysis-c7829eab0d91ab5000a3.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -32,17 +28,17 @@
       "component---src-layouts-index-js-9a27956de95e82d1ae0b.js",
       "component---src-layouts-index-js-9a27956de95e82d1ae0b.js.map"
     ],
+    "path---tex-poker": [
+      "path---tex-poker-31e6a457c4c918946270.js",
+      "path---tex-poker-31e6a457c4c918946270.js.map"
+    ],
     "path---index": [
-      "path---index-6aa3b27426292507df1b.js",
-      "path---index-6aa3b27426292507df1b.js.map"
+      "path---index-3c611bb057e3b337c019.js",
+      "path---index-3c611bb057e3b337c019.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
-    ],
-    "path---tex-holdem-backup": [
-      "path---tex-holdem-backup-0bdd312c5fdf518e00ff.js",
-      "path---tex-holdem-backup-0bdd312c5fdf518e00ff.js.map"
     ],
     "commons": [
       "commons-be44d5a1eb85dcd3d233.js",
@@ -55,16 +51,16 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---kim-trump": [
-      "path---kim-trump-125cb592bdb8306d114a.js",
-      "path---kim-trump-125cb592bdb8306d114a.js.map"
+      "path---kim-trump-f54be0b199f14694845e.js",
+      "path---kim-trump-f54be0b199f14694845e.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---antihumanism": [
-      "path---antihumanism-40fa4d00a3f32c1a22ef.js",
-      "path---antihumanism-40fa4d00a3f32c1a22ef.js.map"
+      "path---antihumanism-ac0834433c36a090f330.js",
+      "path---antihumanism-ac0834433c36a090f330.js.map"
     ],
     "path---pdf-embed": [
       "path---pdf-embed-a0e39f21c11f6a62c5ab.js",
@@ -75,14 +71,10 @@
       "path---pdf-test-pdf-test-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-30c892ccd2036e96021a.js",
+      "app-9e91ba303be8e0e5371e.js",
       "build-js-styles.css",
-      "app-30c892ccd2036e96021a.js.map",
+      "app-9e91ba303be8e0e5371e.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---new-blog": [
-      "path---new-blog-d7de1fe939f22f81933f.js",
-      "path---new-blog-d7de1fe939f22f81933f.js.map"
     ],
     "component---src-pages-pdf-test-pdf-test-js": [
       "component---src-pages-pdf-test-pdf-test-js-7b8d6de56d7cb866c583.js",
